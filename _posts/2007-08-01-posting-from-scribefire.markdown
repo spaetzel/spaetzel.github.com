@@ -1,0 +1,13 @@
+--- 
+wordpress_id: 28
+title: Posting from ScribeFire
+wordpress_url: http://spaetzel.com/PermaLink,guid,628.aspx
+layout: post
+---
+I am posting from ScribeFire for the first time. This is a Firefox extension that lets you blog directly from the browser. Looks nice right now. We'll see if it works with Drupal.<br />
+        <br />
+        <br />
+        <p class="poweredbyperformancing">
+        Powered by <a href="http://scribefire.com/">ScribeFire</a>.
+        </p>
+        <img width="0" height="0" src="http://spaetzel.com/aggbug.ashx?id=628" />

@@ -1,0 +1,93 @@
+--- 
+wordpress_id: 119
+title: "YubNub: A command line for the web"
+wordpress_url: http://spaetzel.com/PermaLink,guid,516.aspx
+layout: post
+---
+This is making its way all over the blogosphere lately. <a href="http://www.yubnub.org/">YubNub</a> is
+        a new site that offers what they call a "command line for the web". There are all
+        sorts of cool things that you can do with the service and they all work like a Unix
+        command line.
+        <br />
+        <br />
+        <!--break-->
+        <br />
+        Here are some examples that I stole from their front page:<br />
+        <br />
+        <table>
+        <tbody>
+        <tr>
+        <td>
+        <br />
+        <a href="http://yubnub.org/parser/parse?command=gim+porsche+911">gim porsche 911</a>
+        <br />
+        </td>
+        <td class="hint">
+        <br />
+        Do a Google Image search for Porsche 911's.<br />
+        </td>
+        <td>
+        <br />
+        <a href="http://yubnub.org/parser/parse?command=ls">ls</a>
+        <br />
+        <br />
+        </td>
+        <td class="hint">
+        <br />
+        List all available commands.<br />
+        </td>
+        </tr>
+        <tr>
+        <td>
+        <br />
+        <a href="http://yubnub.org/parser/parse?command=random+100">random 100</a>
+        <br />
+        </td>
+        <td class="hint">
+        <br />
+        Pick a random number between 1 and 100.<br />
+        </td>
+        <td>
+        <br />
+        <a href="http://yubnub.org/parser/parse?command=create">create</a>
+        <br />
+        </td>
+        <td class="hint">
+        <br />
+        Create a new command<br />
+        <br />
+        </td>
+        </tr>
+        <tr>
+        <td>
+        <br />
+        <a href="http://yubnub.org/parser/parse?command=man+random">man random</a>
+        <br />
+        </td>
+        <td class="hint">
+        <br />
+        Display help for the "random" command.<br />
+        </td>
+        <td>
+        <br />
+        <a href="http://yubnub.org/parser/parse?command=tts+hello+there">tts hello there</a>
+        <br />
+        </td>
+        <td class="hint">
+        <br />
+        Speak "hello there"<br />
+        </td>
+        </tr>
+        </tbody>
+        </table>
+        <br />
+        <br />
+        And you can add your own commands that will be instantly available for all users of
+        YubNub. For example, I added a command, "<a href="http://yubnub.org/parser/parse?command=redune">redune</a>"
+        that does a search on redune.com, just type "<a href="http://yubnub.org/parser/parse?command=redune+yubnub">redune
+        yubnub</a>" and you'll find this post.<br />
+        <br />
+        I think this shows a lot of potential, defintely a site to watch.
+        <br />
+        <br />
+        <a href="http://www.yubnub.org/">Link</a><img width="0" height="0" src="http://spaetzel.com/aggbug.ashx?id=516" />

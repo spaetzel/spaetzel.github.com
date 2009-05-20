@@ -1,0 +1,8 @@
+--- 
+wordpress_id: 77
+title: test
+wordpress_url: http://spaetzel.com/PermaLink,guid,561.aspx
+layout: post
+---
+test<br />
+        <img width="0" height="0" src="http://spaetzel.com/aggbug.ashx?id=561" />

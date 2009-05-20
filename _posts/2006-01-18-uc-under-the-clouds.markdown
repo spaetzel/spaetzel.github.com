@@ -1,0 +1,13 @@
+--- 
+wordpress_id: 61
+title: UC under the Clouds
+wordpress_url: http://spaetzel.com/PermaLink,guid,579.aspx
+layout: post
+---
+<p>
+        <a href="http://www.flickr.com/people/redune/">redune</a> posted a photo:
+        </p>
+        <p>
+        <a href="http://www.flickr.com/photos/redune/86884980/" title="UC under the Clouds"><img src="http://static.flickr.com/6/86884980_8f1a77d310_m.jpg" width="240" height="160" alt="UC under the Clouds" style="border: 1px solid #ddd;" /></a>
+        </p>
+        <img width="0" height="0" src="http://spaetzel.com/aggbug.ashx?id=579" />

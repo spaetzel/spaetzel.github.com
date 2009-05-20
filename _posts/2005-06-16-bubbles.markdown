@@ -1,0 +1,23 @@
+--- 
+wordpress_id: 123
+title: Bubbles
+wordpress_url: http://spaetzel.com/PermaLink,guid,500.aspx
+layout: post
+---
+<a href="http://www.flickr.com/photos/redune/17636218/" title="photo sharing"><img src="http://photos14.flickr.com/17636218_fc58fe9635_m.jpg" alt="" style="border: solid 2px #000000;" /></a>
+        <br />
+        <br />
+        <br />
+        <span style="font-size: 0.9em; margin-top: 0px;"><a href="http://www.flickr.com/photos/redune/17636218/">Bubbles</a>
+        <br />
+        <br />
+        <br />
+        Originally uploaded by <a href="http://www.flickr.com/people/redune/">redune</a>.<br />
+        </span>
+        <br />
+        <br clear="all" />
+        <br />
+        <p>
+        Here is the best photo from the bubble shoot.
+        </p>
+        <img width="0" height="0" src="http://spaetzel.com/aggbug.ashx?id=500" />

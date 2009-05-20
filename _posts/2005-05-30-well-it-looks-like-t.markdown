@@ -1,0 +1,12 @@
+--- 
+wordpress_id: 175
+title: Well it looks like t
+wordpress_url: http://spaetzel.com/PermaLink,guid,277.aspx
+layout: post
+---
+Well it looks like tonight will definitely be joyful. We're having a gaming night at my place (In London now btw)<br />
+        <br />
+        Should be loaded with lots of Crimson Skies, Halo, and breaking in Xian's brand new
+        copy of Project Gotham Racing 2.<br />
+        <br />
+        Excllent!<img width="0" height="0" src="http://spaetzel.com/aggbug.ashx?id=277" />

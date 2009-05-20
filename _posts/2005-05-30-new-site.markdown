@@ -1,0 +1,14 @@
+--- 
+wordpress_id: 188
+title: New Site
+wordpress_url: http://spaetzel.com/PermaLink,guid,159.aspx
+layout: post
+---
+<a href="http://www.redune.com/photoblog">Redune: Photoblog</a>
+        <br />
+        I have set up a new way to view my POTDs. The new site displays the latest picture.
+        As well as the 5 most recent thumbnails.
+        <br />
+        <br />
+        All POTDs will be visible at both sites. So now you have the option as to how you
+        would like to view the site.<img width="0" height="0" src="http://spaetzel.com/aggbug.ashx?id=159" />

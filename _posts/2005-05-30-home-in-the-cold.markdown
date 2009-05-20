@@ -1,0 +1,12 @@
+--- 
+wordpress_id: 431
+title: Home in the Cold
+wordpress_url: http://spaetzel.com/PermaLink,guid,216.aspx
+layout: post
+---
+Boy it was cold out there today. For todays picture I decided that on the way home I would get off the bus one stop late and walk back and take pictures on the way. <br />
+        <br />
+        As always, the rest of the photos are available at this <a href="http://www.flickr.com/photos/redune/archives/date-taken/2005/01/20/">Flickr
+        Gallery</a>.<br />
+        <br />
+        This is actually a pet hospital, but it does look like a home. And boy was it cold!<img width="0" height="0" src="http://spaetzel.com/aggbug.ashx?id=216" />

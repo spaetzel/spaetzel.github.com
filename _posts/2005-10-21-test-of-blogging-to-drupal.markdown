@@ -1,0 +1,11 @@
+--- 
+wordpress_id: 93
+title: Test of Blogging to Drupal
+wordpress_url: http://spaetzel.com/PermaLink,guid,542.aspx
+layout: post
+---
+<p>
+        This is a test to see how Flock Blogs to drupal. It looks like this should work well
+        now.<a href="http://flickr.com/photos/48889116964@N01/53810320" title="undefined"><img src="http://photos27.flickr.com/53810320_2d623b8566_m.jpg" alt="Flickr Photo" /></a>
+        </p>
+        <img width="0" height="0" src="http://spaetzel.com/aggbug.ashx?id=542" />

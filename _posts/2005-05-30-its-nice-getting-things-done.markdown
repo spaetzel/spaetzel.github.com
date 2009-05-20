@@ -1,0 +1,16 @@
+--- 
+wordpress_id: 527
+title: It's nice getting things done
+wordpress_url: http://spaetzel.com/PermaLink,guid,418.aspx
+layout: post
+---
+Well I ended up staying in the computer lab last night until 3AM, I missed my last bus (11:15PM) and had to get a ride back with my friend Chris.<br />
+        Managed to make my CS307 assignment pretty much flawless. but it did mean that I ended
+        up going with far less sleep than I hoped to get. I must catch up some day soon.<br />
+        CS342 is all done now, due in 2 hours, all that is left is to put it into the locker.
+        I'll do that after class.<br />
+        Now for 340, then 350, then 342 again. All the while studying for three exams. But
+        after it all is reading week!
+        <br />
+        Life is good<br />
+        <img width="0" height="0" src="http://spaetzel.com/aggbug.ashx?id=418" />

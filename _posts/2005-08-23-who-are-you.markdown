@@ -1,0 +1,29 @@
+--- 
+wordpress_id: 98
+title: Who are you?
+wordpress_url: http://spaetzel.com/PermaLink,guid,537.aspx
+layout: post
+---
+Well I just found this list of questions over on <a href="http://imdreaminggreen.blogspot.com/2005/08/indulge-me.html">Nicki
+        's</a> blog and I thought that it would be a good way for me to get to know who my
+        readers are.
+        <br />
+        <br />
+        So here's a bunch of questions. Please answer them and post them in a comment to this
+        post. I'd love to know who all of you are.<br />
+        <br />
+        1. Who are you?<br />
+        2. Are we friends?<br />
+        3. When and how did we meet?<br />
+        4. Do you have a crush on me?<br />
+        5. Would you kiss me?<br />
+        6. Give me a nickname and explain why you picked it.<br />
+        7. Describe me in one word.<br />
+        8. What was your first impression?<br />
+        9. Do you still think that way about me now?<br />
+        10. What reminds you of me?<br />
+        11. If you could give me anything what would it be?<br />
+        12. How well do you know me?<br />
+        13. When's the last time you saw me?<br />
+        14. Ever wanted to tell me something but couldn't?<br />
+        15. Are you going to put this in your journal and see what I say about you?<img width="0" height="0" src="http://spaetzel.com/aggbug.ashx?id=537" />

@@ -1,0 +1,15 @@
+--- 
+wordpress_id: 129
+title: Real Life Counterstrike
+wordpress_url: http://spaetzel.com/PermaLink,guid,505.aspx
+layout: post
+---
+<a href="http://www.dumpalink.com/media/1118152812">This video</a> is hilarious.
+        <br />
+        <br />
+        Some guys decided to recreate Counterstrike in real life. They act just like in the
+        game. You have to have played CS to appreciate it fully, but I think anyone will enjoy
+        it.<br />
+        <br />
+        <a href="http://www.dumpalink.com/media/1118152812">Link</a> (via <a href="http://www.boingboing.net/2005/06/11/real_life_counterstr.html">Boing
+        Boing</a>)<img width="0" height="0" src="http://spaetzel.com/aggbug.ashx?id=505" />

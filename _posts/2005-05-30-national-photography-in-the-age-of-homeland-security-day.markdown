@@ -1,0 +1,23 @@
+--- 
+wordpress_id: 220
+title: National 'Photography in the Age of Homeland Security' Day
+wordpress_url: http://spaetzel.com/PermaLink,guid,213.aspx
+layout: post
+---
+I just got spammed with this:<br />
+        <br />
+        <blockquote>National 'Photography in the Age of Homeland Security' Day<br />
+        <br />
+        Tues., February 1, 2005<br />
+        <br />
+        Calling on all photographers to document sublime expression unique to the imagery<br />
+        of skyscrapers, trains, bridges, tunnels, highways, subways, buses and dams.<br />
+        <br />
+        Spread the word! <a href="http://anyonewithacamera.blogspot.com/">http://anyonewithacamera.blogspot.com/</a></blockquote>
+        <br />
+        <br />
+        It does make sense. Too bad I don't live in the USA. I'd love to test the US government's
+        paranoia by suspiciously taking photos of places that might make good terrorism targets.
+        <br />
+        <br />
+        I wonder if this will become something signifigant.<img width="0" height="0" src="http://spaetzel.com/aggbug.ashx?id=213" />

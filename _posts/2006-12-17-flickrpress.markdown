@@ -1,0 +1,17 @@
+--- 
+wordpress_id: 49
+title: Flickrpress
+wordpress_url: http://spaetzel.com/PermaLink,guid,484.aspx
+layout: post
+---
+I have created a php script entitled Flickrpress. This script will get all of the photos uploaded to <a href="http://www.flickr.com">flickr</a> by
+        a specific user in the last 24 hours. It will then post the thumbnails to a <a href="http://www.wordpress.org">Wordpress</a> blog.
+        <br />
+        <br />
+        To use the script, just download the source and place it on your web server. Then
+        set up the script file to be run daily. The full instructions are located in the source
+        file.<br />
+        <br />
+        Please add any questions or suggestions to the comments. Any feedback would be appreciated!<br />
+        <br />
+        Update: Flickrpress has been tested with Wordpress 1.2 and Wordpress 1.5<img width="0" height="0" src="http://spaetzel.com/aggbug.ashx?id=484" />

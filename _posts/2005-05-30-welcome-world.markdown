@@ -1,0 +1,12 @@
+--- 
+wordpress_id: 425
+title: Welcome world!
+wordpress_url: http://spaetzel.com/PermaLink,guid,204.aspx
+layout: post
+---
+Well it looks like my <a href="http://www.redune.com/wp/index.php?p=428">speedy reporting</a> on <a href="http://www.apple.com">Apple's</a> <a href="http://www.apple.com/macmini">Mac
+        Mini</a> and <a href="http://www.apple.com/ipodshuffle">iPod Shuffle </a>web pages
+        has caused my site to become unbearable slow due to the huge number of visitors coming
+        from sites such as <a href="http://www.technorati.com">Technorati.</a> Please bear
+        with me and the site should be back up to normal soon. Perhaps I'll use a Mac mini
+        to upgrade my server....<img width="0" height="0" src="http://spaetzel.com/aggbug.ashx?id=204" />

@@ -1,0 +1,80 @@
+--- 
+wordpress_id: 404
+title: And I'm back!
+wordpress_url: http://spaetzel.com/PermaLink,guid,162.aspx
+layout: post
+---
+I had an absolutely wonderful time with Laura-Lee this weekend. Even if most of it was spent driving.<br />
+        The trip to Sudbury wasn't too bad. Though there were a few events that kept it from
+        being perfect. First off, boarding the bus in Toronto, I was told that the bus does
+        not go to Laurentian University like the Greyhound website says it does. "No point
+        in going there in the summer" the driver told me. Maybe there's a point if someone
+        has made plans to meet someone there!
+        <br />
+        <!--more-->
+        <br />
+        But he assured me that he can let me off at a corner which is a quick walk away from
+        the University. Let me say... It wasn't quite close. More like a 1/2 hour walk, which
+        isn't fun at 11 PM when you are carrying a suitcase and in huge desire to see the
+        girl you love. I tried making use of Roger's much touted #TAXI. It doesn't work at
+        all. The stupid thing used voice recognition, and I couldn't for the best of me get
+        it to call a taxi from Sudbury. So I used 411 instead. Somehow the Operator there
+        decided that Sudbury and North Bay are the same place!<br />
+        <br />
+        Well it was wonderful once I saw her. We had so much fun hanging out. Especially had
+        a wonderful breakfast at the restaurant beneath the Sudbury Travellodge. So much great
+        food.
+        <br />
+        <br />
+        After Breakfast/Lunch (Brunch?) LL had to go write her exam. So we drove over there
+        and dropped her off. I then went to Lake Laurentian Conservation Area. That place
+        is gorgeous. And it is semi-closed during weekends so it was very quiet in there.
+        On top of the beautiful sights (Of which the pictures will soon be uploaded) I also
+        discovered that wild blueberries are now ripe. So I picked a whole lot of those. Yum!<br />
+        <br />
+        After LL's exam we headed to Val D'Or, Quebec, where her Grandparents were to be found.
+        That was the best 6 hours I have ever spent in a car. Time goes by to much faster
+        when my sweetheart is in the car with me! Even waiting 40 minutes for an accident
+        was no problem at all.
+        <br />
+        <br />
+        We arrived in Val D'Or at about 11:00 and we spent a quick time doing brief introductions
+        to her family. And then it was time for bed. We started off the morning with a huge
+        breakfast where I ended up eating 5 pieces of French Toast. Then LL's Papa took me
+        down into the mine in Val D'Or. That was so much fun. It is amazing going though that
+        place with a Man who had spent 40 years working there. He knows so much about it and
+        is so proud of what he has done. I learnt so much there, and definitely far better
+        than the others who were stuck with a teenage tour guide.<br />
+        <br />
+        After the mine LL and I spent some time hanging out with her little cousins. They
+        are really a blast. The oldest (5 years old) is so full of energy. She just keeps
+        on talking and talking, none of which I understand because she is going on in French
+        the whole time. But LL seems to know enough to keep her happy.
+        <br />
+        <br />
+        Then at 2:00 it was time to head over to St. Hubert's where we were having lunch.
+        Pretty much every one there had ribs in one sort of another. The food was excellent.
+        Especially my Chocolate Dream cake, big Yum! Of course that was fun too, I got to
+        speak with LL's family, and also to take in their general family talk. They did an
+        excellent job of making me feel at home there. It was great!<br />
+        <br />
+        Afterwards it was time for the Annual family pictures. This was a very big event,
+        which turns out to be very difficult getting all 10 of the people there all arranged.
+        Especially the very little ones who really just want to pick the pretty flowers. But
+        I think the photos turned out well and as I said before, I'll be posting many of them.<br />
+        <br />
+        Finally, after the pictures. LL and I started the 4 hour trek to Timmins. Which also
+        didn't seem very long at all. Not only did I have a great time talking with LL, but
+        the roads are gorgeous up there. So twisty and wooded. Lots of fun. The worst part
+        though, was the 50 minutes where you are within "Timmins" that city is so big that
+        you have to drive a really long ways before you are actually there. The whole time
+        wishing so much to be there already.<br />
+        <br />
+        In Timmins, LL surprised me with a "Summer Birthday" where she got me all sorts of
+        great summer gifts, that was so much of a surprise. Love really loved it! I think
+        I did a good job of thanking her for it, but here I go again, Thanks LL!<br />
+        <br />
+        And of course today, the dreaded day where I had to go home. The visit was far too
+        short. Every time I see LL, I miss her a little more. I really can't wait to see her
+        again, and am looking forward to having a nice long phone conversation with her tommorow
+        night!<img width="0" height="0" src="http://spaetzel.com/aggbug.ashx?id=162" />

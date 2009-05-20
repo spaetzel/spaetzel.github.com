@@ -1,0 +1,16 @@
+--- 
+wordpress_id: 342
+title: Google Maps
+wordpress_url: http://spaetzel.com/PermaLink,guid,225.aspx
+layout: post
+---
+<a href="http://maps.google.com/maps?q=58%20bridgeport%20rd%20e%2C%20waterloo&#038;spn=0.021820%2C0.038996">Google
+        Maps - 58 bridgeport rd e, waterloo</a>
+        <br />
+        <br />
+        Remember how I found Google Video to be scary? Well this is just outright cool.
+        <br />
+        <br />
+        Google has managed to do a truly excellent job at creating a web based mapping system.
+        It works a heck of a lot better than Mapquest.<br />
+        <img width="0" height="0" src="http://spaetzel.com/aggbug.ashx?id=225" />

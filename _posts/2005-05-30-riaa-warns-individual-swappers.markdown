@@ -1,0 +1,13 @@
+--- 
+wordpress_id: 447
+title: RIAA warns individual swappers |
+wordpress_url: http://spaetzel.com/PermaLink,guid,250.aspx
+layout: post
+---
+<a href="http://news.com.com/2100-1027_3-1019184.html">RIAA warns individual swappers
+        | CNET News.com</a>
+        <br />
+        Time to get afraid, the RIAA is coming. Looks like they think they have the authority
+        to sue anyone who shares any of their own files.
+        <br />
+        Perhaps its time to find something a little less traceable - No more Kazaa, try <a href="http://sourceforge.net/projects/dcplusplus/">DC++</a><img width="0" height="0" src="http://spaetzel.com/aggbug.ashx?id=250" />

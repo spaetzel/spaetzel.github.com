@@ -1,0 +1,14 @@
+--- 
+wordpress_id: 181
+title: "&lt;strong&gt;POTD: Snowfl"
+wordpress_url: http://spaetzel.com/PermaLink,guid,381.aspx
+layout: post
+---
+<strong>POTD: Snowflake Tree</strong>
+        <br />
+        Walking home I saw this tree perfectly coated in snow. It makes the branches look
+        like big snowflakes. Very interesting effect.<br />
+        <center><a href="http://www.redune.com/photos/Edited/Snowflake Tree_l.jpg"><img src="/spaetzel/photos/Edited/Snowflake Tree_m.jpg" border= 0></a>
+        </center>
+        <br />
+        <img width="0" height="0" src="http://spaetzel.com/aggbug.ashx?id=381" />

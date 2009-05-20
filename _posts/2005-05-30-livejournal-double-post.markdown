@@ -1,0 +1,7 @@
+--- 
+wordpress_id: 367
+title: Livejournal Double-Post
+wordpress_url: http://spaetzel.com/PermaLink,guid,86.aspx
+layout: post
+---
+Well I just found a script that lets you post to WordPress and have it automatically post to your livejournal as well. This is a test post to see if it works.<img width="0" height="0" src="http://spaetzel.com/aggbug.ashx?id=86" />

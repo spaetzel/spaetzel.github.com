@@ -1,0 +1,16 @@
+--- 
+wordpress_id: 432
+title: Back Up
+wordpress_url: http://spaetzel.com/PermaLink,guid,218.aspx
+layout: post
+---
+So, yesterday morning I arose to find out that the Internet was not working correctly in my apartment. This was a touch upsetting, but I blamed it on Rogers (My ISP). Turns out that it was actually a problem with my <a href="http://www.smoothwall.org">Smoothwall</a> firewall.
+        I have replaced the firewall with a generic D-Link router, and it turns out that this
+        little thing does pretty much everything that I need.<br />
+        <br />
+        I still do want to give <a href="http://m0n0.ch/wall/">m0n0wall</a> a try though.
+        It looks very cool, but I think I'll have to replace some hardware from my old beater
+        first. We'll see.
+        <br />
+        <br />
+        Please let me know if you find any problems with my site.<img width="0" height="0" src="http://spaetzel.com/aggbug.ashx?id=218" />

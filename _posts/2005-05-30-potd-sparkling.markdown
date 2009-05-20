@@ -1,0 +1,15 @@
+--- 
+wordpress_id: 545
+title: "POTD: Sparkling"
+wordpress_url: http://spaetzel.com/PermaLink,guid,462.aspx
+layout: post
+---
+I'll leave the interpretation of this photo up to you. Some of you will understand, others will have to imagine...<br />
+        <br />
+        I'll let you know this though. Easy-Off Microwave wipes are essentially worthless.
+        Putting a mug of water in the middle of a microwave for ten minutes works much much
+        better.<br />
+        <br />
+        <center><a href="http://www.redune.com/photos/Edited/Sparkling_l.jpg"><img src="http://www.redune.com/photos/Edited/Sparkling_m.jpg" border= 0></a>
+        </center>
+        <img width="0" height="0" src="http://spaetzel.com/aggbug.ashx?id=462" />

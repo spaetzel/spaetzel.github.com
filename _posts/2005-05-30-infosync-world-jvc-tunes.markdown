@@ -1,0 +1,13 @@
+--- 
+wordpress_id: 449
+title: "infoSync World : JVC tunes"
+wordpress_url: http://spaetzel.com/PermaLink,guid,254.aspx
+layout: post
+---
+<a href="http://www.infosyncworld.com/news/n/3723.html">infoSync World : JVC tunes
+        in with audio, video geared Pocket PCs</a>
+        <br />
+        The Ultimate PDA! JVC is launching a Palm Sized PC which is more than capable of playing
+        both Ogg Vorbis and Divx movies.<br />
+        Not that I can really see the advantage of watching a movie on a 3"x3" screen - but
+        hey, phenomenal nerd factor at least.<img width="0" height="0" src="http://spaetzel.com/aggbug.ashx?id=254" />

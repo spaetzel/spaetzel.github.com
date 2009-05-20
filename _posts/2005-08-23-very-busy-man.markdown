@@ -1,0 +1,50 @@
+--- 
+wordpress_id: 99
+title: Very Busy Man
+wordpress_url: http://spaetzel.com/PermaLink,guid,536.aspx
+layout: post
+---
+<a href="http://www.flickr.com/photos/redune/36386269/" title="photo sharing"><img src="http://photos25.flickr.com/36386269_7b0437f958_m.jpg" alt="" style="border: solid 2px #000000;" /></a>
+        <br />
+        <br />
+        <br />
+        <span style="font-size: 0.9em; margin-top: 0px;"><a href="http://www.flickr.com/photos/redune/36386269/">Rusty
+        Ring</a>
+        <br />
+        <br />
+        <br />
+        Originally uploaded by <a href="http://www.flickr.com/people/redune/">redune</a>.<br />
+        </span>
+        <br />
+        <br clear="all" />
+        <br />
+        <p>
+        The last few days I have been packing away getting ready to move to London on Saturday.
+        I've barely had enough time to stop and relax. The only time that I'm not doing something
+        productive is when I'm having my evening chat with Laura-Lee. I sure enjoy that and
+        look forward to our talk tonight.<br />
+        <br />
+        <br />
+        <br />
+        Last night I headed to Mount Hope Cemetery in Kitchener for my second photoroam with
+        a bunch of local Flickr users. It was enjoyable and I got a lot of photos. As <a href="http://opal.sio2.ca/archives/2005/08/photoroam_angel.php">Opal
+        Posted</a> the mood was quite different this time from the last. The people weren't
+        quite as crazy.
+        <br />
+        <br />
+        <br />
+        <br />
+        Hopefully, I'll be able to edit and post my photos soon. But I've been so busy with
+        packing that I haven't had nearly enough time. And this thursday, I'll be headed to
+        downtown Waterloo with the Photoroamers again to document the Waterloo Busker festival.<br />
+        <br />
+        <br />
+        <br />
+        At work today I managed to finish the script that I'd been working on for the last
+        few days. I am quite proud of how well it works especially considering how little
+        time it took me. It allows you to upload a Maple worksheet to <a href="http://beta.mapleprimes.com">MaplePrimes</a> and
+        it spits back an HTML version of the worksheet. So you can then post the HTML anywhere
+        in MaplePrimes. It is pretty cool, <a href="http://beta.mapleprimes.com/about/posting/worksheeet">check
+        it out.</a>
+        </p>
+        <img width="0" height="0" src="http://spaetzel.com/aggbug.ashx?id=536" />

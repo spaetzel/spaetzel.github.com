@@ -1,0 +1,25 @@
+--- 
+wordpress_id: 94
+title: Shooting OWeek
+wordpress_url: http://spaetzel.com/PermaLink,guid,541.aspx
+layout: post
+---
+<a href="http://www.flickr.com/photos/redune/41205244/" title="photo sharing"><img src="http://static.flickr.com/32/41205244_ccbcf3b42f_m.jpg" alt="" style="border: solid 2px #000000;" /></a>
+        <br />
+        <br />
+        <br />
+        <span style="font-size: 0.9em; margin-top: 0px;"><a href="http://www.flickr.com/photos/redune/41205244/">With
+        their Leader</a>
+        <br />
+        <br />
+        <br />
+        Originally uploaded by <a href="http://www.flickr.com/people/redune/">redune</a>.<br />
+        </span>
+        <br />
+        <br clear="all" />
+        <br />
+        <p>
+        So I headed over to campus today to take some photos of the Oweek shenanigans. I managed
+        to get a bunch of nice photos. You can check them all out with my <a href="http://flickr.com/photos/redune/tags/westernoweek05">westernoweek05</a> tag.
+        </p>
+        <img width="0" height="0" src="http://spaetzel.com/aggbug.ashx?id=541" />

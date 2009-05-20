@@ -1,0 +1,17 @@
+--- 
+wordpress_id: 154
+title: Asense is funny
+wordpress_url: http://spaetzel.com/PermaLink,guid,101.aspx
+layout: post
+---
+Notice the ads over on the right?<br />
+        When I look they are ads for buying Maple. (Remember where I work). Google is smart...
+        Much better ads than the random weblog ads I had before, although I just don't think
+        any of my visitors are likely to want to buy a copy of "Maplesoft 9" (P.s. it's Maple
+        9, and 9.5 is out now....)<br />
+        <br />
+        Work is interesting. Though I get the feeling I'm not quite earning my pay yet. Though
+        it is only the 2nd week, I'm sure they'll eventually get me doing useful stuff.<br />
+        <br />
+        Although spending the afternoon making a simple Maplet all fancy and doing some IM
+        over e-mail is fun too...<img width="0" height="0" src="http://spaetzel.com/aggbug.ashx?id=101" />

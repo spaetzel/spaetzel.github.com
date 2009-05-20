@@ -1,0 +1,15 @@
+--- 
+wordpress_id: 219
+title: Google Video
+wordpress_url: http://spaetzel.com/PermaLink,guid,217.aspx
+layout: post
+---
+<a href="http://video.google.com">Google Video</a>
+        <br />
+        <br />
+        So it looks like Google is really moving towards controlling all of the world's information.
+        They just launched a new site that lets you search TV shows. It works by searching
+        the closed captioning information.<br />
+        <br />
+        Very cool, but Google is starting to creep me out. Maybe Googlezon and <a href="http://www.broom.org/epic/">EPIC
+        are coming sooner than we'd like to think.</a><img width="0" height="0" src="http://spaetzel.com/aggbug.ashx?id=217" />

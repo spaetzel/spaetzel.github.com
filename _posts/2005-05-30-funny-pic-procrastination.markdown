@@ -1,0 +1,11 @@
+--- 
+wordpress_id: 491
+title: "Funny Pic: Procrastination"
+wordpress_url: http://spaetzel.com/PermaLink,guid,344.aspx
+layout: post
+---
+<br />
+        If only....<br />
+        <center><a href="http://www.redune.com/funnypics/menu.jpg"><img src="http://www.redune.com/funnypics/menu_m.jpg" border= 0></a>
+        </center>
+        <img width="0" height="0" src="http://spaetzel.com/aggbug.ashx?id=344" />

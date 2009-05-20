@@ -1,0 +1,26 @@
+--- 
+wordpress_id: 41
+title: Subscribe via E-mail
+wordpress_url: http://spaetzel.com/PermaLink,guid,605.aspx
+layout: post
+---
+You can now subscribe to updates of Spaetzel.com by entering your e-mail address below. You will recieve one e-mail a day that contains all of the updates that I have made to the site during the previous day. This includes my latest blog posts, status updates and photos uploaded to Flickr.<br />
+        <br />
+        This is the best way to make sure that you are always updated to what is happening
+        here.<br />
+        <br />
+        <form style="border:1px solid #ccc;padding:3px;text-align:center;" action="http://www.feedburner.com/fb/a/emailverify" method="post" target="popupwindow" onsubmit="window.open('http://www.feedburner.com', 'popupwindow', 'scrollbars=yes,width=550,height=520');return true">
+        <p>
+        Enter your email address:
+        </p>
+        <p>
+        <input type="text" style="width:140px" name="email" />
+        </p>
+        <input type="hidden" value="http://feeds.feedburner.com/~e?ffid=612930" name="url" />
+        <input type="hidden" value="Spaetzel.com" name="title" />
+        <input type="submit" value="Subscribe" />
+        <p>
+        Delivered by <a href="http://www.feedburner.com/" target="_blank">FeedBurner</a>
+        </p>
+        </form>
+        <img width="0" height="0" src="http://spaetzel.com/aggbug.ashx?id=605" />

@@ -1,0 +1,10 @@
+--- 
+wordpress_id: 304
+title: Almost Perfect
+wordpress_url: http://spaetzel.com/PermaLink,guid,157.aspx
+layout: post
+---
+So, today's photo walk was quite successful. Took lots of nice pictures. I even jumped over a personal hurdle of mine. It was a toss up between several shots which one I would post as my POTD. This one won out. And if you want to find these flowers, they are on Cooper St. near University in Waterloo.<br />
+        Please make sure you click on the photo to see the full size version. This is the
+        first example of a photo that I couldn't really crop properly to work in the new 600x400
+        format.<img width="0" height="0" src="http://spaetzel.com/aggbug.ashx?id=157" />

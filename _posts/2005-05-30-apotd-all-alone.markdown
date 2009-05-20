@@ -1,0 +1,13 @@
+--- 
+wordpress_id: 492
+title: "APOTD: All Alone"
+wordpress_url: http://spaetzel.com/PermaLink,guid,346.aspx
+layout: post
+---
+<br />
+        Procrastinating some more, want to show off this pic I took back in the summer. This
+        was one of the first photos I took with my digital camera, enjoy<br />
+        <center><a href="http://www.redune.com/photos/Edited/All Alone.jpg"><img src="/spaetzel/photos/Edited/All Alone_m.jpg" border= 0></a>
+        </center>
+        <br />
+        You can look at the rest of the photos that I took that day <a href="http://www.redune.com/gallery/gallery.aspx?gallery=2003_07_05 - colpoy's bay hike">here</a><img width="0" height="0" src="http://spaetzel.com/aggbug.ashx?id=346" />

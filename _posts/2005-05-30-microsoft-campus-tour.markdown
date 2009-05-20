@@ -1,0 +1,11 @@
+--- 
+wordpress_id: 151
+title: Microsoft Campus Tour
+wordpress_url: http://spaetzel.com/PermaLink,guid,75.aspx
+layout: post
+---
+<a href="http://www.dylangreene.com/browse.asp?albumID=409&page=1">Dylan Greene dot
+        com - Photos: Microsoft Campus Tour</a>
+        <br />
+        Check out this weblog post. A microsoft employee has taken tons of pictures from all
+        over the MSFT campus. I had no idea that the place was so large!<img width="0" height="0" src="http://spaetzel.com/aggbug.ashx?id=75" />

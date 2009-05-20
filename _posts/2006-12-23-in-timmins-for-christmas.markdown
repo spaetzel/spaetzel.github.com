@@ -1,0 +1,33 @@
+--- 
+wordpress_id: 45
+title: In Timmins for Christmas
+wordpress_url: http://spaetzel.com/PermaLink,guid,604.aspx
+layout: post
+---
+So I just spent pretty much all day yesterday (Which also happened to be my birthday) sitting on a train on my way to Timmins. I was off to go and meet up with Laura-Lee who had headed there on Tuesday.<br />
+        <br />
+        You may ask, "Why didn't you drive?". Well, the answer is because I didn't want to
+        drive 12 hours there and back by myself in what could end up being some terrible winter
+        weather. I think it is pretty hard for a blizzard to mess with a train, so I firuged
+        that would be a safe way to go.
+        <br />
+        <br />
+        And these days, the train to Timmins is actually cheaper than taking the bus, so definitely
+        no complains there. The train is so comfortable compared to the bus. I took a seat
+        that was facing another set of seats, so I had lots of room to stretch my legs out.
+        The train even has power plugs, so I was able to plug my laptop on and use it as long
+        as I pleased. I'm definitely going to download a bunch of movies to my computer and
+        watch them on the way home.
+        <br />
+        <br />
+        I arrived in Timmins about two hours late. The Firlottes suprised me by waiting to
+        have supper until I arrived. They had made rouladin and spaetzle. A great birthday
+        dinner. Laura-Lee even made me a tasty cake. It was all very good. Finally, I was
+        given an unmarked golden box to open. (Golden wrapping paper, the box wasn't made
+        out of gold). I opened it and found a nice pair of extra comfy PJs (which I am wearing
+        now). I'm pretty sure that there was a little elf (Laura-Lee) that suggested them
+        for me.
+        <br />
+        <br />
+        I think that today will be a day of shopping and relaxing. Then we're off to experience
+        the Firlotte christmas. I am looking forward to the experience.<img width="0" height="0" src="http://spaetzel.com/aggbug.ashx?id=604" />

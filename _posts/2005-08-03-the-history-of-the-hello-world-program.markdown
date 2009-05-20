@@ -1,0 +1,10 @@
+--- 
+wordpress_id: 104
+title: The history of the "Hello World!" program
+wordpress_url: http://spaetzel.com/PermaLink,guid,531.aspx
+layout: post
+---
+This wikipedia article about "Hello World!" contains some information on when the phrase was first used in relation to programming.  Also included are sample "Hello World!" snippets from many languages.<br />
+        <br />
+        <a href="http://en.wikipedia.org/wiki/Hello_world">read more</a>&nbsp;|&nbsp;<a href="http://digg.com/programming/The_history_of_the_Hello_World_program">digg
+        story</a><img width="0" height="0" src="http://spaetzel.com/aggbug.ashx?id=531" />

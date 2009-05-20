@@ -1,0 +1,144 @@
+--- 
+wordpress_id: 91
+title: Inserting your Xbox Gamercard Using PHP
+wordpress_url: http://spaetzel.com/PermaLink,guid,545.aspx
+layout: post
+---
+<a href="http://xbox.com">Xbox.com</a> just released the ability to <a href="http://live.xbox.com/en-US/profile/profile.aspx">create
+        and view</a> your Xbox 360 gamercard online. The gamercard shows a bunch of statistics
+        and information from your gameplay with an Xbox 360. They also let you <a href="http://www.xbox.com/en-US/MyXbox/embedgamercard.htm">post
+        the gamercard</a> on your weblog using an IFRAME.<br />
+        <br />
+        I wanted to include the gamercard on my weblog, but can't stand IFRAMES so I created
+        this simple PHP function that takes the gamercard and formats it so that you can insert
+        it into your website anywhere you can add PHP code.<br />
+        <br />
+        You can see the result of the function at the top left of this webpage.<br />
+        <br />
+        The function is after the break<br />
+        <!--break-->
+        <br />
+        Here is the function:<br />
+        <br />
+        <code>
+        <br />
+        function insertGamerCard()<br />
+        {<br />
+        $handle = fopen("http://gamercard.xbox.com/YOURGAMERTAG.card", "rb");<br />
+        $contents = '';<br />
+        while (!feof($handle)) {<br />
+        $contents .= fread($handle, 8192);<br />
+        }<br />
+        fclose($handle);<br />
+        <br />
+        $pattern = '/<body><[^&lt;]*)*&lt;\/body&gt;/';<br />([^&lt;]*
+        <br />
+        preg_match( $pattern, $contents, $matches );<br />
+        <br />
+        $contents = $matches[0];<br />
+        <br />
+        $contents = preg_replace( Array( "/&lt;body&gt;/", "/&lt;\/body&gt;/" ), Array("",""),
+        $contents );<br />
+        <br />
+        $contents = preg_replace( "/\"\//", "\"http://gamercard.xbox.com/", $contents );<br />
+        <br />
+        return "&lt;div class=\"gamercard\"&gt;\n\t". $contents. "\n&lt;/div&gt;\n";<br />
+        }<br />
+        </code>
+        <br />
+        <br />
+        You will also need to add the following CSS to your blog's .css file:<br />
+        <br />
+        .XbcgcStats
+        <br />
+        {<br />
+        width:124px;<br />
+        float:left;<br />
+        position: relative;<br />
+        left: 80px;<br />
+        top: -80px;<br />
+        <br />
+        }<br />
+        <br />
+        .XbcgcStats p
+        <br />
+        {<br />
+        display:block;<br />
+        font-size:10px;<br />
+        margin:3px 0 3px 0;<br />
+        padding:0px 5px 0px 5px;<br />
+        border-bottom:1px solid #898989;<br />
+        height:15px;<br />
+        }<br />
+        .XbcgcGamertile<br />
+        {<br />
+        <br />
+        <br />
+        <br />
+        border:1px solid #AEAEAE;<br />
+        }<br />
+        <br />
+        .XbcgcGames
+        <br />
+        {<br />
+        height:40px;<br />
+        line-height:0px;<br />
+        font-size:10px;<br />
+        margin:0 0 0 1px;<br />
+        font-size:10px;<br />
+        }<br />
+        <br />
+        .XbcgcGames img
+        <br />
+        {<br />
+        margin:2px 0 0 6px;<br />
+        border:0px;<br />
+        }<br />
+        .XbcFLAL
+        <br />
+        {<br />
+        <br />
+        }<br />
+        <br />
+        .XbcFRAR
+        <br />
+        {<br />
+        position: relative;<br />
+        top: -12px;<br />
+        float:right;<br />
+        text-align:right;<br />
+        <br />
+        }<br />
+        <br />
+        .XbcgcInfo
+        <br />
+        {<br />
+        <br />
+        margin:0;width:197px;<br />
+        height:79px;<br />
+        font-size:10px;<br />
+        }<br />
+        .XbcgcContainer div.Xbcgc, .XbcgcContainer h3, .XbcgcContainer .XbcgcInfo<br />
+        {<br />
+        <br />
+        <br />
+        }<br />
+        .XbcgcContainer01 div.Xbcgc, .XbcgcContainer01 h3, .XbcgcContainer01 .XbcgcInfo<br />
+        {<br />
+        <br />
+        }<br />
+        <br />
+        .gamercard{<br />
+        padding-top: 0px;<br />
+        margin: 0px;<br />
+        height: 140px;<br />
+        width: 198px;<br />
+        background-position:0px -18px;<br />
+        }<br />
+        >
+        <br />
+        <br />
+        You will likely need to tweak the CSS to have it work well on your site.<br />
+        <br />
+        If you have any problems installing this code, or if you make use of it. Pleae leave
+        a link in the commments. I'd love to see what is being done with it.<img width="0" height="0" src="http://spaetzel.com/aggbug.ashx?id=545" />

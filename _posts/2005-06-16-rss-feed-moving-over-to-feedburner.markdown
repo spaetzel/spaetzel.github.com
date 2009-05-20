@@ -1,0 +1,18 @@
+--- 
+wordpress_id: 121
+title: RSS feed moving over to Feedburner
+wordpress_url: http://spaetzel.com/PermaLink,guid,513.aspx
+layout: post
+---
+Today I moved the RSS feed of Redune over to Feedburner, this is to allow a bunch of new functionality including enhanced statistics. <br />
+        <br />
+        The new feed URL is <a href="http://feeds.feedburner.com/redune">http://feeds.feedburner.com/redune</a>.<br />
+        <br />
+        No worries to all of you subscribing already, I have set the feed up so that your
+        News reader will automatically find the new feed. I am just posting to get the word
+        out.
+        <br />
+        <br />
+        <br />
+        <a href="http://feeds.feedburner.com/redune">Link</a>.<br />
+        <img width="0" height="0" src="http://spaetzel.com/aggbug.ashx?id=513" />

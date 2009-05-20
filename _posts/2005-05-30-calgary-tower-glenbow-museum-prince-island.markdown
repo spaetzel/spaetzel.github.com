@@ -1,0 +1,10 @@
+--- 
+wordpress_id: 332
+title: Calgary Tower, Glenbow Museum, Prince Island
+wordpress_url: http://spaetzel.com/PermaLink,guid,62.aspx
+layout: post
+---
+These are pictures from our second day in Alberta.<br />
+        First off are photos taken from the top of the Calgary tower.<br />
+        Next are pictures from the Glenbow museum.<br />
+        Finally there are a bunch of pictures from our walk though the city of Calgary.<img width="0" height="0" src="http://spaetzel.com/aggbug.ashx?id=62" />

@@ -1,0 +1,15 @@
+--- 
+wordpress_id: 14
+title: Flock 1.1 First Impressions
+wordpress_url: http://spaetzel.com/PermaLink,guid,17420fcf-a1fd-42dc-952e-ac8d64a248bd.aspx
+layout: post
+---
+I just downloaded the new <a href="http://www.flock.com/node/61210">Flock 1.1 Beta</a> and
+        thus far it looks pretty good. In the past, every time that I install Flock, I find
+        that the browser is horribly slow, making it unrealistic to use as my everyday browser.
+        But this time, it looks like they got it right. It doesn't seem to be any slower than
+        Firefox. Now, I think the only complaint I have is that the People bar listing for
+        Twitter is pretty much useless because it doesn't update often enough, and people's
+        tweets are cut off, so I have to go to Twitter.com to see the whole post. I'll post
+        more detailed impressions shortly.<br />
+        <img width="0" height="0" src="http://spaetzel.com/aggbug.ashx?id=17420fcf-a1fd-42dc-952e-ac8d64a248bd" />

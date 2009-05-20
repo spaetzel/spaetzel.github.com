@@ -1,0 +1,23 @@
+--- 
+wordpress_id: 142
+title: No Cars
+wordpress_url: http://spaetzel.com/PermaLink,guid,489.aspx
+layout: post
+---
+<a href="http://www.flickr.com/photos/redune/16142755/" title="photo sharing"><img src="http://photos9.flickr.com/16142755_b8ddc22957_m.jpg" alt="" style="border: solid 2px #000000;" /></a>
+        <br />
+        <br />
+        <br />
+        <span style="font-size: 0.9em; margin-top: 0px;"><a href="http://www.flickr.com/photos/redune/16142755/">No
+        Cars</a>
+        <br />
+        <br />
+        <br />
+        Originally uploaded by <a href="http://www.flickr.com/people/redune/">redune</a>.<br />
+        </span>
+        <br />
+        <br clear="all" />
+        <br />
+        <p>
+        </p>
+        <img width="0" height="0" src="http://spaetzel.com/aggbug.ashx?id=489" />

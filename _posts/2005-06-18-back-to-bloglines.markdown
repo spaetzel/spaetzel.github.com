@@ -1,0 +1,27 @@
+--- 
+wordpress_id: 117
+title: Back to Bloglines
+wordpress_url: http://spaetzel.com/PermaLink,guid,518.aspx
+layout: post
+---
+Well it didn't take <a href="http://redune.com/node/515">long</a>. But I've given
+        up on <a href="http://newsgator.com/home.aspx">Newsgator</a>. There may have been
+        some advantages to it, but Bloglines just is much nicer. The biggest thing is fact
+        that in Newsgator to simply unsubscribe from a blog you can't just click on the feed
+        in your subscription list and choose unsubscribe (like in Bloglines). You have to
+        go to the seperate "Newsgator Manager" in order to make any changes. It doesn't sound
+        like a big thing, but is shows the general way of doing things there that is messed
+        up.<br />
+        <br />
+        I've just gotten so used to Bloglines that it is so natural to me.
+        <br />
+        <br />
+        Also, I have a big suspicion that Newsgator wasn't catching all updates. For example,
+        the RSS feed for my <a href="http://flickr.com/photos/friends/">Flickr contacts</a> wasn't
+        showing nearly all of the photos that have been posted. I am not sure what the reason
+        is, but I was missing posts.
+        <br />
+        <br />
+        So I'm back to Bloglines, we'll see how this goes.<br />
+        <br />
+        <a href="http://bloglines.com">Link</a><img width="0" height="0" src="http://spaetzel.com/aggbug.ashx?id=518" />

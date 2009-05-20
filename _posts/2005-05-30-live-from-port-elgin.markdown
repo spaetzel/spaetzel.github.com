@@ -1,0 +1,12 @@
+--- 
+wordpress_id: 301
+title: Live from Port Elgin
+wordpress_url: http://spaetzel.com/PermaLink,guid,105.aspx
+layout: post
+---
+Well I just got to Port Elgin, wanted to surprise the family. Guess it didn't turn out quite as intended, they are all in Owen Sound. Won't be back till 10 or so.<br />
+        <br />
+        I guess it just means that I'll get a chance to peruse our family's DVD collection.
+        The Last Samurai looks rather tempting....<br />
+        <br />
+        I'll let you know how it all went tommorow.<img width="0" height="0" src="http://spaetzel.com/aggbug.ashx?id=105" />

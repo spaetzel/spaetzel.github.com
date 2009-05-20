@@ -1,0 +1,12 @@
+--- 
+wordpress_id: 395
+title: I, Robot
+wordpress_url: http://spaetzel.com/PermaLink,guid,144.aspx
+layout: post
+---
+Now that's a great movie!<br />
+        Just got back from seeing it with Pete. I can't recommend it enough. So much fun,
+        great effects, and kept us wondering what was happening right to the end.<br />
+        And it stayed far truer to Asimov's work than I thought it would.
+        <br />
+        Can't wait for the DVD!<img width="0" height="0" src="http://spaetzel.com/aggbug.ashx?id=144" />

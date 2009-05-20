@@ -1,0 +1,15 @@
+--- 
+wordpress_id: 363
+title: Even more bizzare
+wordpress_url: http://spaetzel.com/PermaLink,guid,78.aspx
+layout: post
+---
+Another challenge... What does this look like to you?<br />
+        <br />
+        <center><a href="../photos/Edited/Butt_l.jpg"><img src="../photos/Edited/Butt_m.jpg" border= 0></a>
+        </center>
+        <br />
+        <br />
+        <br />
+        After you are grossed out, look at <a href="http://www.xenophilia.com/fingertrick1.htm">this
+        link</a><img width="0" height="0" src="http://spaetzel.com/aggbug.ashx?id=78" />

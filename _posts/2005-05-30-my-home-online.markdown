@@ -1,0 +1,10 @@
+--- 
+wordpress_id: 264
+title: My home - online
+wordpress_url: http://spaetzel.com/PermaLink,guid,447.aspx
+layout: post
+---
+<a title="More Photos and Details" href="http://www.homesalesunlimited.com/Denlaw21.htm">Click
+        here</a> To check out the real estate listing for my house. Ind of odd having the
+        house up for sale. What I'm waiting to see is how many people are going to be coming
+        to take a look in it. I.e. Getting in the way.<img width="0" height="0" src="http://spaetzel.com/aggbug.ashx?id=447" />

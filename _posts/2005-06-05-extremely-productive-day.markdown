@@ -1,0 +1,32 @@
+--- 
+wordpress_id: 133
+title: Extremely Productive Day
+wordpress_url: http://spaetzel.com/PermaLink,guid,501.aspx
+layout: post
+---
+Well today was quite a productive day. I did so many useful things and the day isn't even done yet.<br />
+        <br />
+        It started off with me managing to sleep in. Which seems to be a rare occurance these
+        days. I seem to wake up on my own around 8:00, yet today I slept until 10:30.<br />
+        <br />
+        I then took my sweet old time getting all ready for the day. I finally got out of
+        the shower at 12:30. First thing on my list was laundry. So I started that. Then I
+        went back up to my apartment and filled up a shopping cart full of recycling. I took
+        that downstairs and moved my laundry over to the dryer.<br />
+        <br />
+        After the laundry was all done, I went outside and <a href="http://redune.com/node/499">took</a> some <a href="http://redune.com/node/500">photos</a> of
+        bubbles.<br />
+        <br />
+        I then came up and cleaned the bathroom and my bedroom. I finally filed away all of
+        the mail that has been piling up for months.
+        <br />
+        <br />
+        So now my apartment is spiffy clean and I've got some nice photos to share.<br />
+        <br />
+        This evening I'll have a nice bowl of rice and watch <a href="http://www.startrek.com/">Enterprise</a> and
+        then play some nice <a href="http://jade.bioware.com">Jade Empire</a>.
+        <br />
+        <br />
+        I then look forward to a nice long phone call with a certain <a href="http://laura-lee.org">girl</a>.
+        <br />
+        <img width="0" height="0" src="http://spaetzel.com/aggbug.ashx?id=501" />

@@ -1,0 +1,10 @@
+--- 
+wordpress_id: 385
+title: iPod Pirate Radio
+wordpress_url: http://spaetzel.com/PermaLink,guid,122.aspx
+layout: post
+---
+<a href="http://www.engadget.com/entry/3597373383872462/">Check this out</a>
+        <br />
+        It is a hilarious description of the nasty/fun things you can do with the FM transmitter
+        for the iPod mini <img width="0" height="0" src="http://spaetzel.com/aggbug.ashx?id=122" />

@@ -1,0 +1,14 @@
+--- 
+wordpress_id: 453
+title: MELTDOWN 2003Time to pack your
+wordpress_url: http://spaetzel.com/PermaLink,guid,262.aspx
+layout: post
+---
+<a href="http://www.microsoft.com/corpevents/meltdown2003/">MELTDOWN 2003</a>
+        <br />
+        Time to pack your bags and head to Seattle. Microsoft has started registration for
+        Meltdown 2003, a two day training seminar on DirectX 9.
+        <br />
+        And absolute must for any Windows game developer.
+        <br />
+        I'll be there! (In spirit at least)<img width="0" height="0" src="http://spaetzel.com/aggbug.ashx?id=262" />

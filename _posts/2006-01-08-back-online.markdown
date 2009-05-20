@@ -1,0 +1,12 @@
+--- 
+wordpress_id: 74
+title: Back online
+wordpress_url: http://spaetzel.com/PermaLink,guid,564.aspx
+layout: post
+---
+So Redune.com went down while I was in Port Elgin, and I had no way of ressurecting it until I got back to London. <br />
+        <br />
+        Everything is back to normal now. Enjoy the site!<br />
+        <br />
+        I've got to go enjoy some time with LL while I've got the chance. I'll post a good
+        entry later.<img width="0" height="0" src="http://spaetzel.com/aggbug.ashx?id=564" />

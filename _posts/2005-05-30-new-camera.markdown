@@ -1,0 +1,7 @@
+--- 
+wordpress_id: 354
+title: New Camera
+wordpress_url: http://spaetzel.com/PermaLink,guid,58.aspx
+layout: post
+---
+The first photos I ever took with my digital camera<img width="0" height="0" src="http://spaetzel.com/aggbug.ashx?id=58" />

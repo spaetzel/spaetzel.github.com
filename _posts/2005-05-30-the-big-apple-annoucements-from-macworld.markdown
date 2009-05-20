@@ -1,0 +1,21 @@
+--- 
+wordpress_id: 183
+title: The Big Apple annoucements from MacWorld
+wordpress_url: http://spaetzel.com/PermaLink,guid,203.aspx
+layout: post
+---
+<a href="http://www.apple.com/macmini/">Mac mini</a>
+        <br />
+        <a href="http://www.apple.com/ipodshuffle/">iPod Shuffle</a>
+        <br />
+        <br />
+        Steve Jobs just announced these two products a few minutes ago. Here are the links
+        to the offical product pages at apple.com.<br />
+        <br />
+        The Mac mini is very tempting, a Macintosh that costs less than $1000, actually it
+        is $500, that is quite doable, I'll have to wait and see the reviews.
+        <br />
+        <br />
+        The iPod shuffle is an interesting idea, but I do already have a full blown iPod,
+        so going for a tiny flash based iPod with no screen doesn't seem too useful. I'd like
+        to play with it, but it doesn't do it for me.<img width="0" height="0" src="http://spaetzel.com/aggbug.ashx?id=203" />

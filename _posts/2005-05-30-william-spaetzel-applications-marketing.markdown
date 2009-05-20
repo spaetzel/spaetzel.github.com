@@ -1,0 +1,16 @@
+--- 
+wordpress_id: 212
+title: "William Spaetzel: Applications Marketing"
+wordpress_url: http://spaetzel.com/PermaLink,guid,97.aspx
+layout: post
+---
+So, my first day at Maplesoft was enjoyable. Spendt the day doing training, basically goofing off with Maple, seeing what I can do.<br />
+        Things look like they'll be quite good. Great atmosphere there, flexable hours (which
+        I'm already taking advantage of), and I get paid to code!<br />
+        <br />
+        Its quite different being in a corporate enviroment. I've gotten so used to the Home
+        Hardware enviroment of about 15 people, quite different being in a workplace with
+        100 people. Goign to take a long time to remember everybody's names.<br />
+        <br />
+        I meant to post pictures of my neatened up room today, but the batteries for my camera
+        are dead... They'll be up tommorow, I promise.<img width="0" height="0" src="http://spaetzel.com/aggbug.ashx?id=97" />

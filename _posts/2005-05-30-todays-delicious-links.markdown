@@ -1,0 +1,32 @@
+--- 
+wordpress_id: 555
+title: Today's Del.icio.us links
+wordpress_url: http://spaetzel.com/PermaLink,guid,482.aspx
+layout: post
+---
+Shared bookmarks for <a href="http://del.icio.us/">del.icio.us</a> user <a href="http://del.icio.us/redune"> William
+        Spaetzel</a> on 2005-02-11
+        <ul>
+        <li>
+        <a href="http://nozell.com/blog/archives/2004/09/17/yet-another-dailydelicious-hack-for-wordpress/" title="http://nozell.com/blog/archives/2004/09/17/yet-another-dailydelicious-hack-for-wordpress/">Marc
+        Nozell's mini-blog Â» Yet Another DailyDelicious hack for WordPress</a>: Keywords: <a href="http://del.icio.us/redune/daily">daily</a>, <a href="http://del.icio.us/redune/del.icio.us">del.icio.us</a>, <a href="http://del.icio.us/redune/plugin">plugin</a>, <a href="http://del.icio.us/redune/wordpress">wordpress</a>
+        </li>
+        <li>
+        <a href="http://www.dot-totally.co.uk/archives/2004/08/19/daily-delicious/" title="http://www.dot-totally.co.uk/archives/2004/08/19/daily-delicious/">dot-totally.co.uk
+        Â» Blog Archive Â» Daily del.icio.us</a>: Keywords: <a href="http://del.icio.us/redune/daily">daily</a>, <a href="http://del.icio.us/redune/del.icio.us">del.icio.us</a>, <a href="http://del.icio.us/redune/plugin">plugin</a>, <a href="http://del.icio.us/redune/wordpress">wordpress</a>
+        </li>
+        <li>
+        <a href="http://www.hybernaut.com/bdv/delicious-import.html" title="http://www.hybernaut.com/bdv/delicious-import.html">the
+        institute of hybernautics : del.icio.us import script: preliminary release</a>: This
+        is just a test Keywords: <a href="http://del.icio.us/redune/daily">daily</a>, <a href="http://del.icio.us/redune/del.icio.us">del.icio.us</a>, <a href="http://del.icio.us/redune/wordpress">wordpress</a>
+        </li>
+        <li>
+        <a href="http://www.timeanddate.com/worldclock/" title="http://www.timeanddate.com/worldclock/">The
+        World Clock - Time Zones</a>: A cool world clock Keywords: <a href="http://del.icio.us/redune/clock">clock</a>, <a href="http://del.icio.us/redune/daily">daily</a>, <a href="http://del.icio.us/redune/timezones">timezones</a>, <a href="http://del.icio.us/redune/world">world</a>
+        </li>
+        <li>
+        <a href="http://www.tumultco.com/blog/index.php?p=21" title="http://www.tumultco.com/blog/index.php?p=21">[self
+        setNeedsDisplay: YES]; Â» del.icio.us Smart Tagging Plugin for WordPress</a>: Keywords: <a href="http://del.icio.us/redune/daily">daily</a>, <a href="http://del.icio.us/redune/del.icio.us">del.icio.us</a>, <a href="http://del.icio.us/redune/wordpress">wordpress</a>
+        </li>
+        </ul>
+        <img width="0" height="0" src="http://spaetzel.com/aggbug.ashx?id=482" />

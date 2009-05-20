@@ -1,0 +1,7 @@
+--- 
+wordpress_id: 403
+title: Thistle Two
+wordpress_url: http://spaetzel.com/PermaLink,guid,160.aspx
+layout: post
+---
+I was attempting to get a nice shot of a bee crawling on this thistle. Sadly my batteries died and this is the best that I managed. Though it is still quite nice. But it definitely is a bit of Deja Vu.<img width="0" height="0" src="http://spaetzel.com/aggbug.ashx?id=160" />

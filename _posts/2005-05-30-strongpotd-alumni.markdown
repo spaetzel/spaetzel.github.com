@@ -1,0 +1,13 @@
+--- 
+wordpress_id: 180
+title: "&lt;strong&gt;POTD: Alumni"
+wordpress_url: http://spaetzel.com/PermaLink,guid,367.aspx
+layout: post
+---
+<strong>POTD: Alumni</strong>
+        <br />
+        Slow photo day today. Lots of tweaking this time - I think it looks nice - A little
+        grainy. I should try the same shot again with my tripod.<br />
+        <center><a href="http://www.redune.com/photos/Edited/Alumni_l.jpg"><img src="/spaetzel/photos/Edited/Alumni_m.jpg" border= 0></a>
+        </center>
+        <img width="0" height="0" src="http://spaetzel.com/aggbug.ashx?id=367" />

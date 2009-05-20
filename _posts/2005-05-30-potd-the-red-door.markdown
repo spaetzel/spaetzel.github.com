@@ -1,0 +1,17 @@
+--- 
+wordpress_id: 531
+title: "POTD: The Red Door"
+wordpress_url: http://spaetzel.com/PermaLink,guid,428.aspx
+layout: post
+---
+Well I just got home a couple minutes ago. Long day of coding today. Went well, I'm glad to be back in the mode again.<br />
+        Took a couple photos in the evening, sadly most of them I had the camera in the wrong
+        mode, will have to take them again later. This one was pretty nice though, tried to
+        capture the menacing look of this door. Didn't quite get it, but I think I know what
+        to do better next time.<br />
+        <br />
+        <center><a href="http://www.redune.com/photos/Edited/The Red Door_l.jpg"><img src="http://www.redune.com/photos/Edited/The Red Door_m.jpg" border= 0></a>
+        </center>
+        <br />
+        <br />
+        See the rest of today's shots <a href="http://www.redune.com/gallery/gallery.aspx?gallery=2004_02_12 - Western Indoors">here</a><img width="0" height="0" src="http://spaetzel.com/aggbug.ashx?id=428" />

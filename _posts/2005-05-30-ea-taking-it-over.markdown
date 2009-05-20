@@ -1,0 +1,14 @@
+--- 
+wordpress_id: 417
+title: EA Taking it over
+wordpress_url: http://spaetzel.com/PermaLink,guid,188.aspx
+layout: post
+---
+EA Games has announced that they have formed a <a href="http://sports.ign.com/articles/572/572886p1.html">deal</a> with
+        the NFL that they will be the only company using the NFL licence for the next five
+        years. This means that many game frachises will be destroyed. I definitely do not
+        support EA, especially after reading <a href="http://www.livejournal.com/users/ea_spouse/">this
+        journal</a>. Something has to be done to stop EA from taking over all of the gaming
+        industry. I don't care much for Football games, but when they are acting this monopolistic,
+        I start to worry. The picture at this <a href="http://www.joystiq.com/entry/1234000340023676/">Joystiq
+        article</a> says it all.<img width="0" height="0" src="http://spaetzel.com/aggbug.ashx?id=188" />

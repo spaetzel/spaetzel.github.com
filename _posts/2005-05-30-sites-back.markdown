@@ -1,0 +1,11 @@
+--- 
+wordpress_id: 547
+title: Site's Back
+wordpress_url: http://spaetzel.com/PermaLink,guid,466.aspx
+layout: post
+---
+Well it looks like redune.com had a tumble for a bit. Fortunately Its all back again as you can see.
+        Take a look at this photo and see if you can figure out what it means....
+        <center><img src="http://www.redune.com/webcam/webcam2.jpg">
+        </center>
+        (P.S. I got a webcam) MSN Me if you want to see more...<img width="0" height="0" src="http://spaetzel.com/aggbug.ashx?id=466" />

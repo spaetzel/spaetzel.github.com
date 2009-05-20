@@ -1,0 +1,11 @@
+--- 
+wordpress_id: 445
+title: GamePro.com / Domestic / Review
+wordpress_url: http://spaetzel.com/PermaLink,guid,246.aspx
+layout: post
+---
+<a href="http://www.gamepro.com/gamepro/domestic/games/news/29841.shtml">GamePro.com
+        / Domestic / Review / MS CEO: Next-Box in Japan by 2006</a>
+        <br />
+        It's been confirmed in an interview with Steve Ballmer, CEO of Microsoft. The Xbox
+        2 is coming out in 2006<img width="0" height="0" src="http://spaetzel.com/aggbug.ashx?id=246" />

@@ -1,0 +1,56 @@
+--- 
+wordpress_id: 42
+title: Christmas Report
+wordpress_url: http://spaetzel.com/PermaLink,guid,612.aspx
+layout: post
+---
+<p>
+        <a title="Photo Sharing" href="http://www.flickr.com/photos/redune/332411318/"><img height="240" alt="2006_12_24 - Timmins Christmas Eve 012" src="http://farm1.static.flickr.com/135/332411318_8f6f6e1d1e_m.jpg" width="180" align="right"></a>As
+        I have already <a href="http://spaetzel.com/node/604">posted</a>, I am currently spending
+        my&nbsp;time in Timmins, Ontario with my Fiance's family. Since today is Boxing day,
+        I thought I would give you a report on Christmas Eve and Christmas Day.
+        </p>
+        <br />
+        <p>
+        On Sunday (Christmas Eve) we started the day by going to church. The service was led
+        by the same woman who we expect to be marrying Laura-Lee and I in august. We will
+        be meeting with her tomorrow to discuss the wedding.
+        </p>
+        <br />
+        <p>
+        That evening we enjoyed an excellent prime rib roast. We then cleaned up after Christmas
+        and stepped into the Living room to spend some time with the Christmas tree. Laura-Lee
+        distributed gifts to everyone and we all tore into opening everything up.&nbsp;This
+        was an unusual experience for me, as I am used to having one person open one gift
+        at a time. Is it so much more&nbsp;chaotic doing it this way; but it is what they
+        are used to and I enjoyed the experience just as well. The&nbsp;Firlotte's bought
+        me a great wine rack that has room for six bottles of wine and holders for eight wine
+        glasses. Heide even painted me a sign that says "Welcome to my&nbsp;Wine Cellar".
+        It was a very thoughtful gift and I look forward to setting it up at home. I'll certainly
+        be taking a photo of it and posting it here&nbsp;as soon as I get home.
+        </p>
+        <a title="Photo Sharing" href="http://www.flickr.com/photos/redune/333487257/"><img height="180" alt="2006_12_25 - Timmins Christmas Day 006" src="http://farm1.static.flickr.com/154/333487257_07ec423836_m.jpg" width="240" align="left"></a>
+        <br />
+        <p>
+        The next day was of course Christmas Day. We had a nice lazy day which didn't get
+        started until 11:30. Laura-Lee started the afternoon by preparing the Christmas turkey
+        and all of the sides. She then settled down for a long winter's nap. I then attempted
+        to take over the world with LL's brother, Spencer and her dad, Daryl. Spencer was
+        the one who ended up winning the game of Risk, but I certainly still did enjoy myself.
+        </p>
+        <br />
+        <p>
+        That evening most of the Firlotte's extended family that lives in Timmins came over
+        for dinner. We ended up having ten people all sitting around the table. The dinner
+        that Laura-Lee prepared was excellent. However, my favorite part was the great cheese
+        cake that Laura-Lee prepared. This was the same one that she made for the Christmas
+        party that we had with our friends back in London. She'll definitely have to keep
+        that recipe around as we both love it.
+        </p>
+        <br />
+        <p>
+        Overall, Christmas in Timmins was a great experience. I was very glad to have been
+        able to spend the time with Laura-Lee and her family. I hope that everyone else reading
+        this had as good of a Christmas as I did. Merry Christmas to all, and happy new year!
+        </p>
+        <img width="0" height="0" src="http://spaetzel.com/aggbug.ashx?id=612" />

@@ -1,0 +1,21 @@
+--- 
+wordpress_id: 134
+title: Shooting Bubbles
+wordpress_url: http://spaetzel.com/PermaLink,guid,499.aspx
+layout: post
+---
+So based on suggestions from my girlfriend's mother, I went out this afternoon to try and take photos of bubbles.<br />
+        <br />
+        I took out my trusty D70, my tripod and the bubbles that LL gave me for my "summer
+        birthday" last year. I set everything all up behind my apartment building.
+        <br />
+        <br />
+        Turns out that it is actually very difficult to shoot the things. Since they move
+        so quickly, and I was so concerned about getting bubbles all over my camera, I wasn't
+        able to get any good shots of bubbles. I need to try and do this again with a phootgraphic
+        assistant. (I'm looking at you, LL) Maybe having somebody else blowing the bubbles
+        and having me behind the camera, it would be a lot easier.
+        <br />
+        <br />
+        I'll post a couple shots to <a href="http://www.flickr.com/photos/redune">Flickr</a>,
+        I haven't looked at them all yet. Maybe one or two are decent. <img width="0" height="0" src="http://spaetzel.com/aggbug.ashx?id=499" />

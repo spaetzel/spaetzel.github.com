@@ -1,0 +1,16 @@
+--- 
+wordpress_id: 66
+title: Ivey Flag Reflection
+wordpress_url: http://spaetzel.com/PermaLink,guid,574.aspx
+layout: post
+---
+<p>
+        <a href="http://www.flickr.com/people/redune/">redune</a> posted a photo:
+        </p>
+        <p>
+        <a href="http://www.flickr.com/photos/redune/86882950/" title="Ivey Flag Reflection"><img src="http://static.flickr.com/39/86882950_73ad46e323_m.jpg" width="240" height="160" alt="Ivey Flag Reflection" style="border: 1px solid #ddd;" /></a>
+        </p>
+        <p>
+        Walking along the Thames River in London Ontario
+        </p>
+        <img width="0" height="0" src="http://spaetzel.com/aggbug.ashx?id=574" />

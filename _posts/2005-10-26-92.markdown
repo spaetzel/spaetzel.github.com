@@ -1,0 +1,38 @@
+--- 
+wordpress_id: 92
+wordpress_url: http://spaetzel.com/PermaLink,guid,544.aspx
+layout: post
+---
+<title></title>
+        <p>
+        Well I have been giving a new web browser a whirl over the last day. The brower's
+        name is Flock and it is looking pretty cool. It is called a "Social Browser' and it
+        has many features that lend itself to what is being called <a href="http://en.wikipedia.org/wiki/Web_2.0">Web
+        2.0</a>. These features include <a href="http://del.icio.us/">del.icio.us</a>, <a href="http://flickr.com/">Flickr</a> and <a href="http://en.wikipedia.org/wiki/Weblog">weblogging</a> integration.
+        </p>
+        <div align="center">
+        <p>
+        <img src="http://static.flickr.com/25/54686991_390096b6f6_m.jpg" style="border: 1px solid rgb(0, 0, 0);" />
+        </p>
+        </div>
+        <p>
+        Thus far the browser does seem a bit buggy. I had trouble getting it to post to my <a href="http://www.drupal.org">Drupal</a> based <a href="http://redune.com">weblog</a>.
+        But it looks like the developers are very helpful and answered my question on<a href="http://community.flock.com/node/388"> their
+        forums</a> almost immediately.<br />
+        </p>
+        <p>
+        It definitely shows promise. Web users who are intersested in the latest Social web
+        technologies should definitely check it out. &nbsp;<br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        </p>
+        <!-- technorati tags begin -->
+        <p style="font-size:10px;text-align:right;">
+        Technorati Tags: <a href="http://technorati.com/tag/flock" rel="tag">flock</a>, <a href="http://technorati.com/tag/ beta" rel="tag"> beta</a>, <a href="http://technorati.com/tag/ webbrowser" rel="tag"> webbrowser</a>, <a href="http://technorati.com/tag/ tools" rel="tag"> tools</a>
+        </p>
+        <!-- technorati tags end --><img width="0" height="0" src="http://spaetzel.com/aggbug.ashx?id=544" />

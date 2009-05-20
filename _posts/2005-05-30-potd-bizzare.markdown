@@ -1,0 +1,15 @@
+--- 
+wordpress_id: 346
+title: "POTD: Bizzare"
+wordpress_url: http://spaetzel.com/PermaLink,guid,77.aspx
+layout: post
+---
+Have a challenge for you today. See if you can figure out where I took this photo. Going to be pretty tough I'll bet. <br />
+        Since its so tough, I'll give 1000 Redune points to the first one to get it. Better
+        get collecting the points, they may be valuable some day...<br />
+        <br />
+        Take a look<br />
+        <center><a href="../photos/Edited/Bizzare_l.jpg"><img src="../photos/Edited/Bizzare_m.jpg" border= 0></a>
+        </center>
+        <br />
+        <img width="0" height="0" src="http://spaetzel.com/aggbug.ashx?id=77" />

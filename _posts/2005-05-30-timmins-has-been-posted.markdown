@@ -1,0 +1,7 @@
+--- 
+wordpress_id: 381
+title: Timmins has been posted
+wordpress_url: http://spaetzel.com/PermaLink,guid,114.aspx
+layout: post
+---
+So I've posted all of the pictures and rants from my Timmins trip. I backdated them to the dates the events acutally happened, so scroll down and you can see it all.<img width="0" height="0" src="http://spaetzel.com/aggbug.ashx?id=114" />

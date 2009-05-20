@@ -1,0 +1,15 @@
+--- 
+wordpress_id: 278
+title: "POTD: Downtown"
+wordpress_url: http://spaetzel.com/PermaLink,guid,481.aspx
+layout: post
+---
+I had a nice trip downtown today. Had to drop off my passport application. Was kind of fun looking for the passport office. (Here's a tip when the address is Suite 201, 400 York street, look for 400 York street, not 201...)
+        Ran into an old friend on the bus today. Had an interesting but brief converation... Made me think. Was a special friendship that managed to get extremely sour.
+        Went to the Linux vs. Windows debate at Western today. That was kind of fun. I got the priveledge of being the Videographer for one of the speakers (My 307 Prof, Dr. Wade Holst). My arm ended up really objecting to being used as a tripod for so long.
+        Went for a quick shopping trip with Xian, saw some nice pieces of tech to lust for...
+        Anyhow, I took a bunch of photos on the way back from the Passport office, this one is of an unsuual building. The old tower is just there all by itself. No old building anywhere near, just the tower. I really wonder what it is.
+        <center><a href="../photos/Edited/Old vs New_l.jpg"><img src="../photos/Edited/Old vs New_m.jpg" border= 0></a>
+        </center>
+        <br />
+        You can see the rest of the photos I took today <a href="../gallery/gallery.aspx?gallery=2004_04_19 - Downtown">here</a><img width="0" height="0" src="http://spaetzel.com/aggbug.ashx?id=481" />

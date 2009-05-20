@@ -1,0 +1,15 @@
+--- 
+wordpress_id: 32
+title: Podcasters Across Borders
+wordpress_url: http://spaetzel.com/PermaLink,guid,623.aspx
+layout: post
+---
+I just signed up for <a href="http://www.podcastersacrossborders.com">Podcasters Across
+        Borders</a> a Canadian podcasting conference taking place in Kingston, Ontario this
+        June. I look forward to meeting lots of podcasters. It will be fun to tell them all
+        about <a href="http://castroller.com">CastRoller</a> and to see what they think of
+        the site.<br />
+        <p align="center">
+        <a href="http://www.podcastersacrossborders.com"><img src="http://podcastersacrossborders.com/images/pab_horizontal_big.jpg"></a>
+        </p>
+        <img width="0" height="0" src="http://spaetzel.com/aggbug.ashx?id=623" />

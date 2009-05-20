@@ -1,0 +1,7 @@
+--- 
+wordpress_id: 416
+title: Coated
+wordpress_url: http://spaetzel.com/PermaLink,guid,186.aspx
+layout: post
+---
+The snow was so beautiful yesterday, a nice light coating all around. I found these thistles, nicely coated.<img width="0" height="0" src="http://spaetzel.com/aggbug.ashx?id=186" />

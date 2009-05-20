@@ -1,0 +1,17 @@
+--- 
+wordpress_id: 196
+title: Speed up firefox
+wordpress_url: http://spaetzel.com/PermaLink,guid,195.aspx
+layout: post
+---
+<a href="http://www.hackaday.com/entry/1234000803024910/">speed up firefox - hack
+        a day - www.hackaday.com</a>
+        <br />
+        <br />
+        This really works. It makes firefox, very very fast. Give it a try.<br />
+        <br />
+        Oh, and if you aren't using <a href="http://www.spreadfirefox.com/?q=affiliates&amp;id=15708&amp;t=1">firefox</a> yet,
+        hurry up and <a href="http://www.spreadfirefox.com/?q=affiliates&amp;id=15708&amp;t=1">download
+        it!</a>
+        <br />
+        <img width="0" height="0" src="http://spaetzel.com/aggbug.ashx?id=195" />

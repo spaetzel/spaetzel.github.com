@@ -1,0 +1,32 @@
+--- 
+wordpress_id: 111
+title: The fruit of many days at Maplesoft, MaplePrimes
+wordpress_url: http://spaetzel.com/PermaLink,guid,523.aspx
+layout: post
+---
+I want to tell you all about a new Maple Community website that we are developing. beta.mapleprimes.com. MaplePrimes is designed to bring all users of Maple together into a strong community. The site is composed of two major portions: forums and weblogs. <br />
+        <br />
+        The forums function much like comp.soft-sys.math.maple, where people can post their
+        questions and have them answered by the community. The difference is that the MaplePrimes
+        forums will be monitored and moderated by Maplesoft selected community members. And
+        for questions that the user community cannot answer, Maplesoft developers will be
+        there to help as well.<br />
+        <br />
+        The weblogs allow any user to share their experiences with Maple and Mathematics.
+        MaplePrimes provides a place where like minded people can show off their latest findings,
+        share Maple procedures or chat about their favorite theorems.
+        <br />
+        <br />
+        Throughout the site many special features are available. The most interesting is the
+        ability to post mathematics in 2D notation like you would find in a textbook. It is
+        as easy as either entering MathML or the Maple syntax for the math you want to appear.<br />
+        <br />
+        Overall, we would like MaplePrimes to become the first complete Mathematical portal.
+        MaplePrimes should allow anyone with any Math knowledge get help and share what they
+        find. We have a number of ideas in development that will add to this.<br />
+        <br />
+        Please go and check it out at <a href="http://beta.mapleprimes.com"beta.mapleprimes.com</a>.
+        I hope that you will find the site to be very useful and come back to visit often.
+        <br />
+        <br />
+        <a href="/spaetzel/beta.mapleprimes.com">Link</a><img width="0" height="0" src="http://spaetzel.com/aggbug.ashx?id=523" />

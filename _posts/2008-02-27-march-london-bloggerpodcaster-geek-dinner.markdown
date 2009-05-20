@@ -1,0 +1,30 @@
+--- 
+wordpress_id: 9
+title: March London Blogger/Podcaster Geek Dinner
+wordpress_url: http://spaetzel.com/PermaLink,guid,f5bf3fff-529b-4969-86a1-00f3c34c582f.aspx
+layout: post
+---
+<p>
+        I will be attending the <a href="http://feeds.feedburner.com/~r/Blogldn/~3/242176235/">London
+        Geek Dinner</a> next Wednesday, if you are in London and or nearby, come join us.
+        Here is the original post from <a href="http://blogldn.com/?p=79">Bill's Blog</a>
+        </p>
+        <blockquote>
+        <p>
+        If you want to learn about Blogging, Podcasting, or anything else Media or just want
+        to hang out and chat with people involved with the community come on out. We can help
+        set up a blog or podcast or show you tips on how to improve. Any level of know how
+        or experience is welcome. Bring a laptop if you have one, Molly’s has FREE Wi-Fi!<br />
+        .<br />
+        Molly Blooms<br />
+        <a href="http://maps.google.com/maps/ms?ie=UTF8&amp;hl=en&amp;msa=0&amp;msid=102961761253281547912.0000011372000ebffec5b&amp;z=19&amp;om=1" target="_blank">700
+        Richmond St</a>
+        <br />
+        Wed. March 5th @ 7:30PM-whenever
+        </p>
+        <p>
+        </p>
+        <p>
+        <a href="http://www.facebook.com/event.php?eid=8302413118" target="_blank">Facebook</a> - <a href="http://upcoming.yahoo.com/event/441080/" target="_blank">Upcoming</a> - <a href="http://eventful.com/events/E0-001-005393167-1@2008030519" target="_blank">Eventful</a>
+        </p>
+        </blockquote><img width="0" height="0" src="http://spaetzel.com/aggbug.ashx?id=f5bf3fff-529b-4969-86a1-00f3c34c582f" />

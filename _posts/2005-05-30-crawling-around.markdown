@@ -1,0 +1,21 @@
+--- 
+wordpress_id: 228
+title: Crawling Around
+wordpress_url: http://spaetzel.com/PermaLink,guid,149.aspx
+layout: post
+---
+<div id="thumb">
+        <cpg_albumthumb>
+        10|1
+        </cpg_albumthumb>
+        </div>
+        <br />
+        Well my Photography book did a big part of what I hoped it would do. Inspired me to
+        go out and take photos. So I went out on a Photo walk and came back with a full memory
+        card.<br />
+        <br />
+        I saw so much on the walk, Amazing Flowers, Cool Insects, Cute Rabbits, and a Beautiful
+        Sunset (any my Aunt Nancy).<br />
+        <br />
+        Take a look at the whole gallery, it is full of great photos. And here is the best
+        photo of them all. An awesome macro shot of a wasp in a flower.<img width="0" height="0" src="http://spaetzel.com/aggbug.ashx?id=149" />

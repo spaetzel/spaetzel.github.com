@@ -1,0 +1,17 @@
+--- 
+wordpress_id: 347
+title: Crossing
+wordpress_url: http://spaetzel.com/PermaLink,guid,3.aspx
+layout: post
+---
+<a href="http://www.flickr.com/photos/redune/3337436/" title="photo sharing"><img src="http://photos2.flickr.com/3337436_a9b55ce57a_m.jpg" alt="" style="border: solid 2px #000000;" /></a>
+        <br />
+        <span style="font-size: 0.9em; margin-top: 0px;"><a href="http://www.flickr.com/photos/redune/3337436/">Crossing</a>
+        <br />
+        Originally uploaded by <a href="http://www.flickr.com/people/redune/">redune</a>. </span>
+        <br clear="all" />
+        <p style="">
+        I love the colour of this photo, taken at the crossing of the Laurel trail on King
+        street in Waterloo, Ontario.
+        </p>
+        <img width="0" height="0" src="http://spaetzel.com/aggbug.ashx?id=3" />

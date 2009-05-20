@@ -1,0 +1,12 @@
+--- 
+wordpress_id: 289
+title: Pack rat!!
+wordpress_url: http://spaetzel.com/PermaLink,guid,419.aspx
+layout: post
+---
+<a href="http://forums.somethingawful.com/showthread.php?s=e9744d33e932f0de0ec1d35d23523a44&threadid=830487&perpage=40&pagenumber=1">This
+        is amazing</a>. A woman who probably has never thrown anything out and keeps on buying
+        more stuff off eBay.
+        <br />
+        Makes me want to go and start throwing things away to avoid becoming anything close
+        to this.<img width="0" height="0" src="http://spaetzel.com/aggbug.ashx?id=419" />

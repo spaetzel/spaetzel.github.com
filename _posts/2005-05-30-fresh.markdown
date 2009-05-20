@@ -1,0 +1,10 @@
+--- 
+wordpress_id: 400
+title: Fresh
+wordpress_url: http://spaetzel.com/PermaLink,guid,154.aspx
+layout: post
+---
+So I realized that I really need to do groceries and laundry. So I changed the photo walk's destination to the grocery store.<br />
+        Tried a bunch of fruit and vegtable photography. Its harder than you'd think. This
+        apple shot is nice. But not quite what I was hoping for. Maybe my book has a chapter
+        on Apples...<img width="0" height="0" src="http://spaetzel.com/aggbug.ashx?id=154" />

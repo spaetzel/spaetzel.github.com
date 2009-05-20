@@ -1,0 +1,16 @@
+--- 
+wordpress_id: 254
+title: "&lt;strong&gt;POTD: Hangin"
+wordpress_url: http://spaetzel.com/PermaLink,guid,409.aspx
+layout: post
+---
+<strong>POTD: Hanging Right</strong>
+        <br />
+        No the lamp isn't bent. Though it is shaped oldly. I took this photo realizing that
+        I had a cool subject just waiting there (been in need of a bulb for a long time, dang
+        oddball bulbs)<br />
+        Kind of neat. Too much work today to go out and do a proper shoot.<br />
+        <br />
+        <center><a href="http://www.redune.com/photos/Edited/Hanging Right_l.jpg"><img src="http://www.redune.com/photos/Edited/Hanging Right_m.jpg" border= 0></a>
+        </center>
+        <img width="0" height="0" src="http://spaetzel.com/aggbug.ashx?id=409" />

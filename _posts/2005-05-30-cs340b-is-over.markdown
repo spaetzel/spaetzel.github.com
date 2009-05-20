@@ -1,0 +1,13 @@
+--- 
+wordpress_id: 274
+title: CS340b Is over
+wordpress_url: http://spaetzel.com/PermaLink,guid,477.aspx
+layout: post
+---
+Well the exam that I was slighly worried about turned out to be pretty simple.
+        On first glance I was afraid, but once I started thinking about the questions, I realized they were easy. Definitely must have studied enough. (Having 1 question worth 20% directly from the last assignment probably helped too)
+        Now I've got to study for 307. Shouldn't be too bad though. I am currently reading through O'Reilly's <a href="http://www.oreilly.com/catalog/learnuml/colophon.html">"Learning
+        UML"</a> very well written. And its a good skill to have. May end up using it at Maplesoft
+        when I start there. We'll see. I really want to get a good Perl book and go though
+        that. The nerdliness of knowing Perl will be great. Probably going to get the O'Reilly <a href="http://www.oreilly.com/catalog/pperl3/index.html">book</a> on
+        that too. Ok... Back to work.<img width="0" height="0" src="http://spaetzel.com/aggbug.ashx?id=477" />

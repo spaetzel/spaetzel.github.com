@@ -1,0 +1,17 @@
+--- 
+wordpress_id: 21
+title: 56 Geeks Poster
+wordpress_url: http://spaetzel.com/PermaLink,guid,6a97d1a6-4776-4fce-8acd-ff55c72c3865.aspx
+layout: post
+---
+<div class="flickr-frame">
+        <a href="http://www.flickr.com/photos/scottjohnson/2086153791/" title="photo sharing"><img src="http://farm3.static.flickr.com/2355/2086153791_3c96f62bf7.jpg" class="flickr-photo" alt=""></a>
+        <br />
+        <span class="flickr-caption"><a href="http://www.flickr.com/photos/scottjohnson/2086153791/">56
+        geeks poster complete</a>, originally uploaded by <a href="http://www.flickr.com/people/scottjohnson/">ExtraLife</a>.</span>
+        </div>
+        <p class="flickr-yourcomment">
+        I just found this great poster via the new <a href="http://digg.com/images">Digg Images</a>.
+        How many of the types of geek do you fit into?
+        </p>
+        <img width="0" height="0" src="http://spaetzel.com/aggbug.ashx?id=6a97d1a6-4776-4fce-8acd-ff55c72c3865" />

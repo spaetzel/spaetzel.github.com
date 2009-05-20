@@ -1,0 +1,13 @@
+--- 
+wordpress_id: 116
+title: Canadian DMCA Introduced
+wordpress_url: http://spaetzel.com/PermaLink,guid,519.aspx
+layout: post
+---
+Well it looks like Canadians have now caught up to the draconian US Copyright restrictions. Bill C-60 has been made law and it adds pretty much the same restrictions to Canadians and the DMCA did to Americans. Now it is illegal to break any protection schenme placed on digital media even if it something as simple as <a href="http://en.wikipedia.org/wiki/ROT13">ROT-13</a>.
+        You can read the full text of the bill <a href="http://www.parl.gc.ca/PDF/38/1/parlbus/chambus/house/bills/government/C-60_1.PDF">here</a>,
+        or read <a href="http://www.michaelgeist.ca/home.php#432">this</a> excellent blog
+        entry on it.<br />
+        <br />
+        <a href="http://www.michaelgeist.ca/home.php#432">Link</a> (Via <a href="http://www.boingboing.net/2005/06/21/canadas_dmca_introdu.html">Boing
+        Boing</a>)<img width="0" height="0" src="http://spaetzel.com/aggbug.ashx?id=519" />

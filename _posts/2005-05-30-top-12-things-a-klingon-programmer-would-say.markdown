@@ -1,0 +1,30 @@
+--- 
+wordpress_id: 524
+title: Top 12 Things A Klingon Programmer Would Say
+wordpress_url: http://spaetzel.com/PermaLink,guid,412.aspx
+layout: post
+---
+<br />
+        <br />
+        Now for a truly nerdy moment. I found this in a comment over at <a href="http://www.slashdot.org">Slashdot<br />
+        </a>
+        <br />
+        12. Specifications are for the weak and timid!<br />
+        11. This machine is a piece of GAGH! I need dual Pentium processors if Iam to do battle
+        with this code!<br />
+        10. You cannot really appreciate Dilbert unless you've read it in the original Klingon.<br />
+        9. Indentation?! -- I will show you how to indent when I indent your skull!<br />
+        8. What is this talk of 'release'? Klingons do not make software' releases'. Our software
+        'escapes' leaving a bloody trail of designers and quality assurance people in its
+        wake.<br />
+        7. Klingon function calls do not have 'parameters' -- they have 'arguments' -- and
+        they ALWAYS WIN THEM.<br />
+        6. Debugging? Klingons do not debug. Our software does not coddle the weak.<br />
+        5. I have challenged the entire quality assurance team to a Bat-Leth contest. They
+        will not concern us again.<br />
+        4. A TRUE Klingon Warrior does not comment his code!<br />
+        3. By filing this SPR you have challenged the honor of my family. Prepare to die!<br />
+        2. You question the worthiness of my code? I should kill you where you stand!<br />
+        1. Our users will know fear and cower before our software. Ship it! Ship it, and let
+        them flee like the dogs they are!<br />
+        <img width="0" height="0" src="http://spaetzel.com/aggbug.ashx?id=412" />

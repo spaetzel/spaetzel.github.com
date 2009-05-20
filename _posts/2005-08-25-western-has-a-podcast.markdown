@@ -1,0 +1,19 @@
+--- 
+wordpress_id: 97
+title: Western has a Podcast!
+wordpress_url: http://spaetzel.com/PermaLink,guid,538.aspx
+layout: post
+---
+I just discovered that UWO has its own weblog that you can find <s>here</s>. And along
+        with it is a podcast called <a href="http://atwestern.typepad.com/wi5/">Western in
+        Five</a>
+        <br />
+        <br />
+        Very cool. I'm having trouble getting the feed into iTunes though.
+        <br />
+        <br />
+        Update: I've been asked by UWO to remove the link to the Weblog. Apparently it is
+        still in development.<br />
+        <br />
+        <a href="http://atwestern.typepad.com/wi5">Read</a> (Via <a href="http://communications.uwo.ca/western_news/story.html?stories::listing_id=19573">Western
+        News</a>)<img width="0" height="0" src="http://spaetzel.com/aggbug.ashx?id=538" />

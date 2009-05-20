@@ -1,0 +1,15 @@
+--- 
+wordpress_id: 46
+title: Damn EB Games
+wordpress_url: http://spaetzel.com/PermaLink,guid,554.aspx
+layout: post
+---
+So I got a nice call from a girl at Electronics Boutique yesterday. Apparently preordering an Xbox 360 on September 24 was not early enough. They did not get enough systems in to cover all of their preorders and now I am #7 of their second shipment. And they have no idea when that shipment will be coming.<br />
+        <br />
+        So I am now going to resort to plan B, camping. I plan to weak up bright and early
+        on Tuesday and head over to a store that I know is selling 360s to people without
+        preorders. Hopefully there won't be too many other people with the same idea.
+        <br />
+        <br />
+        If I get a 360 there, I can get the $50 back that I gave EB to "guarantee" my preorder.
+        Grr. <img width="0" height="0" src="http://spaetzel.com/aggbug.ashx?id=554" />

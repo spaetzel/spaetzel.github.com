@@ -1,0 +1,12 @@
+--- 
+wordpress_id: 476
+title: Interactive Commenting
+wordpress_url: http://spaetzel.com/PermaLink,guid,310.aspx
+layout: post
+---
+<br />
+        Well Redune.com is now even more interactive.<br />
+        Now anyone can comment on any of my posts, just click on the comment link on the bottom
+        of each post.<br />
+        The system will even remember your name for your next comment! Very slick.<br />
+        <img width="0" height="0" src="http://spaetzel.com/aggbug.ashx?id=310" />

@@ -1,0 +1,14 @@
+--- 
+wordpress_id: 113
+title: The Common desk
+wordpress_url: http://spaetzel.com/PermaLink,guid,522.aspx
+layout: post
+---
+Wow, you have to watch <a href="http://www.newstoday.com/cinema/cinema.php?id=28">this
+        video</a>. It really is great. It is a wonderfully inspirational, funny and just plain
+        enjoyable video.<br />
+        <br />
+        I've got to give the ideas in this video a try in September, maybe something great
+        will come from it.<br />
+        <br />
+        <a href="http://www.newstoday.com/cinema/cinema.php?id=28">Link</a> (Via <a href="http://radio.weblogs.com/0001011/2005/07/13.html#a10623">Scoble</a>)<img width="0" height="0" src="http://spaetzel.com/aggbug.ashx?id=522" />

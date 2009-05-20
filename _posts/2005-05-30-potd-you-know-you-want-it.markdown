@@ -1,0 +1,12 @@
+--- 
+wordpress_id: 539
+title: "POTD: You Know you Want It"
+wordpress_url: http://spaetzel.com/PermaLink,guid,450.aspx
+layout: post
+---
+Getting annoyed with the people looking at my house. Had about twelve groups coming though it over the weekend, all popping in whenever they want, making comments about everything. Meanwhile disturbing me immenslely.
+        Apparently two groups are coming though tommorow as well, horray.
+        Take a look at this photo, and see if it makes you want to spend over $117 000 on this place. It does look nicer sometimes, was a pretty crummy day today. But still, too much money. Make it cheap, sign the deal, stop looking though. Please!
+        <center><a href="http://www.redune.com/photos/Edited/You Know You Want It_l.jpg"><img src="http://www.redune.com/photos/Edited/You Know You Want It_m.jpg" border= 0></a>
+        </center>
+        <img width="0" height="0" src="http://spaetzel.com/aggbug.ashx?id=450" />

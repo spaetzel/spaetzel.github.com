@@ -1,0 +1,19 @@
+--- 
+wordpress_id: 22
+title: Bubble 2.0
+wordpress_url: http://spaetzel.com/PermaLink,guid,9bfc9bc8-1d7d-4d34-ad0d-dac7c7d6713d.aspx
+layout: post
+---
+<p>
+        As someone who is working on my own <a href="http://castroller.com">startup</a>, this
+        was particualy funny. It has already made the blogosphere rounds, but in case you
+        haven't seen it yet, enjoy!
+        </p>
+        <object width="425" height="355">
+        <param name="movie" value="http://www.youtube.com/v/fi4fzvQ6I-o&rel=0&color1=0xd6d6d6&color2=0xf0f0f0&border=0">>
+        <param name="wmode" value="transparent">><embed src="http://www.youtube.com/v/fi4fzvQ6I-o&rel=0&color1=0xd6d6d6&color2=0xf0f0f0&border=0" type="application/x-shockwave-flash" wmode="transparent" width="425" height="355"></embed>
+        </object>
+        <p>
+        Via <a href="http://www.techcrunch.com">TechCrunch</a>
+        </p>
+        <img width="0" height="0" src="http://spaetzel.com/aggbug.ashx?id=9bfc9bc8-1d7d-4d34-ad0d-dac7c7d6713d" />

@@ -1,0 +1,26 @@
+--- 
+wordpress_id: 424
+title: Message my Watch!
+wordpress_url: http://spaetzel.com/PermaLink,guid,202.aspx
+layout: post
+---
+So I finally recieved the <a href="http://www.msndirect.com">Spot</a> <a href="http://www.msndirect.com/watches/abacus-wrist-net-round.htm">Watch</a> that
+        I had sent off to be replaced. Sadly, I didn't get upgraded to a <a href="http://www.msndirect.com/watches/abacus-smart-watch.htm">nicer
+        looking watch</a>, but is still <a href="http://www.msndirect.com/watches/abacus-wrist-net-round.htm">looks
+        pretty cool</a>. For $10 you sure can't complain.<br />
+        <br />
+        It is pretty cool having all sorts of informatino available on my wrist. Now I'll
+        always be able to find out what is going on in the world. Also, it allows you anyone
+        on my MSN messenger list to send me a message direct to my watch.<br />
+        <br />
+        To send my watch a message, first add me to your contacts ( william AT redune DOT
+        com ). Then right click on my name and choose "Send a Message to an MSN Direct Watch".
+        Then you can send me whatever message you may feel.
+        <br />
+        <br />
+        Give it a try, say whatever you want, I'd love to hear from you.<br />
+        <br />
+        If you are viewing this on LiveJournal, click on the link to view this post on my
+        Main Blog to see a screenshot of how to send a message.<br />
+        <br />
+        <img width="0" height="0" src="http://spaetzel.com/aggbug.ashx?id=202" />

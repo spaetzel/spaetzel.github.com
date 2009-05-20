@@ -1,0 +1,12 @@
+--- 
+wordpress_id: 100
+title: Amazing Video of Rock Zen
+wordpress_url: http://spaetzel.com/PermaLink,guid,535.aspx
+layout: post
+---
+This <a href="http://www.ifilm.com/ifilmdetail/2677576">video</a> is amazing. It you
+        see a bunch of guys creating rock scuplture using what appears to be some amazing
+        Star Wars force-like abilities.<br />
+        <br />
+        <a href="http://www.ifilm.com/ifilmdetail/2677576">Link</a> (Via <a href="http://www.boingboing.net/2005/08/10/amazing_rock_balanci.html">Boing
+        Boing</a>)<img width="0" height="0" src="http://spaetzel.com/aggbug.ashx?id=535" />

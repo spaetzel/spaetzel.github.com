@@ -1,0 +1,13 @@
+--- 
+wordpress_id: 176
+title: Off to Video Shop
+wordpress_url: http://spaetzel.com/PermaLink,guid,215.aspx
+layout: post
+---
+I think that I will finially be getting the video card that I've been dreaming about for so long today. I'm looking forward to that. We'll have to see what the prices are like and if the card is still in stock...<br />
+        <br />
+        I'll update again tonight. Hopefully with another POTD as well. (Aren't I doing well
+        lately?)<br />
+        <br />
+        Update: I decided against the purchase for now... I'll wait and see how the prices
+        change. Maybe I'll get my dream LCD and video card in one bang.<img width="0" height="0" src="http://spaetzel.com/aggbug.ashx?id=215" />

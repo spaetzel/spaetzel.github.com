@@ -1,0 +1,31 @@
+--- 
+wordpress_id: 135
+title: Google sitemap
+wordpress_url: http://spaetzel.com/PermaLink,guid,498.aspx
+layout: post
+---
+So Google <a href="http://googleblog.blogspot.com/2005/06/webmaster-friendly.html">announced</a> a
+        new feature called Google sitemap today.<br />
+        <br />
+        Basically what the feature is, is that people can publish an XML document which the
+        Google spider will look for and then use to index your page. In the XML you list all
+        of the pages of your website and how often those pages are updated.<br />
+        <br />
+        The way that I look at it is that this just makes the job for Google easier. Making
+        the users do the spidering for them.<br />
+        <br />
+        However, I also see that this could be useful. What if, instead of just leaving the
+        sitemap hidden on your server, instead you create a script which creates an attractive
+        map to your website. And what if someone were to create a Firefox extension which
+        looked for this sitemap.xml. Then you could have a cool sidebar which shows all of
+        the pages in the site. There would be no more mystery navigation, everything that
+        the designers want their users to see would be all laid out in front of them.
+        <br />
+        <br />
+        There is actually a few people in this <a href="http://it.slashdot.org/article.pl?sid=05/06/03/1226247&tid=217&tid=218">Slashdot
+        discussion</a> who are talking about the same thing.<br />
+        <br />
+        This is defintiely an idea to chew on. I may look into developing this myself. If
+        anyone out there goes at it, i'd love to hear about it.<br />
+        <br />
+        <img width="0" height="0" src="http://spaetzel.com/aggbug.ashx?id=498" />

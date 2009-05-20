@@ -1,0 +1,19 @@
+--- 
+wordpress_id: 249
+title: "&lt;strong&gt;POTD / Photo"
+wordpress_url: http://spaetzel.com/PermaLink,guid,393.aspx
+layout: post
+---
+<strong>POTD / Photofriday: Emptiness </strong>
+        <br />
+        <a href="http://www.photofriday.com"><img src="../images/photofriday.gif" alt="Photo Friday" width="194" height="39" border="0" align="right"></a>This
+        is my first entry into the weekly <a href="http://www.photofriday.com">Photo Friday</a> challenge.
+        Photo Friday is a weekly challenge where a single word is given and photographers
+        are asked to take a photo that captures that word.>
+        <br />
+        This week's challenge is Emptiness.
+        <br />
+        <p align="center">
+        <a href="http://www.redune.com/photos/photofriday/2004_01_30%20-%20Emptiness_l.jpg"><img src="http://www.redune.com/photos/photofriday/2004_01_30%20-%20Emptiness_m.jpg" alt="Emptiness" border="0"></a>
+        </p>
+        <img width="0" height="0" src="http://spaetzel.com/aggbug.ashx?id=393" />

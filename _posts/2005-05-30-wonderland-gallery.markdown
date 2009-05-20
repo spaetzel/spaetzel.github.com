@@ -1,0 +1,13 @@
+--- 
+wordpress_id: 203
+title: Wonderland Gallery
+wordpress_url: http://spaetzel.com/PermaLink,guid,127.aspx
+layout: post
+---
+Take a look at the photos from my trip to Canada's Wonderland with LL<br />
+        <div id="thumb">
+        <cpg_albumthumb>
+        2|1
+        </cpg_albumthumb>
+        </div>
+        <img width="0" height="0" src="http://spaetzel.com/aggbug.ashx?id=127" />

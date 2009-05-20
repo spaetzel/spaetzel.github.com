@@ -1,0 +1,21 @@
+--- 
+wordpress_id: 415
+title: Math Charity Ball
+wordpress_url: http://spaetzel.com/PermaLink,guid,184.aspx
+layout: post
+---
+<div id="thumb">
+        <cpg_albumthumb>
+        34|1
+        </cpg_albumthumb>
+        </div>
+        <br />
+        LL and I went to the <a href="/spaetzel/www.uwaterloo.ca">University of Waterloo</a> <a href="http://www.mathsoc.uwaterloo.ca/">Math</a> Charity
+        Ball last night and had a blast. It was so much fun, we had a great dinner, hung out
+        with the few people there I knew (Ex <a href="http://www.maplesoft.com">Maplesoft</a> co-op's)
+        and of course danced up a storm.<br />
+        Yet again, LL was dancing circles around me, I think that the tap lessons she took
+        years ago are still paying off. We even had a mini ballroom dancing lesson, I'm looking
+        forward to next year when LL and I are planning on taking lessons.
+        <br />
+        Take a look at the few pics I posted. Enjoy.<img width="0" height="0" src="http://spaetzel.com/aggbug.ashx?id=184" />

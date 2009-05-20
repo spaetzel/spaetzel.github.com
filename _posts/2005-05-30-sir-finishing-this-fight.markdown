@@ -1,0 +1,23 @@
+--- 
+wordpress_id: 240
+title: Sir, Finishing this Fight
+wordpress_url: http://spaetzel.com/PermaLink,guid,185.aspx
+layout: post
+---
+Well I just beat Halo 2.<br />
+        <br />
+        Excellent game. I enjoyed myself every moment of it, I was never frustrated, I never
+        thought that it was just holding me back. And now I know I've got hours of multiplayer
+        ahead of me.<br />
+        <br />
+        The ending is such a cliffhanger though! I really want to finish the story, as is,
+        there is so much left to do!<br />
+        <br />
+        I've heard that apparently when you beat the game on Legendary, it displays in the
+        credits "Coming Feb 9", I sure hope that means that the rest of the story will become
+        available, either being unlocked from the disc, being downloadable, or being able
+        to buy Halo 3. Who knows.... something is going to happen, it's gotta!<br />
+        <br />
+        So I just began the wait.<br />
+        <br />
+        If you haven't bought it yet, go buy it now!<img width="0" height="0" src="http://spaetzel.com/aggbug.ashx?id=185" />

@@ -1,0 +1,78 @@
+--- 
+wordpress_id: 30
+title: "Spaetzelcast #1"
+wordpress_url: http://spaetzel.com/PermaLink,guid,626.aspx
+layout: post
+---
+<p>
+        Well, I finally did it. I recorded my first "real podcast". I did record two episodes
+        of The Christmascast last december, but I didn't really consider them true podcasts,
+        I just introduced a few Christmas Carols.
+        </p>
+        <p>
+        I just returned from Podcasters Across Borders 2007.
+        </p>
+        <p>
+        Links mentioned in the episode:
+        </p>
+        <ul>
+        <li>
+        <a href="http://www.podcastersacrossborders.com/">Podcasters Across Borders</a>
+        </li>
+        <li>
+        <a href="http://deys.ca">Bill Deys</a>
+        </li>
+        <li>
+        <a href="http://www.markblevis.com/">Mark Blevis</a>
+        </li>
+        <li>
+        <a href="http://www.bobgoyetche.com">Bob Goyetche</a>
+        </li>
+        <li>
+        <a href="http://www.1000islandscruises.on.ca/dining-cruises/boats-captains/island-star">Island
+        Star</a>
+        </li>
+        <li>
+        <a href="http://musicface.com/uncleseth/">Uncle Seth</a>
+        </li>
+        <li>
+        <a href="http://www.commonlaw.uottawa.ca/tech">Canadian Podcaster's Legal Guide</a>
+        </li>
+        <li>
+        <a href="http://librivox.org/category/librivox-community-podcast/">Hugh McGuire</a>
+        </li>
+        <li>
+        <a href="http://www.flickr.com/photos/financialaidpodcast/603480282/">The</a> <a href="http://www.flickr.com/photos/financialaidpodcast/603487594/">Lunch</a> <a href="http://www.flickr.com/photos/tod/611353650/in/set-72157600463692095/">Buffet</a>
+        </li>
+        <li>
+        <a href="http://www.twistimage.com/blog/">Mitch Joel</a>
+        </li>
+        <li>
+        <a href="http://www.christopherspenn.com/">Christopher Penn</a>
+        </li>
+        <li>
+        <a href="http://www.ductapeguy.net/">Sean McGaughey</a>
+        </li>
+        <li>
+        <a href="http://deys.ca/?p=103">Deyscast 100</a>
+        </li>
+        <li>
+        <a href="http://neilgorman.org/?p=188">Neil Gorman</a>
+        </li>
+        <li>
+        <a href="http://snowydaydesign.com/">Nico</a>
+        </li>
+        <li>
+        <a href="http://www.todmaffin.com/blog/">Tod Maffin</a>
+        </li>
+        <li>
+        <a href="http://www.cbc.ca/editorschoice/" target="_blank">Andrea Misri</a>
+        </li>
+        </ul>
+        <p>
+        <a href="http://spaetzel.com/podcast/spc_2007_06_24.mp3">Download the MP3</a>
+        </p>
+        <p>
+        <a href="http://feeds.feedburner.com/spaetzelcast">Subscribe to the Podcast</a>
+        </p>
+        <img width="0" height="0" src="http://spaetzel.com/aggbug.ashx?id=626" />

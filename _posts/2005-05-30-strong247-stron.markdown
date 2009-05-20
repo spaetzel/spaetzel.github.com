@@ -1,0 +1,13 @@
+--- 
+wordpress_id: 260
+title: "&lt;strong&gt;24/7 &lt;/stron"
+wordpress_url: http://spaetzel.com/PermaLink,guid,319.aspx
+layout: post
+---
+<strong>24/7 </strong>
+        <br />
+        Based on the recent popularity of Redune.com, as well as hosted sites I've decided
+        to attempt to keep the site up 24/7. I've moved my computer further from my bed, so
+        hopefully I'll be able to tolerate it though the nite.<br />
+        I had better still be getting hits at 4AM or I'll be shutting down again!<br />
+        <img width="0" height="0" src="http://spaetzel.com/aggbug.ashx?id=319" />

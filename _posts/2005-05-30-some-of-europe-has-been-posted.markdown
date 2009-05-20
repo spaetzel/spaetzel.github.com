@@ -1,0 +1,7 @@
+--- 
+wordpress_id: 238
+title: Some of Europe has been posted
+wordpress_url: http://spaetzel.com/PermaLink,guid,175.aspx
+layout: post
+---
+Alrighty, I've posted the first few days of photos to the gallery, I still have to pick out the best photos and to add descriptions of the photos, but those of you in a hurry can check them out here: <a href="http://www.redune.com/gallery">http://www.redune.com/gallery</a><img width="0" height="0" src="http://spaetzel.com/aggbug.ashx?id=175" />

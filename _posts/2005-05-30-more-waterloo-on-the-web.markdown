@@ -1,0 +1,17 @@
+--- 
+wordpress_id: 422
+title: More Waterloo on the web.
+wordpress_url: http://spaetzel.com/PermaLink,guid,198.aspx
+layout: post
+---
+<a href="http://cgi.ebay.com/ws/eBayISAPI.dll?ViewItem&category=1467&item=5547361535">eBay
+        item 5547361535 (Ends Jan-06-05 17:41:38 PST) - unique KATAMARI DAMACY HAT! new one
+        of a kind gamewear</a>
+        <br />
+        <br />
+        I guess that this city is truely full of techies. Its unlikely that any of my readers
+        will see the signifigance of this post. But it still is damn odd.<br />
+        <br />
+        Found at <a href="http://www.kotaku.com/gaming/oddities/katamari-damacy-knitted-hat-028676.php">Kotaku</a>
+        <br />
+        <img width="0" height="0" src="http://spaetzel.com/aggbug.ashx?id=198" />

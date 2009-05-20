@@ -1,0 +1,15 @@
+--- 
+wordpress_id: 355
+title: To Calgary
+wordpress_url: http://spaetzel.com/PermaLink,guid,61.aspx
+layout: post
+---
+Here are the first photos of my Summer trip that I took with my parents in Alberta.<br />
+        First are a couple of photos on the way to the London airport,<br />
+        Then photos of the airport.<br />
+        Lots of cloud photos taken aboard our first plane.<br />
+        Then the Winnipeg airport.<br />
+        Then photos from the second plane.<br />
+        Photos from the Calgary airport,
+        <br />
+        and finally photos of the Calgary tower from our first evening in Calgary.<img width="0" height="0" src="http://spaetzel.com/aggbug.ashx?id=61" />

@@ -1,0 +1,11 @@
+--- 
+wordpress_id: 239
+title: Hall of Technical Documentation Weirdness
+wordpress_url: http://spaetzel.com/PermaLink,guid,171.aspx
+layout: post
+---
+<a href="http://www.darrenbarefoot.com/hall/index.html">Hall of Technical Documentation
+        Weirdness</a>
+        <br />
+        Alright, I'm being quite honest here. This is the least hilarous link I've seen in
+        a while...<img width="0" height="0" src="http://spaetzel.com/aggbug.ashx?id=171" />

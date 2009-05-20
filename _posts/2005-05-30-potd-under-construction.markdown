@@ -1,0 +1,14 @@
+--- 
+wordpress_id: 322
+title: "POTD: Under Construction"
+wordpress_url: http://spaetzel.com/PermaLink,guid,83.aspx
+layout: post
+---
+I've walked past this construction so many times on my way to Saugeen. Felt that the time has come to finally take a photo of it.<br />
+        I like how the clouds came out off in the distance, nice contrast between the mess
+        of construction and the beauty of the sky.<br />
+        <br />
+        <center><a href="../photos/Edited/Under Construction_l.jpg"><img src="../photos/Edited/Under Construction_m.jpg" border= 0></a>
+        </center>
+        <br />
+        <img width="0" height="0" src="http://spaetzel.com/aggbug.ashx?id=83" />

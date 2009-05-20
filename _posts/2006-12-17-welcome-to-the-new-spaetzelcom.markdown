@@ -1,0 +1,23 @@
+--- 
+wordpress_id: 48
+title: Welcome to the new Spaetzel.com
+wordpress_url: http://spaetzel.com/PermaLink,guid,600.aspx
+layout: post
+---
+If this is your first time here, you won't find anything new. But for old visitors of Spaetzel.com or Redune.com, you'll see that the site is now quite different.<br />
+        <br />
+        I have replaced Redune.com with Spaetzel.com, I wish to make it easier for people
+        to find me on the web, and what better way to do that than using my name. My photography
+        business is not likely to go anywhere in the near future, but the site is still there
+        at <a href="http://photos.spaetzel.com">photo.spaetzel.com</a>. I hope that you like
+        this new design. I think that it is nice and simple, and does a good job of showing
+        off everything that I am doing on the web.<br />
+        <br />
+        I have also set up a new RSS feed at <a href="http://spaetzel.com/feed">spaetzel.com/feed</a> that
+        combines my latest posts here, my latest <a href="http://twitter.com/spaetzel">Twitter</a> updates,
+        and my latest Flickr photos. This feed is special in that it combines my flickr photos
+        into only one entry per day. That way when I upload lots of photos, my feed won't
+        be bombarded by Flickr photos.<br />
+        <br />
+        I hope you like the site, please send me your comments, I look forward to hearing
+        from you. <img width="0" height="0" src="http://spaetzel.com/aggbug.ashx?id=600" />

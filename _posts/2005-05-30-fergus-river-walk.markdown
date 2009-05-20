@@ -1,0 +1,23 @@
+--- 
+wordpress_id: 327
+title: Fergus - river walk
+wordpress_url: http://spaetzel.com/PermaLink,guid,6.aspx
+layout: post
+---
+<a href="http://www.flickr.com/photos/92938113@N00/3885930/" title="photo sharing"><img src="http://photos2.flickr.com/3885930_989d6b623b_m.jpg" alt="" style="border: solid 2px #000000;" /></a>
+        <br />
+        <span style="font-size: 0.9em; margin-top: 0px;"><a href="http://www.flickr.com/photos/92938113@N00/3885930/">Fergus
+        - river walk</a>
+        <br />
+        Originally uploaded by <a href="http://www.flickr.com/people/92938113@N00/">canuckshutterer</a>. </span>
+        <br clear="all" />
+        <p style="">
+        Aww, memories!<br />
+        <br />
+        I came across this photo which was taken in Fergus, Ontario. That was a really pretty
+        town. Not quite as nice as Elora (where I attended grades 1 to 6). But still very
+        nice.<br />
+        <br />
+        I've gotta check Flickr to see if I can find some Elora photos.
+        </p>
+        <img width="0" height="0" src="http://spaetzel.com/aggbug.ashx?id=6" />

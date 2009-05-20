@@ -1,0 +1,18 @@
+--- 
+wordpress_id: 245
+title: "POTD: Spring is Here"
+wordpress_url: http://spaetzel.com/PermaLink,guid,441.aspx
+layout: post
+---
+So today was one of my best days ever. Observent folk will look below and see just why that is.<br />
+        I'm going to be working at <a href="http://www.maplesoft.com">Maplesoft</a> for 16
+        months starting in May. I am so excited. It will be so great working on such cool
+        software. Western students who don't know what Maple is, head to any PC lab and load
+        it up, it can do so many cool things, and I'll get to add to it!<br />
+        <br />
+        Anyhow, I thought that this picture showed how well the beautiful weather reflected
+        my wonderful day.<br />
+        <br />
+        <center><a href="http://www.redune.com/photos/Edited/Spring  is Here_l.JPG"><img src="http://www.redune.com/photos/Edited/Spring  is Here_m.jpg" border= 0></a>
+        </center>
+        <img width="0" height="0" src="http://spaetzel.com/aggbug.ashx?id=441" />

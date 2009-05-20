@@ -1,0 +1,15 @@
+--- 
+wordpress_id: 383
+title: An interesting day
+wordpress_url: http://spaetzel.com/PermaLink,guid,118.aspx
+layout: post
+---
+I had a great afternoon at Maplesoft today, got to hear a talk from a man from the team which designed the Control system for the Apollo space ships. Soo did an excellent job summarizing it <a href="http://www.livejournal.com/users/crazycrazy/94328.html">here</a>
+        <br />
+        <br />
+        Sadly the talk just wasn't enough to make up for the boring, boring seminar on LabVIEW
+        that I had to go to. It was only supposed to go until 8:00, but ended up going till
+        9:15. I had better not be asked to work late next week, or I may get a touch angry....<br />
+        <br />
+        On a brighter note, looks like my Sweetie will be coming to Waterloo in the near future.
+        Can't wait to see you here!<img width="0" height="0" src="http://spaetzel.com/aggbug.ashx?id=118" />

@@ -1,0 +1,15 @@
+--- 
+wordpress_id: 323
+title: "&lt;strong&gt;POTD: Naked"
+wordpress_url: http://spaetzel.com/PermaLink,guid,395.aspx
+layout: post
+---
+<strong>POTD: Naked In the Night</strong>
+        <br />
+        Sorry to all of you surfers who come looking for something else. But the title just
+        seemed to fit. This small tree exposed, with no leaves. It is lit by a nearby streetlight,
+        came out very cool.<br />
+        <br />
+        <center><a href="http://www.redune.com/photos/Edited/Naked in the night_l.jpg"><img src="/spaetzel/photos/Edited/Naked in the night_m.jpg" border= 0></a>
+        </center>
+        <img width="0" height="0" src="http://spaetzel.com/aggbug.ashx?id=395" />

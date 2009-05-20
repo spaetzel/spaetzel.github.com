@@ -1,0 +1,10 @@
+--- 
+wordpress_id: 427
+title: Cold River
+wordpress_url: http://spaetzel.com/PermaLink,guid,208.aspx
+layout: post
+---
+I went for a nice photo walk with LL today. We had fun. Sadly, we did have to head back early, becuase she was getting too cold, I still managed to get a few nice pictures. <br />
+        <br />
+        You can see the rest of the photos at this <a href="http://www.flickr.com/photos/redune/archives/date-taken/2005/01/16/">Flickr
+        Gallery</a><img width="0" height="0" src="http://spaetzel.com/aggbug.ashx?id=208" />

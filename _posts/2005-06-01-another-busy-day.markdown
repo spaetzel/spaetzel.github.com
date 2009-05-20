@@ -1,0 +1,22 @@
+--- 
+wordpress_id: 137
+title: Another busy day
+wordpress_url: http://spaetzel.com/PermaLink,guid,494.aspx
+layout: post
+---
+So I did quite a bit at work and about today. I had to put out a bunch more fires this morning. And sit though a meeting showing off a promising new third party product.<br />
+        <br />
+        The meeting went a little long (the presenter was a little long winded) so it meant
+        that I was late for lunch.<br />
+        <br />
+        We had a sending off lunch for two people who (used to) work at the office. We went
+        to a vietnamese restaurant not far from here. I ordered pad thai chicken. And it was
+        mighty fine. The advantage of arriving late meant that my food was waiting for me.
+        <br />
+        <!--break-->
+        <br />
+        I spent the afternoon working on some German demo videos. (Grr, Captivate) This was
+        interrupted by cake for the people who were leaving. Then back to more Captivate.<br />
+        <br />
+        I look forward to my photo walk that I plan to take this evening. It is <a href="http://worldphotoday.com/">World
+        Photo Day</a> today and I want to post something nice for the day.<img width="0" height="0" src="http://spaetzel.com/aggbug.ashx?id=494" />

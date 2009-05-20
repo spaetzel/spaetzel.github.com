@@ -1,0 +1,14 @@
+--- 
+wordpress_id: 124
+title: Added Blogroll
+wordpress_url: http://spaetzel.com/PermaLink,guid,508.aspx
+layout: post
+---
+Well I finally added a <a href="/spaetzel/blogroll">blogroll</a> to my website. I
+        fought with a number of different techniques of nicely adding the huge list to a sidebar.
+        <br />
+        <br />
+        Eventually, I realized, "Why don't I just create a seperate page for it?", so <a href="/spaetzel/blogroll">here</a> it
+        is!<br />
+        <br />
+        <a href="/spaetzel/blogroll">Link</a><img width="0" height="0" src="http://spaetzel.com/aggbug.ashx?id=508" />

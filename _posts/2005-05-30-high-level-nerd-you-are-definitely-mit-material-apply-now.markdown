@@ -1,0 +1,17 @@
+--- 
+wordpress_id: 338
+title: High-Level Nerd. You are definitely MIT material, apply now!!!.
+wordpress_url: http://spaetzel.com/PermaLink,guid,199.aspx
+layout: post
+---
+<a href="http://www.wxplotter.com/ft_nq.php">
+        <br />
+        <img src="http://www.wxplotter.com/images/ft/nq.php?val=5744" alt="I am nerdier than 81% of all people. Are you nerdier? Click here to find out!"> </a>
+        <br />
+        <br />
+        A good quiz. Glad to know that I did pretty well. Though I was hoping for at least
+        90%.
+        <br />
+        <br />
+        Please do the quiz yourself and post your score in the comments. (I'm looking at you
+        LL)<img width="0" height="0" src="http://spaetzel.com/aggbug.ashx?id=199" />

@@ -1,0 +1,26 @@
+--- 
+wordpress_id: 25
+title: Welcome to Spaetzel.com on DasBlog
+wordpress_url: http://spaetzel.com/PermaLink,guid,838978fc-8aab-4840-b27d-6acc70ef2bc3.aspx
+layout: post
+---
+I am currently working on creating a new version of <a href="http://castroller.com">CastRoller</a>,
+        and am developing this version in .NET. Because of this, I needed to find a new webhost
+        that supports Windows Hosting.<br />
+        <br />
+        Since I don't really want to pay two companies for hosting, I needed to move Spaetzel.com
+        over as well, I figured this is a good time to try out a new blogging platform, since
+        PHP hosting on IIS, doesn't work nearly as seamlessly as .NET.<br />
+        <br />
+        So I am now using DasBlog as my blogging platform. It seems to have a very robust
+        API that should allow me to do some interesting this with this blog.
+        <br />
+        <br />
+        Note: Right now any older entries that have comments on them won't load. I'm trying
+        to figure out what exactly the problem is there.<br />
+        <br />
+        I'll be creating a new theme and moving everything that you are used to from the old
+        site back over here soon.<br />
+        <p>
+        </p>
+        <img width="0" height="0" src="http://spaetzel.com/aggbug.ashx?id=838978fc-8aab-4840-b27d-6acc70ef2bc3" />

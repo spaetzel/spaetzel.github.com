@@ -1,0 +1,17 @@
+--- 
+wordpress_id: 13
+title: Stages
+wordpress_url: http://spaetzel.com/PermaLink,guid,14017224-7d47-45af-94df-70862a36c3dc.aspx
+layout: post
+---
+<div class="flickr-frame">
+        <a href="http://www.flickr.com/photos/redune/2281086016/" title="photo sharing"><img src="http://farm3.static.flickr.com/2154/2281086016_1ce8517f12.jpg" class="flickr-photo" alt=""></a>
+        <br />
+        <span class="flickr-caption"><a href="http://www.flickr.com/photos/redune/2281086016/">Stages</a>,
+        originally uploaded by <a href="http://www.flickr.com/people/redune/">William Spaetzel</a>.<br />
+        <br />
+        <br />
+        </span>
+        </div>
+        <p>
+        Here is my take on tonight's Total Lunar eclipse><img width="0" height="0" src="http://spaetzel.com/aggbug.ashx?id=14017224-7d47-45af-94df-70862a36c3dc" />

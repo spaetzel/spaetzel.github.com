@@ -1,0 +1,7 @@
+--- 
+wordpress_id: 210
+title: Blogger seems to be
+wordpress_url: http://spaetzel.com/PermaLink,guid,269.aspx
+layout: post
+---
+Blogger seems to be going nutz!<img width="0" height="0" src="http://spaetzel.com/aggbug.ashx?id=269" />

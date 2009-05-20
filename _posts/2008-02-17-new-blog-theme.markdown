@@ -1,0 +1,49 @@
+--- 
+wordpress_id: 16
+title: New Blog Theme
+wordpress_url: http://spaetzel.com/PermaLink,guid,522552e5-145a-4a4b-bc2e-236356ff4c90.aspx
+layout: post
+---
+<p>
+        Back in January, I switched this blog to run off of <a href="http://www.dasblog.info/">DasBlog</a>,
+        switching away from the old <a href="http://drupal.org">Drupal</a> based site. And
+        of course, my old theme style didn't work any more. Since that time, I've been using
+        one of the default DasBlog themes, which, to put it frankly, was ugly. I just finally
+        uploaded the new theme that I had been working on for the last couple of weeks.
+        </p>
+        <p>
+        The two goals of the theme were to make the site easy to use, and to show new visitors
+        who I am and what I do. There are several new features that you'll find with this
+        version.
+        </p>
+        <p>
+        The first, and most visible additions are my phone number and e-mail address front
+        and centre. I want to remove any barriers to people contacting me, so I put those
+        two pieces of information where they would be found right away. They are both in an
+        image, so spammers shouldn't be able to contact me. And the number is my Grand Central
+        number, which lets me filter callers if necessary, right now it will ring my phones
+        directly.
+        </p>
+        <p>
+        Next, is the new about me section up at the top. There is both a "Twitter Style" quick
+        blurb, and for those who want to know more, a new <a href="http://spaetzel.com/About.aspx">About
+        Me page</a> that should satisfy all but the most curious of visitors.
+        </p>
+        <p>
+        I've added the obligatory list of social networks - all coded directly in HTML, I
+        want to avoid any JavaScript includes as they slow down your browser and don't always
+        look so nice.
+        </p>
+        <p>
+        The other big addition is my Tumblelog, which I have set up to pull in almost everything
+        that I do on the web including my <a href="http://www.twitter.com/spaetzel">Twitter
+        posts</a>, <a href="http://www.flickr.com/photos/redune">Flickr photos</a>, <a href="http://www.google.com/reader/shared/09880134018427269230">Google
+        Reader Shared Items</a>, and my <a href="http://del.icio.us/redune">del.icio.us bookmarks</a>.
+        I don't expect many people to do this, but you can <a href="http://feeds.feedburner.com/spaetzel/tumblelog">subscribe
+        to the feed</a> if you want to see everything I do on the web.
+        </p>
+        <p>
+        I hope that you like the update. Please post what you think of it in the comments.
+        Now, to get to actually posting something to read around here.
+        </p>
+        <img width="0" height="0" src="http://spaetzel.com/aggbug.ashx?id=522552e5-145a-4a4b-bc2e-236356ff4c90" />

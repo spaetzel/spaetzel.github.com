@@ -1,0 +1,10 @@
+--- 
+wordpress_id: 105
+title: Cool Mathematical Community
+wordpress_url: http://spaetzel.com/PermaLink,guid,530.aspx
+layout: post
+---
+This is a new community website that lets people interested in Mathematics share their ideas. Users get their own blogging space and access to community forums. MathML and Maple notation are automatically converted into attractive GIF images.<br />
+        <br />
+        <a href="http://beta.mapleprimes.com/">read more</a>&nbsp;|&nbsp;<a href="http://digg.com/science/Cool_Mathematical_Community">digg
+        story</a><img width="0" height="0" src="http://spaetzel.com/aggbug.ashx?id=530" />

@@ -1,0 +1,16 @@
+--- 
+wordpress_id: 536
+title: "POTD: White Rose"
+wordpress_url: http://spaetzel.com/PermaLink,guid,442.aspx
+layout: post
+---
+Beautiful gift for a beautiful girl. Had to be turned into a beautiful photo. <br />
+        Took quite a while in Photoshop trying to get this one just right, check out the original
+        photo <a href="http://www.redune.com/photos/2004_02_17%20-%20White%20Rose/white%20rose0006.jpg">here</a>
+        <br />
+        <br />
+        <center><a href="http://www.redune.com/photos/Edited/White Rose_l.jpg"><img src="http://www.redune.com/photos/Edited/White Rose_m.jpg" border= 0></a>
+        </center>
+        <br />
+        <br />
+        See the rest of today's shots <a href="http://www.redune.com/gallery/gallery.aspx?gallery=2004_02_17 - White Rose">here</a><img width="0" height="0" src="http://spaetzel.com/aggbug.ashx?id=442" />

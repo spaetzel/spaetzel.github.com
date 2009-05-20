@@ -1,0 +1,23 @@
+--- 
+wordpress_id: 261
+title: "&lt;strong&gt;Where was my"
+wordpress_url: http://spaetzel.com/PermaLink,guid,329.aspx
+layout: post
+---
+<strong>Where was my camera?</strong>
+        <br />
+        You all know the feeling - Seeing something that you really thought would have made
+        a great photo, only to not have your camera with you.<br />
+        <br />
+        Well today, as with every Thursday my backpack was quite full and I didn't bring my
+        camera with me. When I was coming back from band practice I see a small rabbit standing
+        on the sidewalk ahead of me very peacefully.<br />
+        I magaged to get pretty close to him before he ran off.
+        <br />
+        <br />
+        It was a very pretty scene, lots of snow all around, rabbit sniffing away.
+        <br />
+        <br />
+        Hopefully my description will be good enough, I'll sure try to always have my camera
+        with me from now on!<br />
+        <img width="0" height="0" src="http://spaetzel.com/aggbug.ashx?id=329" />

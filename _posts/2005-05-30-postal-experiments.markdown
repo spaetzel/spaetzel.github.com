@@ -1,0 +1,11 @@
+--- 
+wordpress_id: 164
+title: Postal Experiments
+wordpress_url: http://spaetzel.com/PermaLink,guid,209.aspx
+layout: post
+---
+<a href="http://www.directcreative.com/aaexperiments.html">Postal Experiments</a>
+        <br />
+        <br />
+        This is hilarious. A few guys decided to try and mail unusual items and see if they
+        would arrive. Give the whole thing a read, you'll be laughing your head off.<img width="0" height="0" src="http://spaetzel.com/aggbug.ashx?id=209" />

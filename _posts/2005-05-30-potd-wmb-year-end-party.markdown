@@ -1,0 +1,13 @@
+--- 
+wordpress_id: 272
+title: "POTD: WMB Year End Party"
+wordpress_url: http://spaetzel.com/PermaLink,guid,469.aspx
+layout: post
+---
+So last night was the WMB Year End Party. Had lots of fun, dinner at McGinnis landing (again) and party at Kelly's. We got to see Ian's video of the Concert. Heard some people with "really nice sound".<br />
+        Here is a photo I took last night (was still today - post midnight) of my favorite
+        band frosh.<br />
+        <center><a href="http://www.redune.com/photos/Edited/Superfrosh_l.jpg"><img src="http://www.redune.com/photos/Edited/Superfrosh_m.jpg" border= 0></a>
+        </center>
+        <br />
+        You can see the rest of the photos I took at the party <a href="http://www.redune.com/gallery/gallery.aspx?gallery=2004_04_03 - WMB Year End Party">here</a><img width="0" height="0" src="http://spaetzel.com/aggbug.ashx?id=469" />

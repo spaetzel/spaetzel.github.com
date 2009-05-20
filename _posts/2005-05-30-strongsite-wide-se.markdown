@@ -1,0 +1,16 @@
+--- 
+wordpress_id: 186
+title: "&lt;strong&gt;Site-Wide Se"
+wordpress_url: http://spaetzel.com/PermaLink,guid,293.aspx
+layout: post
+---
+<strong>Site-Wide Search</strong>
+        <br />
+        <br />
+        The feature you've all been waiting for it here, site wide search.<br />
+        Just enter your query in the box at the top of the page, or click on the search link
+        for advanced search options.<br />
+        <br />
+        Also check out the new homeland security advisory system. Good for all of you paranoid
+        folks.<br />
+        <img width="0" height="0" src="http://spaetzel.com/aggbug.ashx?id=293" />

@@ -1,0 +1,15 @@
+--- 
+wordpress_id: 235
+title: "&lt;strong&gt;Ahh... Procr"
+wordpress_url: http://spaetzel.com/PermaLink,guid,339.aspx
+layout: post
+---
+<strong>Ahh... Procrastination! </strong>
+        <br />
+        Well I definitely am not a fan of writing essays - Even ones about programming. Darn
+        its hard to get into the mode of writing the darn thing.<br />
+        Should get a lot done tomorrow - The pressure is starting to build...<br />
+        It should make decent content for the site too... A nice comparison of Programming
+        methodologies.<br />
+        Good fun!<br />
+        <img width="0" height="0" src="http://spaetzel.com/aggbug.ashx?id=339" />

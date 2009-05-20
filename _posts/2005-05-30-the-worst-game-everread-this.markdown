@@ -1,0 +1,12 @@
+--- 
+wordpress_id: 158
+title: The Worst Game EverRead this
+wordpress_url: http://spaetzel.com/PermaLink,guid,351.aspx
+layout: post
+---
+<a href="http://www.gamespot.com/pc/driving/bigrigsotrr/review.html">The Worst Game
+        Ever</a>
+        <br />
+        Read this hilarious review. It's the lowest scoring game that Gamespot has ever reviewed.
+        Its so bad that they didn't even get their grammar right, "You're Winner!"<br />
+        Enjoy<img width="0" height="0" src="http://spaetzel.com/aggbug.ashx?id=351" />

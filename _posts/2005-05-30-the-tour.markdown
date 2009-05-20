@@ -1,0 +1,8 @@
+--- 
+wordpress_id: 375
+title: The Tour
+wordpress_url: http://spaetzel.com/PermaLink,guid,102.aspx
+layout: post
+---
+I told a certain somebody that I would get around to putting up photos of the new apartement, so as requested, here they are.<br />
+        Please excuse the mess... The apartment is currently inhabited by men...<img width="0" height="0" src="http://spaetzel.com/aggbug.ashx?id=102" />

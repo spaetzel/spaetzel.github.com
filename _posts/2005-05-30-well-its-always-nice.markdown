@@ -1,0 +1,9 @@
+--- 
+wordpress_id: 288
+title: Well its always nice
+wordpress_url: http://spaetzel.com/PermaLink,guid,289.aspx
+layout: post
+---
+Well its always nice to have your two hour class get out an hour early.<br />
+        <br />
+        Looks like I'll be able to get a few more hours of Project Zeto in today!<img width="0" height="0" src="http://spaetzel.com/aggbug.ashx?id=289" />

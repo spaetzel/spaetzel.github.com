@@ -1,0 +1,8 @@
+--- 
+wordpress_id: 552
+title: Comments Now Work!!!
+wordpress_url: http://spaetzel.com/PermaLink,guid,476.aspx
+layout: post
+---
+So, all of you that were dying to say something about my posts, you can finally do it. Becuase I managed to get commenting to work!
+        Just click on the Comments link at the bottom of every entry (Give it a try on this one)<img width="0" height="0" src="http://spaetzel.com/aggbug.ashx?id=476" />

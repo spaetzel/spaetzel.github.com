@@ -1,0 +1,13 @@
+--- 
+wordpress_id: 114
+title: Had a great week
+wordpress_url: http://spaetzel.com/PermaLink,guid,521.aspx
+layout: post
+---
+Well I had a great week with Laura-Lee last week. She arrived on Friday as my girlfriend and left on Sunday as my <a href="http://redune.com/node/520">fiance</a>.<br />
+        <br />
+        There were many fun events in between including a birthday party, a great picnic,
+        a trip to Stratford and wonderful fireworks.
+        <br />
+        <br />
+        I really cannot wait until I get to see my girl again.<img width="0" height="0" src="http://spaetzel.com/aggbug.ashx?id=521" />

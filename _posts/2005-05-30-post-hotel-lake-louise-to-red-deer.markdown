@@ -1,0 +1,12 @@
+--- 
+wordpress_id: 357
+title: Post Hotel, Lake Louise, To Red Deer
+wordpress_url: http://spaetzel.com/PermaLink,guid,65.aspx
+layout: post
+---
+Here is where we really experience the rockies. <br />
+        First of are a few more photos of the Post Hotel.<br />
+        Then we go on a hike up in the mountains behind Lake Lousie. It is so gorgeous up
+        there. I want to go back and spend a few weeks just hiking in the mountains.<br />
+        Finally are pictures of our drive to Red Deer where we were going to meet my brother.
+        (Look out for bears!)<img width="0" height="0" src="http://spaetzel.com/aggbug.ashx?id=65" />

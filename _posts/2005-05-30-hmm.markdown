@@ -1,0 +1,9 @@
+--- 
+wordpress_id: 369
+title: Hmm
+wordpress_url: http://spaetzel.com/PermaLink,guid,90.aspx
+layout: post
+---
+I just noticed that the styleheet is screwed up.<br />
+        I don't know why I dind't notice until now.<br />
+        Everything works, its just a touch ugly...<img width="0" height="0" src="http://spaetzel.com/aggbug.ashx?id=90" />

@@ -1,0 +1,30 @@
+--- 
+wordpress_id: 231
+title: Sweetie At Her Best
+wordpress_url: http://spaetzel.com/PermaLink,guid,4.aspx
+layout: post
+---
+<a href="http://www.flickr.com/photos/redune/3628467/" title="photo sharing"><img src="http://photos2.flickr.com/3628467_b6cc8ffb4e_m.jpg" alt="" style="border: solid 2px #000000;" /></a>
+        <br />
+        <br />
+        <br />
+        <span style="font-size: 0.9em; margin-top: 0px;"><a href="http://www.flickr.com/photos/redune/3628467/">Sweetie
+        At Her Best</a>
+        <br />
+        <br />
+        <br />
+        Originally uploaded by <a href="http://www.flickr.com/people/redune/">redune</a>.<br />
+        </span>
+        <br />
+        <br clear="all" />
+        <br />
+        <p style="">
+        So I am sitting here in London ready for another exciting weekend with my girl, this
+        post brought to you courtesy of Flickr.<br />
+        <br />
+        <br />
+        <br />
+        Here is my favourite girl talking away on the phone. I thought I'd have some fun with
+        my POTD today, so here it is!
+        </p>
+        <img width="0" height="0" src="http://spaetzel.com/aggbug.ashx?id=4" />

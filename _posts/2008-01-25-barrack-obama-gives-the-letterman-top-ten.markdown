@@ -1,0 +1,16 @@
+--- 
+wordpress_id: 17
+title: Barrack Obama Gives the Letterman Top Ten
+wordpress_url: http://spaetzel.com/PermaLink,guid,98b122a9-5ce9-4179-91af-d683c957b07d.aspx
+layout: post
+---
+<p>
+        The title says it all:
+        </p>
+        <div class="wlWriterSmartContent" id="scid:5737277B-5D6D-4f48-ABFC-DD9C333F4C5D:8e367fa2-c08b-4c6a-a15a-00570ce42ac8" style="padding-right: 0px; display: inline; padding-left: 0px; padding-bottom: 0px; margin: 0px; padding-top: 0px">
+        <div id="359254f5-3aea-4ef2-9e76-1a76238888cb" style="margin: 0px; padding: 0px; display: inline;">
+        <div><a href="http://www.youtube.com/watch?v=rOWlpvOPKXc&amp;rel=1" target="_new"><img src="http://spaetzel.com/content/binary/WindowsLiveWriter/BarrackObamaGivestheLettermanTopTen_BDF7/video65b5812c32c1.jpg" galleryimg="no" onload="var downlevelDiv = document.getElementById('359254f5-3aea-4ef2-9e76-1a76238888cb'); downlevelDiv.innerHTML = &quot;&lt;div&gt;&lt;object width=\&quot;425\&quot; height=\&quot;350\&quot;&gt;&lt;param name=\&quot;movie\&quot; value=\&quot;http://www.youtube.com/v/rOWlpvOPKXc&amp;rel=1\&quot;&gt;&lt;\/param&gt;&lt;param name=\&quot;wmode\&quot; value=\&quot;transparent\&quot;&gt;&lt;\/param&gt;&lt;embed src=\&quot;http://www.youtube.com/v/rOWlpvOPKXc&amp;rel=1\&quot; type=\&quot;application/x-shockwave-flash\&quot; wmode=\&quot;transparent\&quot; width=\&quot;425\&quot; height=\&quot;350\&quot;&gt;&lt;\/embed&gt;&lt;\/object&gt;&lt;\/div&gt;&quot;;" alt=""></a>
+        </div>
+        </div>
+        </div>
+        <img width="0" height="0" src="http://spaetzel.com/aggbug.ashx?id=98b122a9-5ce9-4179-91af-d683c957b07d" />

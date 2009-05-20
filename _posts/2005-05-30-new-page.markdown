@@ -1,0 +1,11 @@
+--- 
+wordpress_id: 548
+title: New Page
+wordpress_url: http://spaetzel.com/PermaLink,guid,468.aspx
+layout: post
+---
+To the voyeurs out there, you can check out the new feature of my webpage. My webcam.
+        Available at <a href=http://www2.redune.com:7042/webcam />http://www.redune.com/webcam/> The
+        cam will definitely not be up 24/7 Chances are it'll be off when anything intersting
+        is happening. All it will show is me sitting at the computer, doing whatever I do
+        there. This is just an experiment, we'll see if I keep it up...<img width="0" height="0" src="http://spaetzel.com/aggbug.ashx?id=468" />

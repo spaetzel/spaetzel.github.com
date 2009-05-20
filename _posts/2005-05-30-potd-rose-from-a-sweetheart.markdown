@@ -1,0 +1,21 @@
+--- 
+wordpress_id: 230
+title: "POTD: Rose from a Sweetheart"
+wordpress_url: http://spaetzel.com/PermaLink,guid,85.aspx
+layout: post
+---
+So my sweetie surprised me by calling up and asking "Is it ok if I come over for a bit?" Guess at my reply...<br />
+        She said she was only going to stay for an hour or so, thus I was very curious as
+        to her reason for coming.
+        <br />
+        Lo and behold when she gets off the bus she is holding this beautiful rose for me.
+        The first flowers that anyone has ever bought me <img alt=":-)" src="smilies/happy.gif">
+        <br />
+        <br />
+        Here is the rose she bought for me:<br />
+        <br />
+        <center><a href="../photos/Edited/Rose from a Sweetheart_l.jpg"><img src="../photos/Edited/Rose from a Sweetheart_m.jpg" border= 0></a>
+        </center>
+        <br />
+        I took a bunch of photos today, so beautiful out, the trees are starting to flower.
+        You'll enjoy the rest of the photos I took as well. You can see them <a href="../gallery/gallery.aspx?gallery=2004_04_24 - Flowers">here</a><img width="0" height="0" src="http://spaetzel.com/aggbug.ashx?id=85" />

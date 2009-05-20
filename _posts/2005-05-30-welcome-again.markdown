@@ -1,0 +1,8 @@
+--- 
+wordpress_id: 279
+title: Welcome again
+wordpress_url: http://spaetzel.com/PermaLink,guid,483.aspx
+layout: post
+---
+This is the future of Redune. What do you think? Is it great?<br />
+        <img width="0" height="0" src="http://spaetzel.com/aggbug.ashx?id=483" />

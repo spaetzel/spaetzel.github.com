@@ -1,0 +1,31 @@
+--- 
+wordpress_id: 499
+title: Nice Short Class
+wordpress_url: http://spaetzel.com/PermaLink,guid,362.aspx
+layout: post
+---
+<br />
+        If only all profs would let me out of class an hour early - I'd have a lot more free
+        time.<br />
+        <br />
+        Defnietly won't be having much of that this weekend.<br />
+        Here's my crazy schedule:<br />
+        <br />
+        Sat 8:30 <a href="http://westernmustangband.tripod.com">WMB</a> Performance at the
+        Kin Special Olympics<br />
+        Sat 11:00 Pick Up computers for the <a href="http://gibfest.redune.com">Western Gibfest </a>
+        <br />
+        Sat 12:00PM - Sun 12:00PM 24 Hours of gaming at the <a href="http://gibfest.redune.com">Western
+        Gibfest </a>
+        <br />
+        Sun 12:00PM Take back computers<br />
+        Sun 2:00PM - 4:00PM SLEEP!!!<br />
+        Sun 5:30 <a href="http://westernmustangband.tripod.com">WMB</a> Innertube water polo
+        game<br />
+        <br />
+        Going to be real crazy with very little sleep for 48 hours... Wish me luck!<br />
+        <br />
+        Btw, if you haven't signed up for the <a href="http://gibfest.redune.com">Western
+        Gibfest </a> yet, you better do it soon! Space is filling up. Come to the WEGA booth
+        in the UCC ASAP!!<br />
+        <img width="0" height="0" src="http://spaetzel.com/aggbug.ashx?id=362" />

@@ -1,0 +1,7 @@
+--- 
+wordpress_id: 316
+title: Victoria Park Concert
+wordpress_url: http://spaetzel.com/PermaLink,guid,59.aspx
+layout: post
+---
+Went to Victoria Park in Kitchener to watch my Dad play with the Bayfield winds in the gazebo there.<img width="0" height="0" src="http://spaetzel.com/aggbug.ashx?id=59" />

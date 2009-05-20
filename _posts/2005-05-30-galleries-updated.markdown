@@ -1,0 +1,18 @@
+--- 
+wordpress_id: 506
+title: Galleries Updated
+wordpress_url: http://spaetzel.com/PermaLink,guid,376.aspx
+layout: post
+---
+<br />
+        The latest photo galleries have been added to the <a href="http://www.redune.com/gallery">gallery
+        page</a>
+        <br />
+        The update includes the best photo days and events that I've been to in the last two
+        weeks.<br />
+        <br />
+        Also included are zip files for both Western Gibfest days.<br />
+        <a href="http://www.redune.com/photos/2004_1_24 - Western Gibfest.zip">Day 1</a>
+        <br />
+        <a href="http://www.redune.com/photos/2004_1_25 - Western Gibfest - Part 2.zip">Day
+        2</a><img width="0" height="0" src="http://spaetzel.com/aggbug.ashx?id=376" />

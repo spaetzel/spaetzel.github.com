@@ -1,0 +1,18 @@
+--- 
+wordpress_id: 379
+title: Finally There
+wordpress_url: http://spaetzel.com/PermaLink,guid,110.aspx
+layout: post
+---
+Now that was  a looong trip.<br />
+        Fortunately I spent most of the time asleap. At least between piddly little towns.
+        The bus stopped at a small town about every 1/2 hour of course waking me up.
+        <br />
+        The last 4 hours of that trip were soooo long though, I wasn't tired anymore so I
+        couldn't sleep, and I was almost there! I couldn't wait to see LL.<br />
+        It was so great to se her, missed her a lot. Lots of big squishes were exchanged.
+        <br />
+        We spent the day hanging around in Timmins, took a walk around a lake (What's it called
+        again Sweetie?), had a hot chocolate at Timmy's, watched a movie, All of it was great.<br />
+        <br />
+        Took some pictures too of course, here's a selection:<img width="0" height="0" src="http://spaetzel.com/aggbug.ashx?id=110" />

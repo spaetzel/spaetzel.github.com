@@ -1,0 +1,124 @@
+--- 
+wordpress_id: 366
+title: Silicon Blood
+wordpress_url: http://spaetzel.com/PermaLink,guid,84.aspx
+layout: post
+---
+I was looking through an old backup CD, and I discovered this essay I wrote back in OAC.<br />
+        In it I discuss how important technology had been to the evolution of humanity ever
+        since we walked our first steps on the earth.<br />
+        <!--more-->
+        <br />
+        <br />
+        People of today find it hard to avoid the influence of technology. The sound of a
+        digital alarm clock in the morning causes us to raise our heads from our pillow of
+        artificial down in our bed of artificial fibers and metal. We then go downstairs and
+        microwave some bacon for breakfast. Our day continues with the use of many more high
+        tech devices. Technology has always affected human kind ever since we first appeared
+        on this earth and will always affect us as long as we inhabit this universe. Some
+        people say that our race would have been better of had technology not entered the
+        picture. This opinion is simply wrong. Without the tools humans have developed--we
+        would not be in the picture at all.<br />
+        Back before humans were the dominant species on the earth, it was survival of the
+        fittest. Without our human ingenuity, we would have died out long ago. Australopithecus
+        was the first hominid--man-like creature--to make rudimentary tools. They created
+        stone weapons by breaking a piece of a stone to give it a sharp edge. This was necessary
+        to kill the animals they needed for food, which were much faster and stronger than
+        they were. The tool was so useful that its design was not changed for thousands of
+        years.
+        <br />
+        The simple weapons were the only innovation hominids made until the arrival of Homo
+        Erectus. Upon their evolution into the world completely new tools were introduced.
+        Not only did they make improved stone tools such as: axes, bows, and fire but there
+        has been a recent discovery that Homo Erectus was even a shipbuilder. Dr. Mike Norwood
+        from the University of England in New South Wales, has proof that they created boats
+        to reach an island which most animals could not get to. In the time of Erectus, 800
+        000 years ago, the island of Java was connected to Asia though a land bridge, but
+        they were also found on the island of Flores. Flores was never connected with a land
+        bridge, the water is simply too deep for that to occur. Dr. Norwood suggests that
+        the only way they could have reached the island is through the creation of boats.
+        Crossing to the island allowed them to have access to food sources, which the other
+        animals could not reach, giving them the advantage necessary for them to survive.
+        The human body is actually much less suited to survival than that of most of the other
+        animals alive at the time. Their superior brainpower allowed our ancestors to develop
+        innovations giving them the edge necessary to survive with a limited food supply.
+        The success of Homo Erectus allowed it to evolve eventually into modern day Homo Sapiens:
+        if Erectus became extinct, we would not be alive today. The technology of our ancestors
+        was what was necessary for them to survive.<br />
+        Some fiction writers have even suggested that the technology of alien species gave
+        humans their superior intelligence. In Arthur C. Clark's 2001 he shows that the mysterious
+        monolith which appears to the apes gave them the idea to use tools and kill other
+        animals both for food and to defend their food supply. Clark suggests that somehow
+        the monolith is responsible for causing our brain to evolve in the way it did. Although
+        this is not actually true, it does offer another argument for why technology is so
+        important for humanity's survival.<br />
+        Looking around the world us today, it is easy to see how much technology affects us.
+        It is involved in every aspect of our life. It is impossible think about one thing
+        in your life, which does not use technology in any way. The shoes on our feet, the
+        clothes on our back, the road we walk on, they are all results of technology. Our
+        economy almost completely runs itself around the action of high tech companies. With
+        the sudden fall of the tech sectors stocks in 2000, the entire stock market was devastated.
+        Add to that effect, the immense amount of attention that was given to the Microsoft
+        antitrust trial in the same year. The whole world was watching to see how it would
+        be affected by Microsoft's punishments.
+        <br />
+        An example we can see of the sour effects of no technology is found in the third world
+        countries. The countries are so poor that they cannot afford to buy any if the technology
+        that we take for granted in Canada. Those who suggest that the world would be better
+        off without technology need only look towards those who are forced to live without
+        it. The people of those countries all suffer from terrible disease, extreme malnutrition,
+        poor shelter, and dirty water. These problems can all be solved with the introduction
+        of technology into their country. The diseases could be cured with vaccines and antibiotics;
+        the malnutrition though advanced agricultural techniques; the shelter with the erection
+        of new buildings; and the water with the creation of a water treatment facility. It
+        is sad to think of how these people are forced to live, but that is the way the world
+        would be if we did not have any technology to rely on.
+        <br />
+        The recent completion of the map of the human genome opens a whole new world for technology
+        to help humanity. With the knowledge gained from this research, we will be able to
+        create new super drugs, able to defeat the world&#8217;s most deadly diseases. Soon
+        we will no longer have to worry about such killer diseases as AIDS or diabetes. The
+        mapping would not have been even conceivable without the use of entire office floors
+        full of supercomputers. Technology not only improves our lives but makes them last
+        longer as well.<br />
+        Looking into the future it looks like technology will strongly be guiding us through
+        the way. In Aldous Huxley's Brave New World, technology is used to create a world
+        almost completely without problems. Children are born and raised in automated hatcheries.
+        The hatcheries use advanced techniques to make sure the children are completely happy
+        with their position in society. Everyone is happy to be where he or she is. The adults
+        are kept happy through the distribution of the drug, soma. This utopia is all possible
+        by the complete and total integration of technology into their lives.<br />
+        Many people believe that eventually humanity will wear our planet out because of overpopulation,
+        pollution, or war. If this terrible circumstance ever occurs it will become necessary
+        to move off Earth and find a new place to live. Ringworld, by Larry Niven is an example
+        of the use of technology to create an artificial world for humanity to live on. He
+        proposes that we build an immense ring around the sun, one million miles across. This
+        world would have a surface area three million times that of the earth. All that would
+        be necessary is to take the materials from Jupiter and reform them into the desired
+        shape. This may be necessary if we are to survive for many more years. Since interstellar
+        travel is so slow, it may be easier to make ourselves somewhere else to live. While
+        seemingly unreasonable, this is an example of how technology could be our savior again.<br />
+        The role of savior is not an uncommon one for technology in science fiction literature.
+        Isaac Asimov, the author of hundreds of best-selling novels often gives it just that
+        role. In The Foundation Trilogy, Hari Seldon uses a new technology, psychohistory,
+        to prevent humanity from falling into a galactic war, which would end the lives of
+        billions of people. Psychohistory gives man to predict the future and prevent possible
+        terrible consequences. Again, we see technology coming to the rescue of our race.<br />
+        Clearly, technology is a thing that we cannot live without. It allowed us evolve past
+        our earliest years. It guides and helps us through our everyday lives. It saves lives
+        and improves the lives of the ill. It will allow us to achieve remarkable heights
+        and will help us to prevent Armageddon. Technology exists for the betterment of mankind;
+        we rely on it to live our lives. For those who feel that we do not need it or would
+        be better off without it, they should try to live a day without it.<br />
+        <br />
+        <h2>Works Cited
+        </h2>
+        <br />
+        Asimov, Isaac. The Foundation Trilogy. Avon Publishers. New York, 1974.<br />
+        Bronowski, Jacob. The Ascent of Man. Little, Brown and Company. Toronto, 1973.<br />
+        Clark, Arthur C. 2001. Ballantine Books. Toronto, 1964.<br />
+        Huxley, Aldous. Brave New World. Penguin Books. Boston, 1932<br />
+        Kunzig, Robert. Erectus Afloat. <a href="http://www.findarticles.com/m1511/1_20/53501818/p1/ article.jhtml">http://www.findarticles.com/m1511/1_20/53501818/p1/
+        article.jhtml</a>. December 10, 2000.<br />
+        Niven, Larry. Ringworld. Ballantine Books. Toronto, 1970.<br />
+        <img width="0" height="0" src="http://spaetzel.com/aggbug.ashx?id=84" />

@@ -1,0 +1,14 @@
+--- 
+wordpress_id: 542
+title: "POTD / Photofriday: Perspective"
+wordpress_url: http://spaetzel.com/PermaLink,guid,456.aspx
+layout: post
+---
+<a href="http://www.photofriday.com"><img src="../images/photofriday.gif" alt="Photo Friday" width="194" height="39" border="0" align="right"></a>Here
+        is my fourth entry into the weekly Photo Friday challenge. Photo Friday is a weekly
+        challenge where a single word is given and photographers are asked to take a photo
+        that captures that word. This week's challenge is Perspective. Clearly the subject
+        of this shot has a bit of a perspective problem. I guess someone who owns a TT Roadster
+        must have permission to park wherever he wants.
+        <p align="center">
+        <a href="http://www.redune.com/photos/photofriday/2004_03_05 - Perspective_l.jpg"><img src="http://www.redune.com/photos/photofriday/2004_03_05 - Perspective_m.jpg" alt="Perspective" border="0"></a><img width="0" height="0" src="http://spaetzel.com/aggbug.ashx?id=456" />

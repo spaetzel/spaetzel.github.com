@@ -1,0 +1,14 @@
+--- 
+wordpress_id: 173
+title: "&lt;strong&gt;Internships,"
+wordpress_url: http://spaetzel.com/PermaLink,guid,357.aspx
+layout: post
+---
+<strong>Internships, done for now</strong>
+        <br />
+        Well I just finished sending off the last application for internships.<br />
+        As is there are no more that I can apply to -- I'm hoping more positions will show
+        up soon. But its nice to take a break from writing so many cover letters.<br />
+        <br />
+        Now to read PSYCH!!!<br />
+        <img width="0" height="0" src="http://spaetzel.com/aggbug.ashx?id=357" />

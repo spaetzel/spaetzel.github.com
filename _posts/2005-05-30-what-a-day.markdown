@@ -1,0 +1,18 @@
+--- 
+wordpress_id: 161
+title: What a day!
+wordpress_url: http://spaetzel.com/PermaLink,guid,327.aspx
+layout: post
+---
+<strong>What a day!</strong>
+        <br />
+        Well I've had an extremely productive day!<br />
+        I sat though my six hours of class. The last three were rather tough, I just can't
+        sit and learn things I already know over and over again so much.<br />
+        I wrote a cover letter for DuPont, and prepared that application.<br />
+        I updated the poster for the Band's concert (See it in an earlier post)<br />
+        I finished the Western Gibfest website (Also see this one below)<br />
+        <br />
+        Now it's time to relax for a bit, ahh. Maybe I'll actually have time to do some homework
+        tommorow. That's Comp Sci essay is looming over my head. I'm not looking forward to
+        that.<img width="0" height="0" src="http://spaetzel.com/aggbug.ashx?id=327" />

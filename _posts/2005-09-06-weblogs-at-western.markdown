@@ -1,0 +1,25 @@
+--- 
+wordpress_id: 96
+title: Weblogs at Western
+wordpress_url: http://spaetzel.com/PermaLink,guid,539.aspx
+layout: post
+---
+Welcome to everyone that is visiting Redune.com for the first time. I hope that all of the readers that are coming in from <a href="http://communications.uwo.ca/weblogs/index.htm">Weblogs
+        at Western</a> will keep on coming back again.<br />
+        <br />
+        I<br />
+        am currently hosting my weblog off of livejournal due to the fact that<br />
+        I am moving back to London this weekend. I have been working in<br />
+        Waterloo for the last 16 months at <a href="http://www.maplesoft.com">Maplesoft</a> on
+        an <a href="http://www.uwo.ca/sci/iip/">Internship</a>.<br />
+        <br />
+        I<br />
+        hope to have the weblog back over on my own server as soon as possible.<br />
+        Hopefully that will be some time next week. In the meantime, feel free<br />
+        to browse around my livejournal and also check out my <a href="http://flickr.com/photos/redune/">Photos
+        on Flickr</a>.<br />
+        <br />
+        I'm also glad to see that UWO has chosen one of <a href="http://www.flickr.com/photos/redune/4750346/in/pool-western/">my
+        photos</a> to be highlighed on their <a href="http://communications.uwo.ca/weblogs/photoblog.htm">photoblog</a>.
+        Once I'm back in London, I'll be taking lots of photos of UWO and area and hope to
+        see many more of my shots there.<img width="0" height="0" src="http://spaetzel.com/aggbug.ashx?id=539" />

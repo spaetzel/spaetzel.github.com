@@ -1,0 +1,18 @@
+--- 
+wordpress_id: 256
+title: And We're back!
+wordpress_url: http://spaetzel.com/PermaLink,guid,445.aspx
+layout: post
+---
+Redune.com is now back fully again. Just had to turn the computer on. Looks like there was a power failure.<br />
+        <br />
+        My apartment is sooo clean. Its awful nice having a landlord who is trying to sell
+        your apartment. He shampooed the carpet, cleaned the bathroom and kitchen. Even scrubbed
+        the kitchen floor.
+        <br />
+        Now to see if I can keep it up.<br />
+        <br />
+        And it looks like photos of my apartment may be online as well. Have to go find it,
+        I'll post the link when I find it.<br />
+        <br />
+        And stay tuned for huge changes around here....<img width="0" height="0" src="http://spaetzel.com/aggbug.ashx?id=445" />

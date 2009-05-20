@@ -1,0 +1,22 @@
+--- 
+wordpress_id: 308
+title: I love bees
+wordpress_url: http://spaetzel.com/PermaLink,guid,155.aspx
+layout: post
+---
+Ok, this is some weird stuff. I just watched the Halo 2 Theatrical trailer and at the end when it flashes the Xbox logo and xbox.com, it briefly shows <a href="http://www.ilovebees.com/">ilovebees.com</a>
+        <br />
+        <br />
+        So I go to the site and see some weird stuff going on there. The "owner" of the site
+        set up a seperate blog with a <a href="http://ilovebees.blogspot.com/2004/07/ladybee777-odd-behavior-cry-for-help.html">post</a> talking
+        about the error. This post has about 100 comments on it about the very thing that
+        I found. Also, there is a <a href="http://www.bungie.net/Forums/posts.aspx?postID=364518&viewreplies=true&postRepeater1-p=1">huge
+        thread</a> on the bungie forums on the same issue. I checked the <a href="http://www.networksolutions.com/en_US/whois/results.jhtml;jsessionid=T3QLBXAPZ4ZKQCWLEAMCFFA?whoistoken=0&_requestid=96346">WHOIS</a> information
+        for this site, and it looks like it was first registered on June 14, 2004.
+        <br />
+        <br />
+        So, my theory is that this is some really weird marketing from Microsoft. We'll have
+        to wait and see what happens here.<br />
+        <br />
+        If you want to see for yourself, you can <a href="http://www.redune.com/downloads/halo2_theatricaltrailer_072304_1200.wmv">download</a> the
+        movie yourself and check it out. It is worth watching even without the weirdness.<img width="0" height="0" src="http://spaetzel.com/aggbug.ashx?id=155" />

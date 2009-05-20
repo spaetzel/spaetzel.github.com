@@ -1,0 +1,17 @@
+--- 
+wordpress_id: 394
+title: Bright in the Grey
+wordpress_url: http://spaetzel.com/PermaLink,guid,140.aspx
+layout: post
+---
+<div id="thumb">
+        <cpg_albumthumb>
+        8|1
+        </cpg_albumthumb>
+        </div>
+        <br />
+        The weather today was pretty miserable. Very grey and wet, but it did give me two
+        showers when all I wanted was one...<br />
+        <br />
+        These flowers looked particuarly nice today, and the photo came out even better. I've
+        even created a gallery of the other pictures that I took today.<img width="0" height="0" src="http://spaetzel.com/aggbug.ashx?id=140" />

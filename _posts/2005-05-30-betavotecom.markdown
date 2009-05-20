@@ -1,0 +1,11 @@
+--- 
+wordpress_id: 405
+title: BetaVote.com
+wordpress_url: http://spaetzel.com/PermaLink,guid,164.aspx
+layout: post
+---
+<a href="http://www.betavote.com/">BetaVote.com</a>
+        <br />
+        I usually avoid the political babble that I find on so many weblogs, but this website
+        is interesting. It is asking the world to cast their votes in the US election. Curious
+        to see how everyone else is picking their "World Cop"<img width="0" height="0" src="http://spaetzel.com/aggbug.ashx?id=164" />

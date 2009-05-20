@@ -1,0 +1,11 @@
+--- 
+wordpress_id: 396
+title: Dance, Voldo, Dance
+wordpress_url: http://spaetzel.com/PermaLink,guid,146.aspx
+layout: post
+---
+<a href="http://www.bainst.com/madness/voldo.html">Dance, Voldo, Dance</a>
+        <br />
+        Now this is rather cool. Any Soul Calibur 2 Fans have to check it out. Two guys with
+        way too much time on their hands managed to make a music video of two Voldo's dancing
+        together.<img width="0" height="0" src="http://spaetzel.com/aggbug.ashx?id=146" />

@@ -1,0 +1,10 @@
+--- 
+wordpress_id: 275
+title: "POTD: The Hand"
+wordpress_url: http://spaetzel.com/PermaLink,guid,463.aspx
+layout: post
+---
+I saw this tree on the way home today, and it struck me as though it looks like a witch's hand, reaching into the sky. I think I'll have to go see if I can take another photo of it at night. Might look pretty cool.
+        <center><a href="http://www.redune.com/photos/Edited/The Hand_l.jpg"><img src="http://www.redune.com/photos/Edited/The Hand_m.jpg" border= 0></a>
+        </center>
+        <img width="0" height="0" src="http://spaetzel.com/aggbug.ashx?id=463" />

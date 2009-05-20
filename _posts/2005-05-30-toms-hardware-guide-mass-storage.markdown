@@ -1,0 +1,11 @@
+--- 
+wordpress_id: 446
+title: "Tom's Hardware Guide Mass Storage:"
+wordpress_url: http://spaetzel.com/PermaLink,guid,248.aspx
+layout: post
+---
+<a href="http://www6.tomshardware.com/storage/20030617/index.html">Tom's Hardware
+        Guide Mass Storage: The WinFS File System For Windows Longhorn: Faster & Smarter </a>
+        <br />
+        THG has a very intersting article up about the new features and advantages of the
+        upcoming file system in the next Windows.<img width="0" height="0" src="http://spaetzel.com/aggbug.ashx?id=248" />

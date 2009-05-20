@@ -1,0 +1,7 @@
+--- 
+wordpress_id: 442
+title: This just in, wise words
+wordpress_url: http://spaetzel.com/PermaLink,guid,240.aspx
+layout: post
+---
+This just in, wise words from James Spaetzel, "[Redune is] hip and happening"<img width="0" height="0" src="http://spaetzel.com/aggbug.ashx?id=240" />

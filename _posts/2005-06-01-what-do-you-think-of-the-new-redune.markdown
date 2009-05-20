@@ -1,0 +1,7 @@
+--- 
+wordpress_id: 139
+title: What do you think of the new Redune?
+wordpress_url: http://spaetzel.com/PermaLink,guid,493.aspx
+layout: post
+---
+<img width="0" height="0" src="http://spaetzel.com/aggbug.ashx?id=493" />

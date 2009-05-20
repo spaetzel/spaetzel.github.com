@@ -1,0 +1,7 @@
+--- 
+wordpress_id: 568
+title: Now on Wordpress 2.7
+wordpress_url: http://spaetzel.com/2008/12/now-on-wordpress-27/
+layout: post
+---
+I just upgraded both spaetzel.com and <a href="http://blog.castroller.com">blog.castroller.com</a> to Wordpress 2.7. I must say, this is quite the dramatic improvement. Congrats to the Wordpress team, they certainly are a team of very talented developers and I look forward to whatever they release next.

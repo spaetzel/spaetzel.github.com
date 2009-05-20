@@ -1,0 +1,29 @@
+--- 
+wordpress_id: 352
+title: Montreal Posted
+wordpress_url: http://spaetzel.com/PermaLink,guid,34.aspx
+layout: post
+---
+<style type="text/css">
+        .flickr-photo { border: solid 2px #000000; }
+        .flickr-yourcomment { }
+        .flickr-frame { text-align: left; padding: 3px; }
+        .flickr-caption { font-size: 0.8em; margin-top: 0px; }
+        </style>
+        <div class="flickr-frame">
+        <a href="http://www.flickr.com/photos/redune/6564200/" title="photo sharing"><img src="http://photos8.flickr.com/6564200_825fa0aabd.jpg" class="flickr-photo" alt="" /></a>
+        <br />
+        <span class="flickr-caption"><a href="http://www.flickr.com/photos/redune/6564200/">Band
+        All Over</a>, originally uploaded by <a href="http://www.flickr.com/people/redune/">redune</a>.</span>
+        </div>
+        <p class="flickr-yourcomment">
+        Well I had a wonderful time in Montreal on the weekend.
+        <br />
+        <br />
+        The Western Mustang Band travelled there to take part in the St. Patrick's Day parade
+        on Sunday. I was able to come along by carrying a flag.
+        <br />
+        <br />
+        You can take a look at the rest of the pictures <a href="http://www.flickr.com/photos/redune/tags/montreal/">here</a>
+        </p>
+        <img width="0" height="0" src="http://spaetzel.com/aggbug.ashx?id=34" />

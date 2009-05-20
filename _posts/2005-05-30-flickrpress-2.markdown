@@ -1,0 +1,20 @@
+--- 
+wordpress_id: 436
+title: Flickrpress
+wordpress_url: http://spaetzel.com/PermaLink,guid,226.aspx
+layout: post
+---
+Well I just whipped up a cool php script that automatically checks <a href="http://www.flickr.com">Flickr</a> and
+        gets the pictures that I uploaded to the site in the last day. It then posts the thumbnails
+        to my weblog.<br />
+        <br />
+        You can see the results in the post below.<br />
+        <br />
+        I based this on a script that gets my links of the day from <a href="http://del.icio.us">del.icio.us</a>.
+        You can also see the results of this running below.
+        <br />
+        <br />
+        I will be setting up proper installation instructions shortly so that all <a href="http://www.flickr.com">Flickr</a> and <a href="http://www.wordpress.org">Wordpress</a> users
+        can check it out!<br />
+        <br />
+        Update: The full information on the plugin can be found <a href="http://www.redune.com/wp/index.php?p=515">here</a><img width="0" height="0" src="http://spaetzel.com/aggbug.ashx?id=226" />

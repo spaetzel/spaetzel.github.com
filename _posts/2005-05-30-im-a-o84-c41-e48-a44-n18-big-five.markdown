@@ -1,0 +1,16 @@
+--- 
+wordpress_id: 286
+title: I'm a O84-C41-E48-A44-N18 Big Five!!
+wordpress_url: http://spaetzel.com/PermaLink,guid,459.aspx
+layout: post
+---
+<a title="Your Big Five Results" href="http://www.outofservice.com/bigfive/results/?o=84&c=41&e=48&a=44&n=18">My
+        Big Five Results</a>
+        <br />
+        <br />
+        We were asked to fill out this survey for my psych class. Looks like the results seem
+        to make sense for me.<br />
+        I'm just hoping that I don't have the same results as every one else in the world.<br />
+        <br />
+        <a href="http://www.outofservice.com/bigfive/">Take the test yourself</a> and let
+        me know if you get the same results.<img width="0" height="0" src="http://spaetzel.com/aggbug.ashx?id=459" />

@@ -1,0 +1,16 @@
+--- 
+wordpress_id: 414
+title: Working away
+wordpress_url: http://spaetzel.com/PermaLink,guid,182.aspx
+layout: post
+---
+So today was a pretty productive day. I did a bunch of shopping around after work, did my weekly Future Shop visit. Bought a nice costume for Halloween (A prince, but which prince? You'll have to guess). <br />
+        <br />
+        I then visited EB where I saw that they already have the PStwo, I thought it didn't
+        come out until November, I'm definitely considering getting myself one of those, they
+        look awful great, and I have a bunch of PS2 games that I'm dying to try.
+        <br />
+        <br />
+        Also, it looks like they'll be opening up at 12:00 AM on Nov 9. hmm, perhaps I'll
+        find myself there, take a nap right after work in the 8th, and then Halo 2 it like
+        mad all night... Maybe it'll work, maybe its stupid. We'll see. <img width="0" height="0" src="http://spaetzel.com/aggbug.ashx?id=182" />

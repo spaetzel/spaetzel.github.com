@@ -1,0 +1,13 @@
+--- 
+wordpress_id: 75
+title: Back from Christmas (In Port Elgin)
+wordpress_url: http://spaetzel.com/PermaLink,guid,563.aspx
+layout: post
+---
+So I just got back from Kitchener a few minutes ago. So I am now back online and catching up with the web.<br />
+        <br />
+        I had a great Christmas with my family. Lots of good times were had with everyone.
+        And now I've got 5 DVDs to watch and a whole lot of tools for my toolbox.
+        <br />
+        <br />
+        I'll be uploading photos to Flickr very soon. First, I've got to download them.<img width="0" height="0" src="http://spaetzel.com/aggbug.ashx?id=563" />

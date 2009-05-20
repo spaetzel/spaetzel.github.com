@@ -1,0 +1,15 @@
+--- 
+wordpress_id: 292
+title: BEST NEWS EVER
+wordpress_url: http://spaetzel.com/PermaLink,guid,439.aspx
+layout: post
+---
+DEAR WILLIAM,
+        You have been extended an internship job offer by Maplesoft.
+        Please come to the Student Development Centre (UCC 210) on the first work day following receipt of this message to discuss the terms of the job offer (length of work term, start date, salary, etc.).
+        You can sign up for an appointment at the SDC reception desk.
+        Thank you,
+        Colleen Sutherland
+        Coordinator, Internship Programs
+        Career Services, SDC
+        The University of Western Ontario<img width="0" height="0" src="http://spaetzel.com/aggbug.ashx?id=439" />

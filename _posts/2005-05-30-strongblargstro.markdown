@@ -1,0 +1,19 @@
+--- 
+wordpress_id: 194
+title: "&lt;strong&gt;Blarg!&lt;/stro"
+wordpress_url: http://spaetzel.com/PermaLink,guid,333.aspx
+layout: post
+---
+<strong>Blarg!</strong>
+        <br />
+        I really don't like writing essays!<br />
+        Although I am finding reading about <a href="http://www.extremeprogramming.org">Extreme
+        programming</a> intersting. I'm just not a fan of huge three thousand word essays.<br />
+        Ah well, it'll be over on Sunday.<br />
+        <br />
+        I filled out a bunch of internship applications today.<br />
+        Two for Honeywell, Five more for IBM and one for Bruce Power.<br />
+        <br />
+        Honeywell even wants someone with C# experience - Glad to have picked that up, will
+        give me a bit of an advantage!<br />
+        <img width="0" height="0" src="http://spaetzel.com/aggbug.ashx?id=333" />

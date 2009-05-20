@@ -1,0 +1,12 @@
+--- 
+wordpress_id: 464
+title: Darn it's cold!Looks like winter
+wordpress_url: http://spaetzel.com/PermaLink,guid,286.aspx
+layout: post
+---
+Darn it's cold!<br />
+        <br />
+        Looks like winter has finally arrived, we've got snow on the ground and a wind that
+        "feels like it will burn your face off"<br />
+        <br />
+        I know a certain somebody would say that its nothing, but arg! It's cold!<img width="0" height="0" src="http://spaetzel.com/aggbug.ashx?id=286" />

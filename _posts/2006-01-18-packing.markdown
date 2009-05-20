@@ -1,0 +1,16 @@
+--- 
+wordpress_id: 62
+title: Packing
+wordpress_url: http://spaetzel.com/PermaLink,guid,578.aspx
+layout: post
+---
+<p>
+        <a href="http://www.flickr.com/people/redune/">redune</a> posted a photo:
+        </p>
+        <p>
+        <a href="http://www.flickr.com/photos/redune/86884667/" title="Packing"><img src="http://static.flickr.com/37/86884667_6ef13312a8_m.jpg" width="160" height="240" alt="Packing" style="border: 1px solid #ddd;" /></a>
+        </p>
+        <p>
+        Walking along the Thames River in London Ontario
+        </p>
+        <img width="0" height="0" src="http://spaetzel.com/aggbug.ashx?id=578" />

@@ -1,0 +1,14 @@
+--- 
+wordpress_id: 494
+title: Ding Dong, the essay is done!
+wordpress_url: http://spaetzel.com/PermaLink,guid,350.aspx
+layout: post
+---
+<br />
+        Well that was a fun experience. I fully expected to be making use of a late ticket
+        - Instead managed to get it in on time. Good feeling having it done.<br />
+        I'll post the link to the page once I get my mark back - I don't want to get nailed
+        for plaigarizing my own site.<br />
+        Now today (After sleep) I've got to do like 4 internship applications. And then finally
+        pick up my housecoat! It'll be reall nice to have that back -- No more cold mornings
+        for me!<img width="0" height="0" src="http://spaetzel.com/aggbug.ashx?id=350" />

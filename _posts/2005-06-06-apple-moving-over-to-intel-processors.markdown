@@ -1,0 +1,24 @@
+--- 
+wordpress_id: 132
+title: Apple Moving over to Intel Processors
+wordpress_url: http://spaetzel.com/PermaLink,guid,502.aspx
+layout: post
+---
+So the rumours that have been flying about are true. All Apple Macintosh computers in the future will be running on Intel processors. This means that all software written for OS X  will have to be rebuilt for the new machines. <br />
+        <br />
+        I had been dreaming of buying myself a Mac, I wasn't planning on getting one soon,
+        but now I know for sure that I won't be buying one for a while. We will probably have
+        to wait until at least Spring 2006 before the first Intel based Macintoshes come out.
+        Any Macs bought now will be obsolete very quickly.
+        <br />
+        <br />
+        What do I think of the move? I don't know. It it funny thinking that a Macintosh will
+        be running the same hardware as the PC that I am using now. All that seperates them
+        is the Operating System.
+        <br />
+        <br />
+        I'm curious to see how this will resonate throughout the tech world.
+        <br />
+        <br />
+        <a href="http://www.theappleblog.com/2005/06/06/apple-announces-move-to-intel/">Read
+        the press release</a><img width="0" height="0" src="http://spaetzel.com/aggbug.ashx?id=502" />

@@ -1,0 +1,16 @@
+--- 
+wordpress_id: 505
+title: "APOTD: The Light"
+wordpress_url: http://spaetzel.com/PermaLink,guid,374.aspx
+layout: post
+---
+<br />
+        Sorry, but I forgot to bring my camera out with me today - However, I think you'll
+        all be happy with todays picutre anyhow.
+        <br />
+        I took this one back in August, at the Bruce Power picnic at the Port Elgin beach.
+        A rather amazing fireworks shot<br />
+        <center><a href="http://www.redune.com/photos/Edited/The Light_l.jpg"><img src="/spaetzel/photos/Edited/The Light_m.jpg" border= 0></a>
+        </center>
+        <br />
+        You can see the rest of the photos I took that day <a href="http://www.redune.com/gallery/gallery.aspx?gallery=2003_08_16 - hydro picnic">here</a><img width="0" height="0" src="http://spaetzel.com/aggbug.ashx?id=374" />

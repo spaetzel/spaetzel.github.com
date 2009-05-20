@@ -1,0 +1,35 @@
+--- 
+wordpress_id: 18
+title: Twitter, Reliability and Decentralization
+wordpress_url: http://spaetzel.com/PermaLink,guid,43b580f1-5e87-4676-8047-b6e1f0581c59.aspx
+layout: post
+---
+<p>
+        As you may know, I am a big fan of <a href="http://twitter.com/spaetzel">Twitter</a>.
+        Recently, during Steve Jobs' Macworld keynote, many Twitter users wanted to share
+        their thoughts on the keynote as it happened, unfortunately, Twitter was unavailable
+        for most of the time that Steve was on the stage and for much of the afternoon following.
+        This is not unusual for Twitter, their servers seem unable to cope with the stress
+        of high volume events. Of course, developing any website to handle this stress is
+        difficult, so I cannot fault them. The problem is that the community is locked into
+        using the same site for all of our Microblogging. It is possible that everyone would
+        switch to another service such as <a href="http://pownce.com/spaetzel/">Pownce</a>,
+        but as with Twitter, there is no guarantee that the new site would be any more reliable.
+        </p>
+        <p>
+        Russell Beattie posted a good idea, <a href="http://www.russellbeattie.com/blog/decentralized-twitter-thoughts">using
+        instant messaging clients</a> as our Microblogging system. He suggested that we have
+        a bot on our IM list that automatically repeats to our full IM list, all messages
+        we send to it. There could be multiple services that offer bots that do this, and
+        if they all support a <a href="http://www.jabber.org/">common IM protocol</a>, there
+        is nothing stopping us all from using different bots.
+        </p>
+        <p>
+        This would solve the problem of having all of the conversations muted, when one service
+        goes down. True, if one bot goes down, its users would be silenced, but they could
+        move onto another service quite easily.
+        </p>
+        <p>
+        Now, we have to see if anyone will implement this as a solution to the problem.
+        </p>
+        <img width="0" height="0" src="http://spaetzel.com/aggbug.ashx?id=43b580f1-5e87-4676-8047-b6e1f0581c59" />

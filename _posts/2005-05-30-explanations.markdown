@@ -1,0 +1,16 @@
+--- 
+wordpress_id: 384
+title: Explanations
+wordpress_url: http://spaetzel.com/PermaLink,guid,120.aspx
+layout: post
+---
+So.<br />
+        I've been really slacking off on the posts. Not quite sure why.
+        <br />
+        I blame it on the pending upgrade. I'd like to set the site up on a dedicated server.
+        But I am currently waiting for the server to become available.<br />
+        <br />
+        Hopefully I'll get back on it then.<br />
+        <br />
+        Also, at the moment pictures don't work because I upgraded Wordpress which boggled
+        the old photo plugin. So I've got to get around to reinstalling that...<img width="0" height="0" src="http://spaetzel.com/aggbug.ashx?id=120" />

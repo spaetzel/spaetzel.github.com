@@ -1,0 +1,11 @@
+--- 
+wordpress_id: 106
+title: Flying 747 Caught on Google Maps!
+wordpress_url: http://spaetzel.com/PermaLink,guid,529.aspx
+layout: post
+---
+I am surprised we don't see more of this.<br />
+        <br />
+        <a href="http://maps.google.com/maps?q=duchesne+avenue,+st.+charles,+mo&ll=38.779112,-90.499095&spn=0.006086,0.006554&t=h&num=10&start=0&hl=en">read
+        more</a>&nbsp;|&nbsp;<a href="http://digg.com/technology/Flying_747_Caught_on_Google_Maps_">digg
+        story</a><img width="0" height="0" src="http://spaetzel.com/aggbug.ashx?id=529" />

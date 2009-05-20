@@ -1,0 +1,13 @@
+--- 
+wordpress_id: 251
+title: "&lt;strong&gt;Redune.com,"
+wordpress_url: http://spaetzel.com/PermaLink,guid,411.aspx
+layout: post
+---
+<strong>Redune.com, now faster!</strong>
+        <br />
+        Netscape users may have noticed that the site rendered oddly. This was caused by using
+        JavaScript to include the Blogroll and BlogSnob code.<br />
+        I have replaced the JavaScript by including an RSS feed instead. So now all the processing
+        is done at the server, thus much faster and elegant for you.<br />
+        <img width="0" height="0" src="http://spaetzel.com/aggbug.ashx?id=411" />

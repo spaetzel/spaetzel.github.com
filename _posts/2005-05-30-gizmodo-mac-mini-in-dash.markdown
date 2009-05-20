@@ -1,0 +1,14 @@
+--- 
+wordpress_id: 426
+title: "Gizmodo : Mac mini: In-Dash"
+wordpress_url: http://spaetzel.com/PermaLink,guid,206.aspx
+layout: post
+---
+<a href="http://www.gizmodo.com/gadgets/laptops-pcs/apple/mac-mini-indash-029657.php">Gizmodo
+        : Mac mini: In-Dash</a>
+        <br />
+        <br />
+        Didn't see this coming at all. This is definitely a great use of a Mac Mini, put it
+        in the dash of your car. Would be great for DVD, music, navigation, etc.<br />
+        <br />
+        If only I could afford all of that... Some day<img width="0" height="0" src="http://spaetzel.com/aggbug.ashx?id=206" />

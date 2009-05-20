@@ -1,0 +1,12 @@
+--- 
+wordpress_id: 540
+title: "POTD: Nighttime"
+wordpress_url: http://spaetzel.com/PermaLink,guid,452.aspx
+layout: post
+---
+Just got back from another really boring internship presentation. Fortunately its the last one that I have to do. Now all that's left is to actually go to the job!
+        Took this on the way back from the bus. I was dissapoitned because the photo came out very grainy. But then I played with the photoshop filters and ended up with this.
+        I hope y ou like
+        <center><a href="http://www.redune.com/photos/Edited/Nighttime_l.jpg"><img src="http://www.redune.com/photos/Edited/Nighttime_m.jpg" border= 0></a>
+        </center>
+        <img width="0" height="0" src="http://spaetzel.com/aggbug.ashx?id=452" />

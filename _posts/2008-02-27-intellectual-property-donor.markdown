@@ -1,0 +1,27 @@
+--- 
+wordpress_id: 8
+title: Intellectual Property Donor
+wordpress_url: http://spaetzel.com/PermaLink,guid,b4595892-d581-4232-af10-cb562eddd97f.aspx
+layout: post
+---
+<p>
+        Here is an interesting idea:
+        </p>
+        <p>
+        <a href="http://ni9e.com/public_domain_donor.php"><img style="border-right: 0px; border-top: 0px; border-left: 0px; border-bottom: 0px" height="192" alt="pd_donar_800px" src="http://spaetzel.com/content/binary/WindowsLiveWriter/IntellectualPropertyDonor_B8CF/pd_donar_800px_3.jpg" width="504" border="0"></a>
+        </p>
+        <p>
+        The idea is that after your death, you will donate all of your intellectual property
+        into the public domain, overriding the current 70 year copyright waiting period following
+        your death.
+        </p>
+        <p>
+        I'm not running out to carry around a card like this, I am already releasing much
+        of my work under Creative Commons, so I don't see the need to have things change when
+        I die.
+        </p>
+        <p>
+        <a href="http://ni9e.com/public_domain_donor.php">Public Domain Donor</a> via <a href="http://twitter.com/hughmcguire/statuses/764089007">Hugh
+        McGuire</a>
+        </p>
+        <img width="0" height="0" src="http://spaetzel.com/aggbug.ashx?id=b4595892-d581-4232-af10-cb562eddd97f" />

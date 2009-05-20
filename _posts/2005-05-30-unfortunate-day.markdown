@@ -1,0 +1,14 @@
+--- 
+wordpress_id: 407
+title: Unfortunate Day
+wordpress_url: http://spaetzel.com/PermaLink,guid,168.aspx
+layout: post
+---
+So, I've been having the worst luck with my rear tire of my bike. I managed to get yet another flat, this time on the way to work. It meant that I had to walk from Conestoga Mall to Maplesoft. Fortunately, it wasn't that far to go, and I didn't have to wear my bike shoes the whole way becuase I had sandals in my backpack. I ended up being a little late for work, but not a big deal.<br />
+        <br />
+        Hmm, it looks like I have taken a whole 24 hours to write the post... Got distracted
+        by a cute girl I think.<br />
+        <br />
+        Anyhow, I got a ride back home from a coworker so things worked out pretty well. Going
+        to go buy a new tube and tire on Saturday and hopefully this problem will be solved
+        for good.<img width="0" height="0" src="http://spaetzel.com/aggbug.ashx?id=168" />

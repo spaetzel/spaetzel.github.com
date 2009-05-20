@@ -1,0 +1,13 @@
+--- 
+wordpress_id: 497
+title: "POTD: In The Depths"
+wordpress_url: http://spaetzel.com/PermaLink,guid,358.aspx
+layout: post
+---
+<br />
+        We really got a lot of snow in London last night. Created a number of intersting scenes.
+        Here is on of the best that I captured.<br />
+        <center><a href="http://www.redune.com/photos/Edited/In The Depths_l.jpg"><img src="/spaetzel/photos/Edited/In The Depths_m.jpg" border= 0></a>
+        </center>
+        <br />
+        You can look at the rest of the photos that I took today <a href="http://www.redune.com/gallery/gallery.aspx?gallery=2004_01_20 - Like the Yukon">here</a><img width="0" height="0" src="http://spaetzel.com/aggbug.ashx?id=358" />

@@ -1,0 +1,11 @@
+--- 
+wordpress_id: 549
+title: "POTD: Lookin' Good"
+wordpress_url: http://spaetzel.com/PermaLink,guid,470.aspx
+layout: post
+---
+So I had a heck of a time going for a walk with my sweetheart today.  We had some fun with my camera on the way.  Thought I'd put up my favourite picture that she took.   Hope you like it. <br />
+        <center><a href="http://www.redune.com/photos/Edited/Lookin Good_l.jpg"><img src="http://www.redune.com/photos/Edited/Lookin Good_m.jpg" border= 0></a>
+        </center>
+        <br />
+        You can see the rest of the photos we took today <a href="http://www.redune.com/gallery/gallery.aspx?gallery=2004_04_09 - Walking with a Sweetie">here</a><img width="0" height="0" src="http://spaetzel.com/aggbug.ashx?id=470" />

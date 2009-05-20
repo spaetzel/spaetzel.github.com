@@ -1,0 +1,13 @@
+--- 
+wordpress_id: 39
+title: White and Nerdy
+wordpress_url: http://spaetzel.com/PermaLink,guid,614.aspx
+layout: post
+---
+Sorry, I had to give this one a try. I'm actually surprised how low my score is.<br />
+        <br />
+        <a href="http://www.bbspot.com/News/2006/09/white-and-nerdy-quiz.php"><img src="http://www.bbspot.com/Images/News_Features/2006/09/nerdy/52.jpg" width="150" height="150" border="0" alt="You are 52% white and nerdy.">
+        <br />
+        How White and Nerdy Are You?</a>
+        <br />
+        <img width="0" height="0" src="http://spaetzel.com/aggbug.ashx?id=614" />

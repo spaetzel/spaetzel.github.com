@@ -1,0 +1,7 @@
+--- 
+wordpress_id: 412
+title: Lit Leaves
+wordpress_url: http://spaetzel.com/PermaLink,guid,178.aspx
+layout: post
+---
+I saw this on the way to the bus yesterday, the leaves were lit up so brilliantly. <img width="0" height="0" src="http://spaetzel.com/aggbug.ashx?id=178" />

@@ -1,0 +1,9 @@
+--- 
+wordpress_id: 388
+title: Sweetie is gone :-(
+wordpress_url: http://spaetzel.com/PermaLink,guid,128.aspx
+layout: post
+---
+I had a great two weeks with Laura-Lee. We did so many fun things together. It was so great that it was as if I never even had a chance to stop and breath.<br />
+        She's currently on the bus, back to Timmins. Can't wait to hear from her when she
+        gets back. And defnitely can't wait until I see her again!<img width="0" height="0" src="http://spaetzel.com/aggbug.ashx?id=128" />

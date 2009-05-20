@@ -1,0 +1,13 @@
+--- 
+wordpress_id: 314
+title: Waterloo in Wired
+wordpress_url: http://spaetzel.com/PermaLink,guid,197.aspx
+layout: post
+---
+<a href="http://www.wired.com/wired/archive/13.01/perimeter.html">Wired 13.01: The
+        BlackBerry Brain Trust</a>
+        <br />
+        <br />
+        Check it out, the Perimeter Institute that is just a few blocks away from my apartment,
+        has an article in Wired.<br />
+        <img width="0" height="0" src="http://spaetzel.com/aggbug.ashx?id=197" />

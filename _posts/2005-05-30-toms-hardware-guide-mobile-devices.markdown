@@ -1,0 +1,11 @@
+--- 
+wordpress_id: 443
+title: "Tom's Hardware Guide Mobile Devices:"
+wordpress_url: http://spaetzel.com/PermaLink,guid,242.aspx
+layout: post
+---
+<a href="http://www6.tomshardware.com/mobile/20030613/index.html">Tom's Hardware Guide
+        Mobile Devices: Getting Organized with PDAs</a>
+        <br />
+        Tom's Hardware has an excellent roundup of all the hot PDAs of the day, give it a
+        look if you are thinking about getting yourself one soon.<img width="0" height="0" src="http://spaetzel.com/aggbug.ashx?id=242" />

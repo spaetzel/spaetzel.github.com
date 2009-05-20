@@ -1,0 +1,42 @@
+--- 
+wordpress_id: 211
+title: Happy Birthday To Me!
+wordpress_url: http://spaetzel.com/PermaLink,guid,193.aspx
+layout: post
+---
+Hello all!<br />
+        <br />
+        Well I have been having an absolutely wonderful week. It all started when a certain
+        girl fell into my arms on Friday. It is so great having her around, she makes me feel
+        so great.<br />
+        <br />
+        We have been so busy that we've barely had time to stop and relax.<br />
+        <br />
+        On Saturday we did a good amount of shopping to get things that she needed for the
+        week. (Food and Yarn). And that night I made her a nice roast beef. That was so good.
+        (Though I did have some help as well). We then went to <a href="http://www.city.waterloo.on.ca/PWS/Parks/Amenities/WaterlooPark/">Waterloo
+        Park</a> where we looked at the wonderful lights that the city has set up. We even
+        made ourselves a nice snowman. I hope that he is still there. We finished the evening
+        off with watching <a href="http://www.imdb.com/title/tt0360201/">Wimbledon</a> which
+        is a remakably good chick flick.<br />
+        <br />
+        Sunday involved going to my Oma's for pizza just before my last concert with the <a href="http://members.rogers.com/shagedorn/">KMSB</a> for
+        the year. That went well, and it was so wonderful to finally have LL hear me play.
+        <br />
+        <br />
+        Monday involved work (Of course) and then the great fun of LL and I celebrating Christmas
+        together. We each opened the many gifts that we had gotten each other. That was so
+        much fun, she is such a thoughtful (and observant) girl that she came up with gifts
+        that I love.<br />
+        <br />
+        Yesterday, Mark came over to my apartment and there was a mini birthday party for
+        me. Pete even made me a nice cake. We had fun reminicing while LL watched on. And
+        now there is lots of cake left over for my family.
+        <br />
+        <br />
+        I am just about to go to my Oma's house for another nice dinner. This time actually
+        on my birthday. This should be fun, I wonder how rambunctious my cousins will be.<br />
+        <br />
+        LL is leaving tommorow, and that sure isn't something that I am looking forward to.
+        But I will be seeing her again really soon. And I can't wait. That bus ride to Timmins
+        is sure going to be a long one!<img width="0" height="0" src="http://spaetzel.com/aggbug.ashx?id=193" />

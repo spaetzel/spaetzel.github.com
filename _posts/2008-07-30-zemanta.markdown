@@ -1,0 +1,11 @@
+--- 
+wordpress_id: 563
+title: Zemanta
+wordpress_url: http://spaetzel.com/?p=563
+layout: post
+---
+<div class="zemanta-img" style="margin: 1em; float: right; display: block;"><a href="http://www.flickr.com/photos/79989800@N00/2516113621"><img style="border: medium none; display: block;" src="http://farm3.static.flickr.com/2354/2516113621_7b86f4fc75_m.jpg" alt="Blog better using Zemanta" /></a><span class="zemanta-img-attribution">Image by <a href="http://www.flickr.com/photos/79989800@N00/2516113621">chucks</a> via Flickr</span></div>
+I just installed the <a class="zem_slink" title="Zemanta ltd." rel="homepage" href="http://www.zemanta.com">Zemanta</a> plugin for <a class="zem_slink" title="Mozilla Firefox" rel="homepage" href="http://www.firefox.com/">Firefox</a>. It is a cool little plugin that suggests a number of articles, tags and photos to go along with the blog post that you are currently typing.
+
+This entry exists purely for me to test out its functionality. I'm assuming that it will do a pretty good job of finding posts that are related to itself.
+<div class="zemanta-pixie" style="margin-top: 10px; height: 15px;"><a class="zemanta-pixie-a" title="Zemified by Zemanta" href="http://reblog.zemanta.com/zemified/bb768cb6-fb6a-4b4a-8dd3-13a5d8f58243/"><img class="zemanta-pixie-img" style="border: medium none; float: right;" src="http://img.zemanta.com/reblog_e.png?x-id=bb768cb6-fb6a-4b4a-8dd3-13a5d8f58243" alt="Zemanta Pixie" /></a></div>

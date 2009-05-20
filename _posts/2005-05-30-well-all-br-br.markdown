@@ -1,0 +1,18 @@
+--- 
+wordpress_id: 287
+title: Well all, &lt;br /&gt;&lt;br
+wordpress_url: http://spaetzel.com/PermaLink,guid,273.aspx
+layout: post
+---
+Well all, <br />
+        <br />
+        Another vacation has come to a close. I'm now back in London - currently unpacking.
+        Lots and lots of food to put away (Thanks Mom!)<br />
+        <br />
+        Tommorow will be a fun filled day of writing cover letter after cover letter. But
+        hopfully it will end with a nice night full of gaming!<br />
+        <br />
+        As I'm unpacking I'm also uploading more photos - Hopefully all of the digital pics
+        I've ever taken will be up by the end of the week. I'm working though them in reverse
+        chronological order -- Thus far I have reached the Toronto Santa Claus parade. So
+        WMB members, you may be interested.<img width="0" height="0" src="http://spaetzel.com/aggbug.ashx?id=273" />

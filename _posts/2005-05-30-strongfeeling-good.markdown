@@ -1,0 +1,20 @@
+--- 
+wordpress_id: 157
+title: "&lt;strong&gt;Feeling good"
+wordpress_url: http://spaetzel.com/PermaLink,guid,379.aspx
+layout: post
+---
+<strong>Feeling good</strong>
+        <br />
+        Had a great day today (I guess that was yesterday by now, but who's counting?) I started
+        it off with 10 hours of sleep, now I'm definitely caught up from all that time being
+        awake over the weekend. Had a nice Psych class with LL, then I kinda understood my
+        350 class...<br />
+        When I got home I read some psych, getting ready for the exam on Thursday. I'm feeling
+        good about it, I really like the new prof for the course.<br />
+        <br />
+        I fill out a couple more internship applications... Then I got an e-mail I've been
+        waiting for for a long time - Made my day.<br />
+        <br />
+        Now I'm just waiting for a phone call...<br />
+        <img width="0" height="0" src="http://spaetzel.com/aggbug.ashx?id=379" />

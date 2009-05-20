@@ -1,0 +1,16 @@
+--- 
+wordpress_id: 294
+title: Homecoming Gallery
+wordpress_url: http://spaetzel.com/PermaLink,guid,179.aspx
+layout: post
+---
+<div id="thumb">
+        <cpg_albumthumb>
+        31|1
+        </cpg_albumthumb>
+        </div>
+        <br />
+        I have posted the photos from the football game during homecoming weekend. It was
+        a wonderful slaughter full of fun times with lots of great people. It was awful weird
+        going back to Waterloo after spending the time with the band, I really felt like I
+        was a regular student again.<img width="0" height="0" src="http://spaetzel.com/aggbug.ashx?id=179" />

@@ -1,0 +1,16 @@
+--- 
+wordpress_id: 162
+title: Welcome to Xentia and Wordpress 1.5
+wordpress_url: http://spaetzel.com/PermaLink,guid,230.aspx
+layout: post
+---
+Well I just spent the weekend seting up my main desktop as my new webserver. I realized that there was no reason not to use my laptop (Goliath) as my main machine, and then turn my desktop into the webserver. <br />
+        <br />
+        The reason that I wanted to do this is because the website that I am working on needs
+        some very serious horsepower, so Xentia can provide far more than Hyperion ever was
+        able to.<br />
+        <br />
+        We'll see how this goes over.<br />
+        <br />
+        Also, I've upgraded to Wordpress 1.5, which screwed up my old style so I am currently
+        using the default Wordpress style, I'll customize it soon...<img width="0" height="0" src="http://spaetzel.com/aggbug.ashx?id=230" />

@@ -1,0 +1,16 @@
+--- 
+wordpress_id: 307
+title: SPOT
+wordpress_url: http://spaetzel.com/PermaLink,guid,187.aspx
+layout: post
+---
+Well, the <a href="http://www.msndirect.com/watches/abacus-wrist-net-round.htm">Spot
+        Watch</a> that I ordered on Wednesday has finally arrived. It is sitting on its cradle
+        charging away. Its been doing that since 11:30 this morning, I sure hope it finishes
+        soon.<br />
+        <br />
+        I'm very excited to play with this new gadget that I got for $9.95 after rebate. It
+        will let me get news, weather, e-mail and even MSN mesenger messages on my watch.<br />
+        <br />
+        I plan to set up a script that will let users send messages to my watch. It should
+        be cool. I'll probably follow up once I get the thing working.<img width="0" height="0" src="http://spaetzel.com/aggbug.ashx?id=187" />

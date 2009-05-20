@@ -1,0 +1,15 @@
+--- 
+wordpress_id: 268
+title: Crossings
+wordpress_url: http://spaetzel.com/PermaLink,guid,107.aspx
+layout: post
+---
+I see these Ducks almost every day. Today they were so close and cute that I had to take another photo of them. Unfortunately a Van drove out of the parking lot as I was taking the pictures and scared them away. But I still managed to get a few nice pics.<br />
+        <br />
+        I did a lot of editing on this one too. Take a look at the edited version:<br />
+        <p align="center">
+        <a href="../Photos/edited/Crossings_l.jpg"><img src="../Photos/edited/Crossings_m.jpg" /></a>
+        </p>
+        <br />
+        And then look at the <a href="../Photos/2004_05_18 - Nice Chicks Part 2/139_3932.JPG">original
+        version.</a><img width="0" height="0" src="http://spaetzel.com/aggbug.ashx?id=107" />

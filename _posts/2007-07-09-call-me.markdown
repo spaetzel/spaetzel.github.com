@@ -1,0 +1,24 @@
+--- 
+wordpress_id: 29
+title: Call Me
+wordpress_url: http://spaetzel.com/PermaLink,guid,627.aspx
+layout: post
+---
+<p>
+        With all of <a href="http://deys.ca/?p=112">talk</a> <a href="http://inoveryourhead.net/free-phone-sex/">of</a> online
+        free calling buttons, I figured that I should add the Web Button for my <a href="http://grandcentral.com">Grand
+        Central</a> number
+        </p>
+        <br />
+        <br />
+        <p>
+        Click on this button:
+        </p>
+        <br />
+        <embed src="http://embed.grandcentral.com/webcall/220798d8132f71756b8903a67b2f927b" width="142" height="54" wmode="transparent"></embed>
+        <br />
+        <p>
+        to give my phone a call. It will be a free call for you. I have also added the button
+        to my blog's sidebar.
+        </p>
+        <img width="0" height="0" src="http://spaetzel.com/aggbug.ashx?id=627" />

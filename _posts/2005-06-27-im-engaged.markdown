@@ -1,0 +1,14 @@
+--- 
+wordpress_id: 115
+title: I'm Engaged!!!!
+wordpress_url: http://spaetzel.com/PermaLink,guid,520.aspx
+layout: post
+---
+Today I did something wonderful. I proposed to the girl of my dreams. I took her over to Victoria Park in Kitchener and we had a wonderful picnic. At the perfect time, I went down on one knee and pulled out the diamond ring that I bought earlier this month. I asked her, "Laura-Lee, will you marry me?" She was so happy, and told me, "Yes! Of course I'll marry you!". <br />
+        <br />
+        She has been staring at the shiny ring all afternoon long now. She is so happy. I
+        plan to keep making her even happier every day for the rest of our lives.<br />
+        <br />
+        I love her!<br />
+        <br />
+        <a href="http://www.flickr.com/photos/redune/21995819/" title="Photo Sharing"><img src="http://photos15.flickr.com/21995819_a23910e4dd.jpg" width="333" height="500" alt="My Fiance" /></a><img width="0" height="0" src="http://spaetzel.com/aggbug.ashx?id=520" />

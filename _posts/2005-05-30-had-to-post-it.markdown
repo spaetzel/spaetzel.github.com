@@ -1,0 +1,15 @@
+--- 
+wordpress_id: 241
+title: Had to post it
+wordpress_url: http://spaetzel.com/PermaLink,guid,167.aspx
+layout: post
+---
+This comment was attached to <a href="http://slashdot.org/article.pl?sid=04/08/12/1541244&tid=120&tid=137&tid=218">this
+        slashdot article</a>:<br />
+        <br />
+        As Confucious Say:<br />
+        <br />
+        If you pay for month of AOL, you give yourself net access for month.<br />
+        <br />
+        If you buy neighbor cheap wireless linksys router and offer free setup, putting your
+        MAC on it and retaining usr/pwd, you give yourself net access for life.<img width="0" height="0" src="http://spaetzel.com/aggbug.ashx?id=167" />

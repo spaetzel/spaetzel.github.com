@@ -1,0 +1,49 @@
+--- 
+wordpress_id: 361
+title: Who are you?
+wordpress_url: http://spaetzel.com/PermaLink,guid,74.aspx
+layout: post
+---
+Another quick article I wrote for Redune.com. In this I discuss how trust plays a huge part in the usefulness of the internet. Often it is impossible to tottaly know who exactly you are communcating with. I deal with these issues.<br />
+        <br />
+        <!--more-->
+        <br />
+        Many people use the Internet nowadays as a primary communication tool. They make business
+        plans, they talk to their friends, and most people use it even more than the phone
+        or personal contact. Why do they use it? Because it is quick, convenient and easy
+        to do. They trust it to make important business or personal decisions. It isn't rare
+        for people to break up over the 'net. But really how trustworthy is it? How can you
+        know who exactly you are talking to?<br />
+        <br />
+        Most people have gotten the unidentified phone call, someone calls your home and says
+        that it is a different person than they actually are. You can't be sure of who it
+        is calling you. Many people have caller ID, but most don't, the only proof you have
+        is the sound of their voice. Well, on the Internet you don't even have the sound of
+        the voice, you just have the text to read. It usually is easy to tell who an e-mail
+        message is from because of the from line. But did you know that it is just as easy
+        to send an e-mail that looks like it is from the President of the USA, or from yourself.
+        All you have to do is change one setting in your e-mail program. Unless the person
+        reading the message is technically knowledgeable, it is unlikely that you could even
+        figure out that the message is not from president@whitehouse.gov, and is instead from
+        me@redune.com<br />
+        <br />
+        The form of communication most commonly used among teens, is ICQ. The instant messaging
+        program that most people have running on their computers. Most think that this is
+        very secure because to log on as another person you need to have their password, and
+        you have to get authorization from the person you want to talk with to be able to
+        tell when they are online. Both of these facts are essentially true, but there are
+        ways to get around them. If you wanted to appear to be a different person on ICQ,
+        you could just sign up for another # and enter the person's name, e-mail address and
+        any other information that you may know about the person. Then you can add people
+        to your list and they will think that you are that person, because all of the information
+        you have entered, shows you as the person you are pretending to be. There are even
+        programs circulating, that allow you to steal the password of another ICQ user, just
+        enter their ICQ#, and it tells you their password. The same goes for bypassing authorization,
+        there are hundreds of programs which can be easily obtained that let you add anyone
+        to your contact list without their permission.<br />
+        <br />
+        Fortunately there are services that allow you to have secured, guaranteed communication.
+        But they are either hard to use, or cost money. So people will continue to use unsecure
+        communication, they just have to be careful. And to all those who receive unusual
+        messages, always question them. Do not accept weird messages to be from the sender
+        that you assume them to be, do whatever you can to verify their identity.<img width="0" height="0" src="http://spaetzel.com/aggbug.ashx?id=74" />

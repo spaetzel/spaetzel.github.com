@@ -1,0 +1,16 @@
+--- 
+wordpress_id: 67
+title: Geese in the Setting Sun 2
+wordpress_url: http://spaetzel.com/PermaLink,guid,573.aspx
+layout: post
+---
+<p>
+        <a href="http://www.flickr.com/people/redune/">redune</a> posted a photo:
+        </p>
+        <p>
+        <a href="http://www.flickr.com/photos/redune/86882696/" title="Geese in the Setting Sun 2"><img src="http://static.flickr.com/42/86882696_59ccb7f870_m.jpg" width="240" height="160" alt="Geese in the Setting Sun 2" style="border: 1px solid #ddd;" /></a>
+        </p>
+        <p>
+        Walking along the Thames River in London Ontario
+        </p>
+        <img width="0" height="0" src="http://spaetzel.com/aggbug.ashx?id=573" />

@@ -1,0 +1,12 @@
+--- 
+wordpress_id: 490
+title: Resume Updated
+wordpress_url: http://spaetzel.com/PermaLink,guid,342.aspx
+layout: post
+---
+<br />
+        Since my resume has been changing so much (Internship applications are fun!)<br />
+        It has been out of date for a while.<br />
+        I just posted the lastest copy of my resume, you can check it out <a href="/spaetzel/resume/">here</a>
+        <br />
+        <img width="0" height="0" src="http://spaetzel.com/aggbug.ashx?id=342" />

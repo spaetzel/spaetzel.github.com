@@ -1,0 +1,20 @@
+--- 
+wordpress_id: 250
+title: "&lt;strong&gt;Ahh Code &lt;/s"
+wordpress_url: http://spaetzel.com/PermaLink,guid,401.aspx
+layout: post
+---
+<strong>Ahh Code </strong>
+        <br />
+        Well I'm sitting here in the computer lab in Physics coding away at my 307 assignment.
+        Going really well. Just a couple bugs to work out. I'll have this thing done, bonuses
+        and all in no time!<br />
+        I'm wishing that I had packed myself a snack though, supper with LL tonight is looking
+        rather atttractive. 45 Minutes until band practice, then supper... Mmm<br />
+        <br />
+        Going to be studying it up with LL tonight. She's really a good inspiration to keep
+        me focused on my annoying logic problems instead of making tiny changes to my website
+        all of the time... Wait a second, what am I doing now?<br />
+        <br />
+        Back to work!<br />
+        <img width="0" height="0" src="http://spaetzel.com/aggbug.ashx?id=401" />

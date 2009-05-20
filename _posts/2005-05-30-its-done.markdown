@@ -1,0 +1,10 @@
+--- 
+wordpress_id: 544
+title: Its done!
+wordpress_url: http://spaetzel.com/PermaLink,guid,460.aspx
+layout: post
+---
+Well I've been struggling with my stupid CS340 assignment for the last week.
+        Finallly got it done, only 2 days late (fortunately that only means I'll be losing 10% of the mark)
+        Just found out that a new CS307 assignment has been posted, it is also looking rather evil. And I've still got all the 350 assignments and the 307 project.
+        Looks like many days of code are in my future.<img width="0" height="0" src="http://spaetzel.com/aggbug.ashx?id=460" />

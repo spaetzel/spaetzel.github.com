@@ -1,0 +1,21 @@
+--- 
+wordpress_id: 326
+title: "&lt;strong&gt;Desktop Side"
+wordpress_url: http://spaetzel.com/PermaLink,guid,405.aspx
+layout: post
+---
+<strong>Desktop Sidebar</strong>
+        <br />
+        I just discovered this awesome program, <a href="http://www.desktopsidebar.com/">Desktop
+        Sidebar</a> Works like the sidebar that you (probably haven't) seen in Longhorn screenshots.
+        E-mail checker, photo slideshow, analog clock, performance meter, RSS newsreader.
+        Awesome.<br />
+        Take a look at the screenshot.<br />
+        <br />
+        <center><a href="http://www.redune.com/images/screenshots/sidebar_l.jpg"><img src="http://www.redune.com/images/screenshots/sidebar_s.jpg" border= 0></a>
+        </center>
+        <br />
+        <br />
+        Update: I just realized that many of you may be interested in the photo that is my
+        background, you can <a href="http://www.redune.com/Photos/2004_02_04%20-%20The%20Ents/_1152/The%20Ents0006.JPG">download
+        it here</a><img width="0" height="0" src="http://spaetzel.com/aggbug.ashx?id=405" />

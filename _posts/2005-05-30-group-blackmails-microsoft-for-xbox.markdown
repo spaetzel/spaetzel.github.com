@@ -1,0 +1,15 @@
+--- 
+wordpress_id: 455
+title: Group Blackmails Microsoft for Xbox
+wordpress_url: http://spaetzel.com/PermaLink,guid,266.aspx
+layout: post
+---
+<a href="http://news.com.com/2100-1043_3-1021692.html">Group Blackmails Microsoft
+        for Xbox Freedom</a>
+        <br />
+        In pretty crazy news, a Xbox "research group" says that they have figured out a way
+        to run Linux on the Xbox without any modchip or other hacks. They have blackmailed
+        Microsoft, if MSFT doesn't release an official Xbox version of Linux, they'll release
+        their pirate version--essentially eliminating all copyright protection on the Xbox.
+        <br />
+        It will be intersting to see what happens here.<img width="0" height="0" src="http://spaetzel.com/aggbug.ashx?id=266" />

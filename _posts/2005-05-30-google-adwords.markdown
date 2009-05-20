@@ -1,0 +1,12 @@
+--- 
+wordpress_id: 331
+title: Google Adwords
+wordpress_url: http://spaetzel.com/PermaLink,guid,93.aspx
+layout: post
+---
+As you may remember, I was dissapointed when my site was rejected from the Adwords program.<br />
+        But if you take a look a bit further down this page you can see that I was accepted.
+        So redune.com is now advertising supported (I won't beg for donations any more).<br />
+        I promise the advertising will never be intrusive. It will only ever take up space
+        that would have otherwise been blank.<br />
+        Let me know what you think.<img width="0" height="0" src="http://spaetzel.com/aggbug.ashx?id=93" />

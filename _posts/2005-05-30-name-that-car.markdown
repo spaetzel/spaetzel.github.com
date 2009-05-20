@@ -1,0 +1,13 @@
+--- 
+wordpress_id: 377
+title: Name that Car
+wordpress_url: http://spaetzel.com/PermaLink,guid,106.aspx
+layout: post
+---
+Pete and I were followed by this car for a while on our way back to Waterloo from Port Elgin. I was hoping that it would pass us so that I could get a better look at it and figure out what it is.<br />
+        <br />
+        Perhaps one of you can name what kind of car it is. Solve a dilemma for me please!<br />
+        <p align="center">
+        <a href="../Photos/edited/Name that Car_l.jpg"><img src="../Photos/edited/Name that Car_m.jpg" /></a>
+        </p>
+        <img width="0" height="0" src="http://spaetzel.com/aggbug.ashx?id=106" />

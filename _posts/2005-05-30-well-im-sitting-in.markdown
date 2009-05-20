@@ -1,0 +1,8 @@
+--- 
+wordpress_id: 204
+title: Well I'm sitting in
+wordpress_url: http://spaetzel.com/PermaLink,guid,303.aspx
+layout: post
+---
+Well I'm sitting in here in CS342b, lots of fun this one is. I love going over stuff yet again that I've already done three times in the past.<br />
+        Great fun!<img width="0" height="0" src="http://spaetzel.com/aggbug.ashx?id=303" />

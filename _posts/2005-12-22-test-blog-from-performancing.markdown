@@ -1,0 +1,8 @@
+--- 
+wordpress_id: 78
+title: Test blog from performancing
+wordpress_url: http://spaetzel.com/PermaLink,guid,560.aspx
+layout: post
+---
+Let's see how this goes<br />
+        <img width="0" height="0" src="http://spaetzel.com/aggbug.ashx?id=560" />

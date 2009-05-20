@@ -1,0 +1,16 @@
+--- 
+wordpress_id: 155
+title: Macro
+wordpress_url: http://spaetzel.com/PermaLink,guid,115.aspx
+layout: post
+---
+I've been doing lots of macro shots of flowers lately. So nice to see them all in bloom. So when the photofriday theme was Macro, I saw my chance to shine.<br />
+        <br />
+        I've walked past this spot many times, haven't noticed these flowers before, perhaps
+        they just bloomed, perhaps I was always in a hurry to be where I was going. Anyhow,
+        the photo is very cool.<br />
+        <br />
+        <p align="center">
+        <a href="../Photos/edited/Macro_l.jpg"><img src="../Photos/edited/Macro_m.jpg" /></a>
+        </p>
+        <img width="0" height="0" src="http://spaetzel.com/aggbug.ashx?id=115" />

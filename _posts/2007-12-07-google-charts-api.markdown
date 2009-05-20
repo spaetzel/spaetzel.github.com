@@ -1,0 +1,25 @@
+--- 
+wordpress_id: 20
+title: Google Charts API
+wordpress_url: http://spaetzel.com/PermaLink,guid,9fc9ede7-76ba-4a56-887b-d2e0e9679340.aspx
+layout: post
+---
+Google just announced a brand <a href="http://code.google.com/apis/chart/">new service</a> that
+        makes it really easy to make charts for use on the web. Take a look at the source
+        for this image:<br />
+        <img src="http://chart.apis.google.com/chart?cht=v&amp;chd=t:80,149,50,10,25,20,5&amp;chs=400x300&amp;chl=haydar%7Cwill%7Cjohn">
+        <br />
+        <br />
+        To generate that chart, I just created an image, &lt;img src="http://chart.apis.google.com/chart?cht=v&amp;chd=t:80,149,50,10,25,20,5&amp;chs=400x300&amp;chl=haydar|will|john"&gt;<br />
+        All of the details for creating the chart are all in the URL. You just have to include
+        chart type you want, the size of of the chart and the data to be displayed. Really
+        easy.<br />
+        <br />
+        I am excited to use this on <a href="http://castroller.com">CastRoller</a> and any
+        Maplesoft projects that I'll be working on in the future.<br />
+        <br />
+        Via <span class="entry-source-title-parent"><a href="http://infosthetics.com/archives/2007/12/google_chart_api.html" class="entry-source-title" target="_blank">information
+        aesthetics</a></span>
+        <p>
+        </p>
+        <img width="0" height="0" src="http://spaetzel.com/aggbug.ashx?id=9fc9ede7-76ba-4a56-887b-d2e0e9679340" />

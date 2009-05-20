@@ -1,0 +1,11 @@
+--- 
+wordpress_id: 451
+title: "GamerFeed : Microsoft : Japan:"
+wordpress_url: http://spaetzel.com/PermaLink,guid,258.aspx
+layout: post
+---
+<a href="http://www.gamerfeed.com/index.php?story=3648">GamerFeed : Microsoft : Japan:
+        Xbox 2 Date Not 2006</a>
+        <br />
+        Well it looks like the net has shown is unreliablity again. Apparently the Xbox 2
+        launch date will be in 2005 not 2006 as previously reported by Redune.cc<img width="0" height="0" src="http://spaetzel.com/aggbug.ashx?id=258" />

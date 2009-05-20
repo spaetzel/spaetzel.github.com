@@ -1,0 +1,13 @@
+--- 
+wordpress_id: 65
+title: Ivey in the Snow
+wordpress_url: http://spaetzel.com/PermaLink,guid,575.aspx
+layout: post
+---
+<p>
+        <a href="http://www.flickr.com/people/redune/">redune</a> posted a photo:
+        </p>
+        <p>
+        <a href="http://www.flickr.com/photos/redune/86883370/" title="Ivey in the Snow"><img src="http://static.flickr.com/42/86883370_e16f5523d5_m.jpg" width="240" height="160" alt="Ivey in the Snow" style="border: 1px solid #ddd;" /></a>
+        </p>
+        <img width="0" height="0" src="http://spaetzel.com/aggbug.ashx?id=575" />

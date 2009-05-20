@@ -1,0 +1,9 @@
+--- 
+wordpress_id: 262
+title: "WMB Concert: John Williams (and More) Spectacular!"
+wordpress_url: http://spaetzel.com/PermaLink,guid,437.aspx
+layout: post
+---
+Well the concert was a blast. Lots of fans (parents) showed up. We sounded pretty great, and all had lots of fun.
+        That was great! Just great! Really Great! Thankyou Very Much! You're Beautiful... Baby!
+        Take a look at the photos that my father took of the event <a href="http://www.redune.com/gallery/gallery.aspx?gallery=2004_02_15 - JW and More">here</a><img width="0" height="0" src="http://spaetzel.com/aggbug.ashx?id=437" />

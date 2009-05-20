@@ -1,0 +1,17 @@
+--- 
+wordpress_id: 409
+title: Off to Europe
+wordpress_url: http://spaetzel.com/PermaLink,guid,172.aspx
+layout: post
+---
+Well, I am off to a nice long two week trip to Europe with my family starting tommorow.  I am really looking forward to it, we are going to be spending a lot of time in Austria and Germany and a little bit of time in France.<br />
+        Chances are I won't be posting for quite a while. But there surely will be a lot of
+        pictures all posted when I get back.<br />
+        <br />
+        If my site goes down while I'm gone, don't worry about it, it'll be back up again
+        soon.
+        <br />
+        <br />
+        And to the girl that I'm going to be missing like crazy, don't worry, I'll see you
+        on Friday! And Here's a big squish to keep you through it ({) ({) ({) ({) ({) ({)
+        ({)<img width="0" height="0" src="http://spaetzel.com/aggbug.ashx?id=172" />

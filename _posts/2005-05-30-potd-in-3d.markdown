@@ -1,0 +1,12 @@
+--- 
+wordpress_id: 281
+title: "POTD: In 3D!"
+wordpress_url: http://spaetzel.com/PermaLink,guid,467.aspx
+layout: post
+---
+Found a cool java applet <a href="http://www.smiley-face.freeserve.co.uk/programming/">here</a> That
+        allows you to create your own Magic Eye style Stereograms. So I whipped up the Redune
+        logo in 3D. Check it out:
+        <center><a href="http://www.redune.com/coolpics/stereogram.gif"><img src="http://www.redune.com/coolpics/stereogram_m.gif" border= 0></a>
+        </center>
+        <img width="0" height="0" src="http://spaetzel.com/aggbug.ashx?id=467" />

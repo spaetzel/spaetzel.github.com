@@ -1,0 +1,9 @@
+--- 
+wordpress_id: 277
+title: Most bizzare link yet
+wordpress_url: http://spaetzel.com/PermaLink,guid,471.aspx
+layout: post
+---
+<a href="http://www.subservientchicken.com/">http://www.subservientchicken.com/</a> Some
+        really crazy stuff. Type in pretty much any command and this chicken will do it for
+        you.. Still doens't make me want to eat at BK though.<img width="0" height="0" src="http://spaetzel.com/aggbug.ashx?id=471" />

@@ -1,0 +1,10 @@
+--- 
+wordpress_id: 530
+title: "CRC, OPEN, and XP: A Comparison"
+wordpress_url: http://spaetzel.com/PermaLink,guid,426.aspx
+layout: post
+---
+Well I told you all that I would be posting the essay that I wrote for my CS307 class. The marks have been given back so its fair game for posting on the net. Enjoy: <a href="http://www.redune.com/courses/cs307/essay.htm">Click
+        here to read it</a>
+        <br />
+        <img width="0" height="0" src="http://spaetzel.com/aggbug.ashx?id=426" />

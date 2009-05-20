@@ -1,0 +1,13 @@
+--- 
+wordpress_id: 178
+title: "POTD: Sun Over Snow"
+wordpress_url: http://spaetzel.com/PermaLink,guid,335.aspx
+layout: post
+---
+A late POTD today. Been busy all evening. <br />
+        Took this one on the way to the grocery store, shows a very nice sunset over the snow.
+        I like how I framed the scene with the trees<br />
+        <center><a href="http://www.redune.com/photos/Edited/Sun%20Over%20Snow_l.jpg"><img src="/spaetzel/photos/Edited/Sun%20Over%20Snow_m.jpg" border="0"></a>
+        </center>
+        <br />
+        You can look at the rest of the photos that I took at that time here <a href="http://www.redune.com/gallery/gallery.aspx?gallery=2004_01_16%20-%20Sun%20over%20Snow">here</a><img width="0" height="0" src="http://spaetzel.com/aggbug.ashx?id=335" />

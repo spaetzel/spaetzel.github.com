@@ -1,0 +1,18 @@
+--- 
+wordpress_id: 526
+title: "&lt;strong&gt;POTD: Beautiful Day&lt;/strong&gt;"
+wordpress_url: http://spaetzel.com/PermaLink,guid,416.aspx
+layout: post
+---
+It is so bright out today. Absolutely gorgeous.  Had to capture it.<br />
+        I took this one at the bus stop after band practice. As I was taking it the bus drove
+        by. Fortunately he saw me running for it and waited for me.<br />
+        <br />
+        I tweaked the colours a bit to make the blue sky that much more stunning. Glad with
+        the result.<br />
+        <br />
+        <center><a href="http://www.redune.com/photos/Edited/Beautiful Day_l.jpg"><img src="http://www.redune.com/photos/Edited/Beautiful Day_m.jpg" border= 0></a>
+        </center>
+        <br />
+        <br />
+        See the rest of today's shots <a href="http://www.redune.com/gallery/gallery.aspx?gallery=2004_02_07 - Dangerous Predicament">here</a><img width="0" height="0" src="http://spaetzel.com/aggbug.ashx?id=416" />

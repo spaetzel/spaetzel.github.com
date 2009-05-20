@@ -1,0 +1,28 @@
+--- 
+wordpress_id: 351
+title: Good In Leather
+wordpress_url: http://spaetzel.com/PermaLink,guid,21.aspx
+layout: post
+---
+<style type="text/css">
+        .flickr-photo { border: solid 2px #000000; }
+        .flickr-yourcomment { }
+        .flickr-frame { text-align: left; padding: 3px; }
+        .flickr-caption { font-size: 0.8em; margin-top: 0px; }
+        </style>
+        <div class="flickr-frame">
+        <a href="http://www.flickr.com/photos/redune/4974700/" title="photo sharing"><img src="http://photos5.flickr.com/4974700_238d3f5ff8.jpg" class="flickr-photo" alt="" /></a>
+        <br />
+        <span class="flickr-caption"><a href="http://www.flickr.com/photos/redune/4974700/">Good
+        In Leather</a>, originally uploaded by <a href="http://www.flickr.com/people/redune/">redune</a>.</span>
+        </div>
+        <p class="flickr-yourcomment">
+        I found out today that I was nominated for a quartely award at work. This was presented
+        to me by the CEO of the company.<br />
+        <br />
+        The award was this cool leather jacket. It has the Maplesoft logo embroidered on the
+        back.<br />
+        <br />
+        Now I'm truly stylin'!
+        </p>
+        <img width="0" height="0" src="http://spaetzel.com/aggbug.ashx?id=21" />

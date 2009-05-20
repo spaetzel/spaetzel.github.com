@@ -1,0 +1,16 @@
+--- 
+wordpress_id: 233
+title: Flickr
+wordpress_url: http://spaetzel.com/PermaLink,guid,207.aspx
+layout: post
+---
+Well, I went for it and sprung for a pro account at <a href="http://www.flickr.com/users/redune">Flickr</a>.
+        I will be uploading all of my photos there in the coming months.<br />
+        <br />
+        <script type="text/javascript" src="http://www.flickr.com/badge_code.gne?nsid=48889116964@N01&count=10&display=random&name=1&size=square&raw=1"></script>
+        <br />
+        <br />
+        The pro account is restricted to uploading 1 GB per month so I can't upload it all
+        at once, but a very large portion of my photos are there already. I am in the process
+        of tagging and naming the photos, play around with the site, you should find it very
+        fun to use. <img width="0" height="0" src="http://spaetzel.com/aggbug.ashx?id=207" />

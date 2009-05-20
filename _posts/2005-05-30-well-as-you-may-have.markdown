@@ -1,0 +1,10 @@
+--- 
+wordpress_id: 243
+title: Well as you may have
+wordpress_url: http://spaetzel.com/PermaLink,guid,283.aspx
+layout: post
+---
+Well as you may have noticed, I have finally figured out how to defeat Sympatico and start hosting my site off of my computer again.<br />
+        What this means for you is that the site should be much faster, and interactive.<br />
+        Also, all the photos are once again available in full resolution - No messing with
+        that goofball clubphoto crap.<img width="0" height="0" src="http://spaetzel.com/aggbug.ashx?id=283" />

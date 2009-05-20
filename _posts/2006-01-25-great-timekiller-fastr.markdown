@@ -1,0 +1,15 @@
+--- 
+wordpress_id: 57
+title: Great timekiller, Fastr
+wordpress_url: http://spaetzel.com/PermaLink,guid,586.aspx
+layout: post
+---
+I just discovered <a href="http://randomchaos.com/games/fastr/">this</a> cool game.
+        It shows a bunch of photos taken from <a href="http://flickr.com">Flickr</a> and asks
+        you to guess what the common tag is between them all.
+        <br />
+        <br />
+        It shows your scores against a bunch of other people. You are competing to be the
+        fastest flickr guesser.<br />
+        <br />
+        <a href="http://randomchaos.com/games/fastr/">Link</a> (Via <a href="http://blog.flickr.com/flickrblog/2006/01/hacking_flickr.html">FlickrBlog</a>)<img width="0" height="0" src="http://spaetzel.com/aggbug.ashx?id=586" />

@@ -1,0 +1,15 @@
+--- 
+wordpress_id: 493
+title: "POTD: Living On"
+wordpress_url: http://spaetzel.com/PermaLink,guid,348.aspx
+layout: post
+---
+<br />
+        I've had this poinsetta for more than a month now. Its survived a trip to Port Elgin,
+        and back. And its still living on. It looses a leaf every once and a while, but it
+        still looks good. Good enough for its own photo shoot. Here is the best - With a bit
+        of tweaking.<br />
+        <center><a href="http://www.redune.com/photos/Edited/Living On_l.jpg"><img src="/spaetzel/photos/Edited/Living On_m.jpg" border= 0></a>
+        </center>
+        <br />
+        You can look at the rest of the photos that I took of it <a href="http://www.redune.com/gallery/gallery.aspx?gallery=2004_01_18 - Poinsetta">here</a><img width="0" height="0" src="http://spaetzel.com/aggbug.ashx?id=348" />

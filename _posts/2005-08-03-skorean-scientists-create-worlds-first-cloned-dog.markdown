@@ -1,0 +1,11 @@
+--- 
+wordpress_id: 103
+title: S.Korean scientists create world's first cloned dog
+wordpress_url: http://spaetzel.com/PermaLink,guid,532.aspx
+layout: post
+---
+Man can now reproduce his best friend -- South Korean scientists announced on Wednesday they had created the world's first cloned dog.<br />
+        <br />
+        <a href="http://news.yahoo.com/news?tmpl=story&u=/nm/20050803/od_uk_nm/oukoe_science_cloning_dogs">read
+        more</a>&nbsp;|&nbsp;<a href="http://digg.com/science/S.Korean_scientists_create_world_s_first_cloned_dog">digg
+        story</a><img width="0" height="0" src="http://spaetzel.com/aggbug.ashx?id=532" />

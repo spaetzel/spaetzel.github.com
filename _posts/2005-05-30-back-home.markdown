@@ -1,0 +1,14 @@
+--- 
+wordpress_id: 324
+title: Back Home
+wordpress_url: http://spaetzel.com/PermaLink,guid,68.aspx
+layout: post
+---
+All good things must come to an end,<br />
+        Over 1000 photos later, it was time to head back to Ontario.<br />
+        So here are photos of the plane flight back to the <a href="http://www.londonairport.on.ca/">London
+        Airport</a>. Had a great flight, thanks <a href="http://www.westjet.com/">Westjet</a>
+        <br />
+        Even managed to get a photo of the way into <a href="http://www.sunsets.com/portelgin/">Port
+        Elgin</a>. Its amazing that I managed to fit so many great photos onto a tiny 256MB
+        CompactFlash card.<img width="0" height="0" src="http://spaetzel.com/aggbug.ashx?id=68" />

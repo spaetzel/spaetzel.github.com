@@ -1,0 +1,7 @@
+--- 
+wordpress_id: 402
+title: Lets Roll
+wordpress_url: http://spaetzel.com/PermaLink,guid,158.aspx
+layout: post
+---
+This bike is often parked in front of the Bedsford Box company. Makes a nice subject<img width="0" height="0" src="http://spaetzel.com/aggbug.ashx?id=158" />

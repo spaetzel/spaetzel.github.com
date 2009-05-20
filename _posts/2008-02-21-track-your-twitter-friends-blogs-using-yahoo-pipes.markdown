@@ -1,0 +1,25 @@
+--- 
+wordpress_id: 12
+title: Track Your Twitter Friends' Blogs Using Yahoo Pipes
+wordpress_url: http://spaetzel.com/PermaLink,guid,0d5fba5c-1714-4d8b-990c-9734567df9f7.aspx
+layout: post
+---
+<p>
+        <a href="http://pipes.yahoo.com/spaetzel/"><img src="http://l.yimg.com/us.yimg.com/i/us/pps/logo_1.gif" align="right"></a>&nbsp;<a href="http://pipes.yahoo.com/spaetzel/twitterfriends">Here</a> is
+        a cool Yahoo Pipe that I just finished building. It loops trough all of your Twitter
+        friends, loads up their blogs and then returns the latest items from their blog's
+        RSS feed.
+        </p>
+        <p>
+        Essentially this allows you to subscribe to all of your Twitter friend's blogs without
+        actually adding all of their feeds to your reader. Just add the feed for this pipe: <a title="http://pipes.yahoo.com/spaetzel/twitterfriends" href="http://pipes.yahoo.com/spaetzel/twitterfriends">http://pipes.yahoo.com/spaetzel/twitterfriends</a>
+        </p>
+        <p>
+        It does take a long time to run the first time, but the results are very useful.
+        </p>
+        <p>
+        I have been spending a lot of time playing with Yahoo Pipes, you can see some more
+        pipes that I have created here: <a title="http://pipes.yahoo.com/spaetzel/" href="http://pipes.yahoo.com/spaetzel/">http://pipes.yahoo.com/spaetzel/</a>.
+        I'll blog about more of them soon.
+        </p>
+        <img width="0" height="0" src="http://spaetzel.com/aggbug.ashx?id=0d5fba5c-1714-4d8b-990c-9734567df9f7" />

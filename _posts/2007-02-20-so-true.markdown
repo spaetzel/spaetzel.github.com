@@ -1,0 +1,11 @@
+--- 
+wordpress_id: 35
+title: So True
+wordpress_url: http://spaetzel.com/PermaLink,guid,619.aspx
+layout: post
+---
+<p>
+        Anyone who has spent any time at Wikipedia can certainly agree with this:
+        </p>
+        <p>
+        <a href="http://xkcd.com/c214.html"><img src="http://imgs.xkcd.com/comics/the_problem_with_wikipedia.png"></a><img width="0" height="0" src="http://spaetzel.com/aggbug.ashx?id=619" />

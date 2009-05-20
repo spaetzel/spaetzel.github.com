@@ -1,0 +1,15 @@
+--- 
+wordpress_id: 297
+title: Going well
+wordpress_url: http://spaetzel.com/PermaLink,guid,183.aspx
+layout: post
+---
+I'm very excited at the moment. I get to finally see LL tommorow after three weeks of being apart. I talk to her pretty much every day, but it just isn't doing it for me any more. I need to see my sweetheart.<br />
+        <br />
+        I've got a great lazy evening planned. A nice salad with egg while watching the season
+        premiere of The West Wing, and then I'll rest my brain for another mindless episode
+        of Survivor. And then perhaps I'll have some nice Soul Calibur action. I've really
+        gotta practice that because I got my butt handed to me when Mark came over, very embarassing
+        for a gamer like me.
+        <br />
+        <img width="0" height="0" src="http://spaetzel.com/aggbug.ashx?id=183" />

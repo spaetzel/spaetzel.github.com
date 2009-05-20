@@ -1,0 +1,70 @@
+--- 
+wordpress_id: 7
+title: Legal Rights of Photographers
+wordpress_url: http://spaetzel.com/PermaLink,guid,b483fc69-f65f-46c8-8304-35a772f55421.aspx
+layout: post
+---
+<p>
+        This is a <a href="http://photojojo.com/content/tips/legal-rights-of-photographers/">great
+        list</a> of the rights and rules that photographers have and should follow when taking
+        photos in public. A good read in the times where the rights of photographers are being
+        questioned constantly.
+        </p>
+        <blockquote>
+        <p>
+        <strong>I</strong>. Anyone in a public place can take pictures of anything they want.
+        Public places include parks, sidewalks, malls, etc. Malls? Yeah. Even though it’s
+        technically private property, being open to the public makes it public space.
+        <p>
+        <strong>II</strong>. If you are on public property, you can take pictures of private
+        property. If a building, for example, is visible from the sidewalk, it’s fair game.
+        <p>
+        <strong>III</strong>. If you are on private property and are asked not to take pictures,
+        you are obligated to honor that request. This includes posted signs.
+        <p>
+        <strong>IV</strong>. Sensitive government buildings (military bases, nuclear facilities)
+        can prohibit photography if it is deemed a threat to national security.
+        <p>
+        <strong>V</strong>. People can be photographed if they are in public (without their
+        consent) unless they have secluded themselves and can expect a reasonable degree of
+        privacy. Kids swimming in a fountain? Okay. Somebody entering their PIN at the ATM?
+        Not okay.
+        <p>
+        <strong>VI</strong>. The following can almost always be photographed from public places,
+        despite popular opinion:
+        <ul>
+        <li>
+        accident &amp; fire scenes, criminal activities
+        <li>
+        bridges &amp; other infrastructure, transportation facilities (i.e. airports)
+        <li>
+        industrial facilities, Superfund sites
+        <li>
+        public utilities, residential &amp; commercial buildings
+        <li>
+        children, celebrities, law enforcement officers
+        <li>
+        UFOs, the Loch Ness Monster, <a href="http://www.chucknorrisfacts.com/">Chuck Norris</a>
+        </li>
+        </ul>
+        <p>
+        <strong>VII</strong>. Although “security” is often given as the reason somebody doesn’t
+        want you to take photos, it’s rarely valid. Taking a photo of a publicly visible subject
+        does not constitute terrorism, nor does it infringe on a company’s trade secrets.
+        <p>
+        <strong>VIII</strong>. If you are challenged, you do not have to explain why you are
+        taking pictures, nor to you have to disclose your identity (except in some cases when
+        questioned by a law enforcement officer.)
+        <p>
+        <strong>IX</strong>. Private parties have very limited rights to detain you against
+        your will, and can be subject to legal action if they harass you.
+        <p>
+        <strong>X</strong>. If someone tries to confiscate your camera and/or film, you don’t
+        have to give it to them. If they take it by force or threaten you, they can be liable
+        for things like theft and coercion. Even law enforcement officers need a court order.
+        </p>
+        </blockquote>
+        <p>
+        Read the rest of the article at <a href="http://photojojo.com/content/tips/legal-rights-of-photographers/">Photojojo</a>
+        </p>
+        <img width="0" height="0" src="http://spaetzel.com/aggbug.ashx?id=b483fc69-f65f-46c8-8304-35a772f55421" />

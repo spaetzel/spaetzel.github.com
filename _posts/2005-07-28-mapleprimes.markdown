@@ -1,0 +1,74 @@
+--- 
+wordpress_id: 110
+title: MaplePrimes
+wordpress_url: http://spaetzel.com/PermaLink,guid,525.aspx
+layout: post
+---
+<a href="http://www.flickr.com/photos/redune/29333912/" title="photo sharing"><img src="http://photos23.flickr.com/29333912_5e77ccb727_m.jpg" alt="" style="border: solid 2px #000000;" /></a>
+        <br />
+        <br />
+        <br />
+        <span style="font-size: 0.9em; margin-top: 0px;"><a href="http://www.flickr.com/photos/redune/29333912/">MaplePrimes</a>
+        <br />
+        <br />
+        <br />
+        Originally uploaded by <a href="http://www.flickr.com/people/redune/">redune</a>.<br />
+        </span>
+        <br />
+        <br clear="all" />
+        <br />
+        <p>
+        Over the last few months at Maplesoft, I have been working on this website called <a href="http://beta.mapleprimes.com">MaplePrimes</a>.
+        We are officially launching the site today and I thought that I'd like to share the
+        site with readers of redune.com. If you are interested in seeing the development of
+        a cool new mathematically focused community, please check it out. Below is the official
+        announcement:<br />
+        <br />
+        <br />
+        <br />
+        A new website <a href="http://beta.mapleprimes.com">www.mapleprimes.com</a> has been
+        created to offer a moderated community for Maple users to communicate and share techniques
+        with each other. The site is sponsored by <a href="http://www.maplesoft.com">Maplesoft</a>,
+        though most of the content is expected to be contributed by the user community.<br />
+        <br />
+        <br />
+        <br />
+        Two of the most significant features of MaplePrimes are moderated forums and weblogs
+        (blogs).
+        <br />
+        <br />
+        <br />
+        <br />
+        The <a href="http://beta.mapleprimes.com/forum">forums</a> function much like <a href="http://groups-beta.google.com/group/comp.soft-sys.math.maple">comp.soft-sys.math.maple</a> and
+        other public Maple forums, where people can post their questions and have them answered
+        by the community. The difference is that the MaplePrimes forums will be monitored
+        and moderated by Maplesoft selected community members. And for questions that the
+        user community cannot answer, Maplesoft developers will be there to help as well.<br />
+        <br />
+        <br />
+        <br />
+        The <a href="http://beta.mapleprimes.com/blog">blogs</a> allow any user to share their
+        experiences with Maple and mathematics. MaplePrimes provides a place where like minded
+        people can show off their latest findings, share Maple procedures or chat about their
+        favorite theorems.
+        <br />
+        <br />
+        <br />
+        <br />
+        Throughout the site many special features are available. The most interesting is the
+        ability to <a href="http://beta.mapleprimes.com/about/posting/mathoverview">post mathematics</a> in
+        2D notation like you would find in a textbook. It is as easy as either entering MathML
+        or the Maple syntax for the math you want to appear.<br />
+        <br />
+        <br />
+        <br />
+        Overall, we would like MaplePrimes to become the first complete Mathematical portal.
+        MaplePrimes should allow anyone with any Math knowledge get help and share what they
+        find. We have a number of ideas in development that will add to this.<br />
+        <br />
+        <br />
+        <br />
+        Please go and check it out at <a href="http://beta.mapleprimes.com">http://beta.mapleprimes.com</a>.
+        I hope that you will find the site to be very useful and come back to visit often.
+        </p>
+        <img width="0" height="0" src="http://spaetzel.com/aggbug.ashx?id=525" />

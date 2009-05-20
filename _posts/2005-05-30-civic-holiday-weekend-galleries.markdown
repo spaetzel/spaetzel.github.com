@@ -1,0 +1,20 @@
+--- 
+wordpress_id: 223
+title: Civic Holiday Weekend Galleries
+wordpress_url: http://spaetzel.com/PermaLink,guid,163.aspx
+layout: post
+---
+<div id="thumb">
+        <cpg_albumthumb>
+        13|1
+        </cpg_albumthumb>
+        </div>
+        <br />
+        <div id="thumb">
+        <cpg_albumthumb>
+        14|1
+        </cpg_albumthumb>
+        </div>
+        <br />
+        Take a look at the galleries from my wonderful trip. As I said before, I had a wonderful
+        time. And I can't wait to do it again!<img width="0" height="0" src="http://spaetzel.com/aggbug.ashx?id=163" />

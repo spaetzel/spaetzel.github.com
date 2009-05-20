@@ -1,0 +1,13 @@
+--- 
+wordpress_id: 187
+title: So Bright
+wordpress_url: http://spaetzel.com/PermaLink,guid,133.aspx
+layout: post
+---
+I've walked past these amazing flowers a bunch of times. Today they were quite the contrast from the noisy, ugly construction that is going on down my street today.<br />
+        <p id="photo">
+        <br />
+        <a href="../photos/Edited/So Bright_l.jpg"><img src="../photos/Edited/So%20Bright_m.jpg"></a>
+        <br />
+        </p>
+        <img width="0" height="0" src="http://spaetzel.com/aggbug.ashx?id=133" />

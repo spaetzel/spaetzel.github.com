@@ -1,0 +1,12 @@
+--- 
+wordpress_id: 541
+title: Sorry all
+wordpress_url: http://spaetzel.com/PermaLink,guid,454.aspx
+layout: post
+---
+I don't know why. But I just haven't been updating the site lately.
+        I blame it on the weird weather lately.
+        Friday was beautiful, but for the 1/2 hour that I was outside I was on my way to a meeting, no time to stop and look at the beautiful weather and take a photo.
+        The weekend has been very dreary too (Though I spent a lot of time looking at one thing that is rather beautiful last night)
+        Fingers crossed it'll be nice tommorow and I'll get back into the grind.
+        All my midterms are now over, great feeling.  The big project lately has been and will be for a while my CS307 Assignment, Implementing the board game, "The Settlers of Catan" It should be good. I may even post the final product up here once its all said and done!<img width="0" height="0" src="http://spaetzel.com/aggbug.ashx?id=454" />

@@ -1,0 +1,9 @@
+--- 
+wordpress_id: 244
+title: Some bizzare tv spots
+wordpress_url: http://spaetzel.com/PermaLink,guid,449.aspx
+layout: post
+---
+<a title="Turnpike Films: Spots" href="http://www.turnpikefilms.com/spots.html">Turnpike
+        Films: Spots</a> Take a look at these ads, a couple of them are repettitive, but the
+        others are either hillarious or weird. Give theme a look. You'll be pleased.<img width="0" height="0" src="http://spaetzel.com/aggbug.ashx?id=449" />

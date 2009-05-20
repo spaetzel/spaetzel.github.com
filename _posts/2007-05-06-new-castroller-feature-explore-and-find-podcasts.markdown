@@ -1,0 +1,46 @@
+--- 
+wordpress_id: 31
+title: "New CastRoller Feature: Explore and Find Podcasts"
+wordpress_url: http://spaetzel.com/PermaLink,guid,625.aspx
+layout: post
+---
+<p>
+        <a href="http://castroller.com/explore"><img src="http://castroller.com/images/findpodcasts.png" align="right" border="0"></a> Last
+        week, we published a new feature to <a href="http://castroller.com">CastRoller</a>,
+        the explore page. This is a page on <a href="http://castroller.com">CastRoller</a> that
+        contains many features that help you to find new podcasts to listen and subscribe
+        to on <a href="http://castroller.com">CastRoller</a>.
+        </p>
+        <p>
+        First, there is a list of categories. You can click on each of the categories to find
+        podcasts that are related to that category. If you find any podcasts that you think
+        belong in these categories, just use the category name to tag the podcast; that podcast
+        will then appear in the category.
+        </p>
+        <p>
+        Next, is&nbsp;a feature everyone saw coming, the <a href="http://castroller.com/top">most
+        popular podcasts</a> on <a href="http://castroller.com">CastRoller</a>. This is a
+        list of the podcasts that have the most subscribers on <a href="http://castroller.com">CastRoller</a>.
+        This is a good way to see what is popular with everyone. You can even keep up to date
+        with this list by subscribing to <a href="http://castroller.com/top/feed">its feed.</a>
+        </p>
+        <p>
+        <a title="Photo Sharing" href="http://www.flickr.com/photos/redune/487207588/"><img height="180" alt="mydesktop" src="http://farm1.static.flickr.com/191/487207588_7af58fe9b5_m.jpg" width="240" align="left" border="0"></a>In
+        addition to the top podcasts, there is a list of random users of <a href="http://castroller.com">CastRoller</a>.
+        You can click on any of these people's names to see what podcasts they have subscribed
+        to and how they have tagged them. You may find someone with similar interests to yourself.
+        </p>
+        <p>
+        Lastly, is a cool new feature that may not be too useful, but it is quite cool, <a href="http://castroller.com/explore/logos/">Explore
+        by Podcast logos</a>. This feature displays a selection of random podcast logos on
+        one page. At a glance, you can see the logos for many different podcasts. Click on
+        a logo that interests you and you might find a podcast that you will love.
+        </p>
+        <p>
+        Also, as you can see in the screenshot on the left, you can set the podcast logos
+        to be your wallpaper. <a href="http://castroller.com/help/logopaper">Click here to
+        read</a> about how you can do that. It just takes a few clicks, and you will then
+        have a constantly updated desktop wallpaper full of cool new podcasts for you to discover
+        and enjoy.
+        </p>
+        <img width="0" height="0" src="http://spaetzel.com/aggbug.ashx?id=625" />

@@ -1,0 +1,16 @@
+--- 
+wordpress_id: 159
+title: Glowing
+wordpress_url: http://spaetzel.com/PermaLink,guid,137.aspx
+layout: post
+---
+I had  a pretty good time at the first day of MSW. Some of the talks were interesting. Some were kind of hard to handle.  Some were mind numbing... The banquet after was very nice too. Though Laurier's wine sure leaves a lot to desire.<br />
+        <br />
+        The Bricker Academic Building is very cool looking, there is this light in the ceiling
+        of the 2nd floor that is visible from the ground floor. Very cool.<br />
+        <p align=center id="photo">
+        <br />
+        <a href="../photos/Edited/Glowing_l.jpg"><img src="../photos/Edited/Glowing_m.jpg"></a>
+        <br />
+        </p>
+        <img width="0" height="0" src="http://spaetzel.com/aggbug.ashx?id=137" />

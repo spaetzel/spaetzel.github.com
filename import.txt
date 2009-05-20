@@ -1,0 +1,1 @@
+ruby -r 'wordpress.rb' -e 'Jekyll::WordPress.process( "db", "user", "pass", "64.39.19.130")'

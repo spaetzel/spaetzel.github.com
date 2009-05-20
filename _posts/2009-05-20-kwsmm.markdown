@@ -1,6 +1,6 @@
 ---
 layout: post
-title: kwsmm : Kitchener-Waterloo Social Media Meetup
+title: kwsmm - Kitchener-Waterloo Social Media Meetup
 ---
 
 {{ page.title }}

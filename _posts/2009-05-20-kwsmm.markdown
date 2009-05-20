@@ -1,0 +1,9 @@
+---
+layout: post
+title: #kwsmm
+---
+
+{{ page.title }}
+===
+
+This is pretty much a post to ensure that the respostory is working correctly after [this issue](http://support.github.com/discussions/repos/800-page-not-rebuilding) was resolved.

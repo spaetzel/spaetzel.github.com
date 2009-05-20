@@ -3,19 +3,35 @@ layout: basic
 title: Social Web Developer
 ---
 
-
+<div id="top">
 <h1>Will Spaetzel</h2>
 <h2>Social Web Developer</h2>
 
 <p>I build web communities to take advantage of the social web.</p>
+</div>
 
 <div id="home">
+	<div>
   <h1>Blog Posts</h1>
   <ul class="posts">
     {% for post in site.posts %}
-      <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
+      <li><a href="{{ post.url }}">{{ post.title }}</a><br/><span>{{ post.date | date_to_string }}</span></li>
     {% endfor %}
   </ul>
+  </div>
+  <div>
+	<h1>My Projects</h1>
+	<ul>	
+		<li><a href="http://castroller.com">CastRoller</a><br/><span>The best way to find and enjoy podcasts on the web</span></li>
+		<li><a href="http://friendreader.net">FriendReader</a><br/><span>A Google Reader style interface for FriendFeed</span></li>
+		<li><a href="http://flickropml.spaetzel.com">Flickr OPML Generator</a><br/><span>Get an OPML file for all of your Flickr Contacts</span></li>
+	</ul>
+  </div>
+   <div>
+	<h1>Elsewhere</h1>
+<script type="text/javascript" src="http://friendfeed.com/embed/widget/spaetzel?v=3&amp;hide_logo=1&amp;hide_comments_likes=1&amp;hide_subscribe=1"></script><noscript><a href="http://friendfeed.com/spaetzel"><img alt="View my FriendFeed" style="border:0;" src="http://friendfeed.com/embed/widget/spaetzel?v=3&amp;hide_logo=1&amp;hide_comments_likes=1&amp;hide_subscribe=1&amp;format=png"/></a></noscript>
+  </div>
+  <br class="clear"/>
   
 
 </div>

@@ -57,16 +57,16 @@ table {
 /*
 /*****************************************************************************/
 
-ul.posts {
+ul.posts, #home ul{
   list-style-type: none;
   margin-bottom: 2em;
 }
 
-  ul.posts li {
+  ul.posts li , , #home ul li{
     line-height: 1.75em;
   }
 
-  ul.posts span {
+  ul.posts span, #home ul span {
     color: #aaa;
     font-family: Monaco, "Courier New", monospace;
     font-size: 80%;
@@ -81,7 +81,7 @@ ul.posts {
 .site {
   font-size: 110%;
   text-align: justify;
-  width: 40em;
+  width: 60em;
   margin: 3em auto 2em auto;
   line-height: 1.5em;
 }
@@ -195,3 +195,33 @@ ul.posts {
   #related h2 {
     margin-bottom: 1em;
   }
+  
+  #top
+  {
+  text-align: center;
+ }
+ 
+ #top h1
+ {
+	font-size: 30px;
+	}
+	
+#home div
+{
+	float: left;
+	width: 30%;
+	text-align: left;
+	margin-left: 25px;
+	
+
+}
+
+.clear
+{
+	clear: both;
+}
+
+#friendfeed.widget
+{
+	border: none !important;
+}

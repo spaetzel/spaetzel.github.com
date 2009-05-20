@@ -14,7 +14,7 @@ title: Social Web Developer
 	<div>
   <h1>Blog Posts</h1>
   <ul class="posts">
-    {% for post in site.posts %}
+    {% for post in site.posts limit:10 %}
       <li><a href="{{ post.url }}">{{ post.title }}</a><br/><span>{{ post.date | date_to_string }}</span></li>
     {% endfor %}
   </ul>

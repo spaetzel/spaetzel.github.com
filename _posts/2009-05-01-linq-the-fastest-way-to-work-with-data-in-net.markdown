@@ -1,5 +1,5 @@
 ---
-title: LINQ\: The fastest way to work with data in .net
+title: LINQ The fastest way to work with data in .net
 layout: post
 ---
 

@@ -51,11 +51,8 @@ Now, what if you wanted to store both the original number and the multiplied num
 
 {% highlight c# %}
     var linqResult = from curNumber in numbers
-
                     where curNumber > 5
-
                     select new { Original = curNumber,
-
                                       Multiplied = curNumber * 2 };
 {% endhighlight %}
 

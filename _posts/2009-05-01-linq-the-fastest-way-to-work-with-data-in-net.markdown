@@ -7,8 +7,8 @@ layout: post
 The feature that excited me the most in [.net 3.5](http://msdn.microsoft.com/en-us/netframework/default.aspx) was [LINQ](http://msdn.microsoft.com/en-us/netframework/aa904594.aspx). LINQ stands for <a class="zem_slink" href="http://en.wikipedia.org/wiki/Language_Integrated_Query" title="Language Integrated Query" rel="wikipedia">Language INtegrated Query</a>. And it pretty much lets you use a SQL like syntax to work with any data source directly in your code. You get full Intellisense and Complier support, so you don't have to worry about syntax errors like you would in SQL. 
 
 It is easier to explain with some code. First, let's create a list of numbers.
-    
-    List<int> numbers = new List<int>{1, 2, 3, 4, 5, 6, 7, 9, 10};
+    {% highlight c# %}
+    List<int> numbers = new List<int>{1, 2, 3, 4, 5, 6, 7, 9, 10};{% endhighlight %}
 
 Let's say that you want to get all of the numbers that are greater than 5. Previously, you would probably have done this with a foreach loop:
     

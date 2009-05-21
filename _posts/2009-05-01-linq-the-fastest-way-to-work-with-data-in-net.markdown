@@ -1,5 +1,6 @@
----
-title: LINQ The fastest way to work with data in .net
+--- 
+wordpress_id: 578
+title: LINQ - The Fastest Way to Work with Data in .net
 layout: post
 ---
 

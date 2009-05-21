@@ -6,8 +6,6 @@ title: kwsmm - Kitchener-Waterloo Social Media Meetup
 {{ page.title }}
 ===
 
-Iam at the meetup
-
 Tonight is the [first meetup](http://www.meetup.com/KW-SocialMedia/calendar/10276730) from the [Social Media Meetup Group](http://www.meetup.com/KW-SocialMedia/)
 that I started in the Kitchener-Waterloo area.
 

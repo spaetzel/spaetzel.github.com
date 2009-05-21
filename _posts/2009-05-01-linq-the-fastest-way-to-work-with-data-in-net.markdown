@@ -1,9 +1,9 @@
 ---
-wordpress_id: 594
-title: "LINQ: The fastest way to work with data in .net"
-wordpress_url: http://spaetzel.com/?p=594
+title: LINQ: The fastest way to work with data in .net
 layout: post
 ---
+
+
 The feature that excited me the most in [.net 3.5](http://msdn.microsoft.com/en-us/netframework/default.aspx) was [LINQ](http://msdn.microsoft.com/en-us/netframework/aa904594.aspx). LINQ stands for <a class="zem_slink" href="http://en.wikipedia.org/wiki/Language_Integrated_Query" title="Language Integrated Query" rel="wikipedia">Language INtegrated Query</a>. And it pretty much lets you use a SQL like syntax to work with any data source directly in your code. You get full Intellisense and Complier support, so you don't have to worry about syntax errors like you would in SQL. 
 
 It is easier to explain with some code. First, let's create a list of numbers.

@@ -1,4 +1,4 @@
---- 
+---
 wordpress_id: 594
 title: "LINQ: The fastest way to work with data in .net"
 wordpress_url: http://spaetzel.com/?p=594
@@ -42,12 +42,4 @@ Now, what if you wanted to store both the original number and the multiplied num
 
 You will get back an IEnumberable back of what is called an anonymous type. Think of the select as the same as selects in SQL. LINQ allows you do decide what to return and how to format it.
 
-In a future post, I'll show you how to connect LINQ to your SQL database to start working with some really powerful features.
-
-
-
-
-
-
-
-<div style="margin-top: 10px; height: 15px;" class="zemanta-pixie"><a class="zemanta-pixie-a" href="http://reblog.zemanta.com/zemified/366ffdbc-0e75-47c0-aa6b-63287c6dfc04/" title="Reblog this post [with Zemanta]"><img style="border: medium none ; float: right;" class="zemanta-pixie-img" src="http://img.zemanta.com/reblog_e.png?x-id=366ffdbc-0e75-47c0-aa6b-63287c6dfc04" alt="Reblog this post [with Zemanta]"></a><span class="zem-script more-related pretty-attribution"><script type="text/javascript" src="http://static.zemanta.com/readside/loader.js" defer="defer"></script></span></div>
+In a future post, I'll show you how to connect LINQ to your SQL database to start working with some really powerful features.

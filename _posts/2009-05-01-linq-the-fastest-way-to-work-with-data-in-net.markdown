@@ -1,6 +1,5 @@
 --- 
-wordpress_id: 578
-title: LINQ - The Fastest Way to Work with Data in .net
+title: LINQ
 layout: post
 ---
 

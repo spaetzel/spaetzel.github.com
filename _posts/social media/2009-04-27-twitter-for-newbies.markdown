@@ -41,7 +41,4 @@ Remember, that Twitter is a place for conversation. Post Tweets that other peopl
 
 This post is just an introduction to Twitter, I hope that this advice will help you to get up and running on Twitter quickly; and that you will be able to get a lot out the site right away. I have more ideas about best practices for Twitter and hope to post some of them in the future.
 
-*Update*: My friend, [Carolyn Marshall](http://karolijn.ca) has put a great post on ["Why Twitter?"](http://karolijn.ca/why-twitter/). 
-
-
-<div style="margin-top: 10px; height: 15px;" class="zemanta-pixie"><a class="zemanta-pixie-a" href="http://reblog.zemanta.com/zemified/39e70b39-0c38-428e-9c90-425feef46096/" title="Reblog this post [with Zemanta]"><img style="border: medium none ; float: right;" class="zemanta-pixie-img" src="http://img.zemanta.com/reblog_e.png?x-id=39e70b39-0c38-428e-9c90-425feef46096" alt="Reblog this post [with Zemanta]"></a><span class="zem-script more-related pretty-attribution"><script type="text/javascript" src="http://static.zemanta.com/readside/loader.js" defer="defer"></script></span></div>
+*Update*: My friend, [Carolyn Marshall](http://karolijn.ca) has put a great post on ["Why Twitter?"](http://karolijn.ca/why-twitter/). 

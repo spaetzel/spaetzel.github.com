@@ -23,13 +23,13 @@ that determines the popularity of each application.
 <p align="center"><img src="http://www.maplesoft.com/view.aspx?SI=19253/0/images/RankingDocuments_23.gif"/></p>
 
 As you can see, the popularity score is divided by the number of days since the application was published. This is because 
-we want newer applications to be weighted much higher. However, great older applications can continue to recieve a high 
+we want newer applications to be weighted much higher. However, great older applications can continue to receive a high 
 popularity score as well. 
 
 Great applications will get a large number of high ratings from users. And of course, will continue to be viewed and downloaded.
 So their popularity value continues to stay high. While applications with low ratings or few downloads will have their score drop off.
 
-We've found that this method is doign a great job of bringing the best applications to the top of the list. As the new 
+We've found that this method is doing a great job of bringing the best applications to the top of the list. As the new 
 [application center][appcenter] grows in usage, we are taking in great feedback on how we can continue to improve this
 algorithm.
 

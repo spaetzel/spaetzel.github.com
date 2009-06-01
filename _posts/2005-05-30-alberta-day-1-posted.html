@@ -1,0 +1,28 @@
+--- 
+wordpress_id: 167
+title: Alberta Day 1 Posted
+wordpress_url: http://spaetzel.com/PermaLink,guid,8.aspx
+layout: post
+---
+<a href="http://www.flickr.com/photos/redune/4226131/" title="photo sharing"><img src="http://photos3.flickr.com/4226131_cff63ece57_m.jpg" alt="" style="border: solid 2px #000000;" /></a>
+        <br />
+        <br />
+        <br />
+        <span style="font-size: 0.9em; margin-top: 0px;"><a href="http://www.flickr.com/photos/redune/4226131/">Demon
+        Mask</a>
+        <br />
+        <br />
+        <br />
+        Originally uploaded by <a href="http://www.flickr.com/people/redune/">redune</a>.<br />
+        </span>
+        <br />
+        <p style="">
+        I just <a href="http://www.flickr.com/photos/redune/archives/date-taken/2003/08/04/">posted </a> to
+        Flickr, the first full day of my family's vacation to Alberta.<br />
+        <br />
+        <br />
+        <br />
+        Included is a trip to the top of the Calgary Tower, A trip through the Glenbow Museum,
+        and wandering around Calgary.
+        </p>
+        <img width="0" height="0" src="http://spaetzel.com/aggbug.ashx?id=8" />

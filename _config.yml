@@ -1,3 +1,3 @@
 #markdown: rdiscount
 pygments: true
-auto: true
+auto: false

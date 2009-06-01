@@ -18,6 +18,6 @@ Here are the statistics available for us to use to calculate the popularity:
 - nr - The number of times the application has been rated
 - days - The number of days since the application was published
 
-
+The most va
 
 [appcenter]: http://www.maplesoft.com/applictions "Application Center"

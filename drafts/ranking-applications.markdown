@@ -2,6 +2,10 @@
 title: Ranking Applications in the new Application Center
 ---
 
+We [launched](http://www.maplesoft.com/blog/view.aspx?sid=19336) the new [application center][appcenter] on April 2, 2009. 
+This update made is easier to find great content for both [Maple][maple] and 
+[MapleSim](http://www.maplesoft.com/products/maplesim). 
+
 With the new [application center][appcenter], the number one goal is to make sure that our users see the best content. 
 On many pages, including the [home page][appcenter], the [MapleSim content page](http://www.maplesoft.com/applications/maplesim)
 and the [Tips & Techniques](http://www.maplesoft.com/applications/tipsandtechniques), our editors can control the 
@@ -17,10 +21,15 @@ Here are the statistics available for us to use to calculate the popularity:
 - nr - The number of times the application has been rated
 - days - The number of days since the application was published
 
-In [this application](http://www.maplesoft.com/applications/popularity.aspx) we use those statistics to create a function
-that determines the popularity of each application.
+I used [Maple][maple] to take these statistics and create a function that will calculate a popularity score for each application. 
+Maple's embedded components made it easy to experiment with various functions and see how the popularity value changed as I modified each of 
+the relevant statistics. [This application](http://www.maplesoft.com/applications/popularity.aspx) is the document that I used to create the 
+popularity function:
 
 <p align="center"><img src="http://www.maplesoft.com/view.aspx?SI=19253/0/images/RankingDocuments_23.gif"/></p>
+
+You can open the document in Maple and experiment with the embedded components to see how the popularity score changes as you modify the
+values such as average rating, number of downloads and age. The values are updated in real-time as you work with the components. 
 
 As you can see, the popularity score is divided by the number of days since the application was published. This is because 
 we want newer applications to be weighted much higher. However, great older applications can continue to receive a high 
@@ -35,3 +44,4 @@ algorithm.
 
 
 [appcenter]: http://www.maplesoft.com/applications "Application Center"
+[maple]: http://www.maplesoft.com/products/Maple "Maple"

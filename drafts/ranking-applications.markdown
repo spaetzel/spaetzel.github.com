@@ -4,12 +4,10 @@ title: Ranking Applications in the new Application Center
 
 We [launched](http://www.maplesoft.com/blog/view.aspx?sid=19336) the new [application center][appcenter] on April 2, 2009. 
 This update made is easier to find great content for both [Maple][maple] and 
-[MapleSim](http://www.maplesoft.com/products/maplesim). 
-
-With the new [application center][appcenter], the number one goal is to make sure that our users see the best content. 
+[MapleSim](http://www.maplesoft.com/products/maplesim). We wish to make sure that all pages list the best applications first. 
 On many pages, including the [home page][appcenter], the [MapleSim content page](http://www.maplesoft.com/applications/maplesim)
 and the [Tips & Techniques](http://www.maplesoft.com/applications/tipsandtechniques), our editors can control the 
-ordering of the applications, but with almost 2000 applications, editor's cannot rank all of the applications.
+ordering of the applications, but with almost 2000 applications, editors cannot rank all of the applications by hand.
 
 Fortunately, by simply using the Application Center, our users have helped to rank all of the rest of the applications. 
 We can use the statistics such as page views, downloads and user rating to calculate the "popularity" of applications.

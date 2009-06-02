@@ -3,7 +3,7 @@ title: Ranking Applications in the new Application Center
 ---
 
 We [launched](http://www.maplesoft.com/blog/view.aspx?sid=19336) the new [application center][appcenter] on April 2, 2009. 
-This update made is easier to find great content for both [Maple][maple] and 
+This new version of the already popular application center made is easier to find great content for both [Maple][maple] and 
 [MapleSim](http://www.maplesoft.com/products/maplesim). We wish to make sure that all pages list the best applications first. 
 On many pages, including the [home page][appcenter], the [MapleSim content page](http://www.maplesoft.com/applications/maplesim)
 and the [Tips & Techniques](http://www.maplesoft.com/applications/tipsandtechniques), our editors can control the 

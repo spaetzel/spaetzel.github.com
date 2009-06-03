@@ -20,7 +20,7 @@ The evening started with people giving their first pitches, hoping to get a turn
 
 After the attendees voted on what they would like to see. The presentations began in order of who recieved the most votes.
 
-[Ultrasaur RM](ultrasaur.us)
+[Ultrasaur RM](http://ultrasaur.us)
 ===
 The first demo, Ultrasaur is a service to audit changes made to files on a computer. The pitch is protecting companies against crooked system administrators. 
 
@@ -31,7 +31,7 @@ This looks like an interesting idea. My take away is that I still believe that i
 
 
 
-[ThinkPanda](thinkpanda.com)
+[ThinkPanda](http://thinkpanda.com)
 ===
 The founders call this a tool to solve "information overload". Basically it is a tool that lets you collect hyperlinks and add comments to the links. Links can be 
 collected into "Streams" that can have multiple collaborators. 
@@ -45,7 +45,7 @@ They presented an iPhone game called ThreadBound which Side scroller/puzzle game
 so they can make money off the game. 
 
 
-[Kaimera Media Inc.](kaimeramedia.com)
+[Kaimera Media Inc.](http://kaimeramedia.com)
 ===
 
 This was more of an idea than a product. The founder wants to create a system that automatically films events like rides on roller coasters and then gives people the

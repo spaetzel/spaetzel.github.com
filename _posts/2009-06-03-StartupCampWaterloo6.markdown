@@ -3,7 +3,8 @@ title: StartupCampWaterloo6
 layout: post
 ---
 
-I continued my unbroken attendance to StartupCampWaterloo last night. As alsways, it was a great turnout. It seems like a younger croud with less familiar faces than normal, but still a good crew. 
+I continued my unbroken attendance to StartupCampWaterloo last night. As always, it was a great turnout. 
+It seems like a younger croud with less familiar faces than normal, but still a good crew. 
 
 The evening started with people giving their first pitches, hoping to get a turn to present. Here were the pictches:
 

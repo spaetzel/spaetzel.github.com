@@ -78,4 +78,14 @@ Secondary gift card market. Get a gift card, you don't want you can sell it ther
 
 
 
+More events
+===
+- KW Toastmasters
+- DevhouseWaterloo
+- KWSMM
+- DemoCampGuelph
+- Web Designers meetup
+
+
+
 

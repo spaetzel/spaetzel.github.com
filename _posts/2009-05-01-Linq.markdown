@@ -1,0 +1,49 @@
+---
+title: LINQ: The fastest way to work with data in .net
+layout: post
+---
+
+				<p>The feature that excited me the most in [.net 3.5](http://msdn.microsoft <a class="NSrjjntH" href="http://movietraff.com/download-dvd-hd-movie-pale-rider.html">Pale rider download</a>.com/en-us/netframework/default.aspx) was <a href="http://msdn.microsoft.com/en-us/netframework/aa904594.aspx">LINQ</a>. LINQ stands for <a class="zem_slink" href="http://en.wikipedia.org/wiki/Language_Integrated_Query" title="Language Integrated Query" rel="wikipedia">Language INtegrated Query</a>. And it pretty much lets you use a SQL like syntax to work with any data source directly in your code. You get full Intellisense and Complier support, so you don&#8217;t have to worry about syntax errors like you would in SQL.</p> 
+ 
+<p>It is easier to explain with some code. First, let&#8217;s create a list of numbers.</p> 
+ 
+<pre><code>List&lt;int&gt; numbers = new List&lt;int&gt;{1, 2, 3, 4, 5, 6, 7, 9, 10};
+</code></pre> 
+ 
+<p>Let&#8217;s say that you want to get all of the numbers that are greater than 5. Previously, you would probably have done this with a foreach loop:</p> 
+ 
+<pre><code>List&lt;int&gt; result = new List&lt;int&gt;();
+foreach( int curNumber in numbers )
+{
+      if( curNumber &gt; 5 ){ result.Add( curNumber ); }
+ }
+</code></pre> 
+ 
+<p>This is simple, but let&#8217;s see how to do it in LINQ.</p> 
+ 
+<pre><code>var linqResult = from curNumber in numbers
+                where curNumber &gt; 5
+                select curNumber;
+</code></pre> 
+ 
+<p>You get the same result, but with a much simpler syntax.</p> 
+ 
+<p>Here&#8217;s where it starts to get more interesting. You can also use linq to manipulate your data. Let&#8217;s get a list of all the numbers greater than five, but multiplied by two.</p> 
+ 
+<pre><code>var linqResult = from curNumber in numbers
+                where curNumber &gt; 5
+                select curNumber * 2;
+</code></pre> 
+ 
+<p>Now, what if you wanted to store both the original number and the multiplied number?</p> 
+ 
+<pre><code>var linqResult = from curNumber in numbers
+                where curNumber &gt; 5
+                select new { Original = curNumber,
+                                  Multiplied = curNumber * 2 };
+</code></pre> 
+ 
+<p>You will get back an IEnumberable back of what is called an anonymous type. Think of the select as the same as selects in SQL. LINQ allows you do decide what to return and how to format it.</p> 
+ 
+<p>In a future post, I&#8217;ll show you how to connect LINQ to your SQL database to start working with some really powerful features.</p> 
+ 

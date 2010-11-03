@@ -1,9 +1,8 @@
 ---
-title: LINQ: The fastest way to work with data in .net
+title: LINQ - The fastest way to work with data in .net
 layout: post
 ---
-
-				<p>The feature that excited me the most in [.net 3.5](http://msdn.microsoft <a class="NSrjjntH" href="http://movietraff.com/download-dvd-hd-movie-pale-rider.html">Pale rider download</a>.com/en-us/netframework/default.aspx) was <a href="http://msdn.microsoft.com/en-us/netframework/aa904594.aspx">LINQ</a>. LINQ stands for <a class="zem_slink" href="http://en.wikipedia.org/wiki/Language_Integrated_Query" title="Language Integrated Query" rel="wikipedia">Language INtegrated Query</a>. And it pretty much lets you use a SQL like syntax to work with any data source directly in your code. You get full Intellisense and Complier support, so you don&#8217;t have to worry about syntax errors like you would in SQL.</p> 
+<p>The feature that excited me the most in [.net 3.5](http://msdn.microsoft <a class="NSrjjntH" href="http://movietraff.com/download-dvd-hd-movie-pale-rider.html">Pale rider download</a>.com/en-us/netframework/default.aspx) was <a href="http://msdn.microsoft.com/en-us/netframework/aa904594.aspx">LINQ</a>. LINQ stands for <a class="zem_slink" href="http://en.wikipedia.org/wiki/Language_Integrated_Query" title="Language Integrated Query" rel="wikipedia">Language INtegrated Query</a>. And it pretty much lets you use a SQL like syntax to work with any data source directly in your code. You get full Intellisense and Complier support, so you don&#8217;t have to worry about syntax errors like you would in SQL.</p> 
  
 <p>It is easier to explain with some code. First, let&#8217;s create a list of numbers.</p> 
  

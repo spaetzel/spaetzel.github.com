@@ -1,5 +1,5 @@
 ---
-title: Twitter for Newbies: Or How to Tweet better than Oprah
+title: Twitter for Newbies Or How to Tweet better than Oprah
 layout: post
 ---
 

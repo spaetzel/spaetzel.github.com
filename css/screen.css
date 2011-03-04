@@ -16,6 +16,10 @@ img
 border: 0;
 }
 
+.profile{
+    margin-left: 10px;
+}
+
 html, body {
   height: 100%;
 }

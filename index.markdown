@@ -8,7 +8,7 @@ title: Social Web Developer
 <h2>Social Web Developer</h2>
 </div>
 <div>
-<a href="http://www.rannieturingan.com/events/podcamp-portraits-2011/img_3465-2/"><img src="images/photojunkie.jpg" align="right"/></a>
+<a href="http://www.rannieturingan.com/events/podcamp-portraits-2011/img_3465-2/"><img src="images/photojunkie.jpg" align="right" class="profile"/></a>
 
 <p>I'm Will Spaetzel, and I'm a [developer](http://github.com/spaetzel), [podcaster](http://blog.castroller.com) and [runner](http://www.dailymile.com/people/WilliamS)</p>
 

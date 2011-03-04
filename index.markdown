@@ -10,7 +10,7 @@ title: Social Web Developer
 <div>
 <a href="http://www.rannieturingan.com/events/podcamp-portraits-2011/img_3465-2/"><img src="images/photojunkie.jpg" align="right" class="profile"/></a>
 
-<p>I'm Will Spaetzel, and I'm a [developer](http://github.com/spaetzel), [podcaster](http://blog.castroller.com) and [runner](http://www.dailymile.com/people/WilliamS)</p>
+I'm Will Spaetzel, and I'm a [developer](http://github.com/spaetzel), [podcaster](http://blog.castroller.com) and [runner](http://www.dailymile.com/people/WilliamS)
 
  <p>My main project is working on [CastRoller](http://castroller.com), a tool to make it easier to enjoy audio and video podcasts online. I also produce a podcast
  for CastRoller, [The CastRoller Podcast](http://castroller.com/podcasts/CastRollerPodcast). I am currently training to run my second marathon, the [Ottawa Marathon](http://ncm.ca), 
@@ -40,6 +40,7 @@ title: Social Web Developer
 		<li><a href="http://github.com/spaetzel">Github</a></li>
 		<li><a href="http://stuff.spaetzel.com">Tumblr</a></li>
 		<li><a href="http://flickr.com/photos/redune">Flickr</a></li>
+        <li><a href="http://plancast.com/spaetzel">Plancast</a></li>
 	</ul>
   </div>
    <div>

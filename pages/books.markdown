@@ -18,7 +18,6 @@ These books are suggested by the book club at [Maplesoft](http://www.maplesoft.c
 - Never Grow Old by Brian Trent
 - Selene of Alexandria by Faith L. Justice
 - The Housekeeper and the Professor by Yoko Ogawa
-- Ender's Game by Orson Scott Card
 - Neuromancer by William Gibson
 - Cordelia's Honor by Lois McMaster Bujold
 - The Doomsday Book by Connie Willis
@@ -35,3 +34,4 @@ I really enjoyed these books and would recommend them to anyone
 
 - 2001: A Space Odyssey by Arthur C. Clarke
 - [Anathem](http://www.amazon.com/gp/product/0061474096?ie=UTF8&tag=redune07-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0061474096) by [Neil Stephenson](http://www.amazon.com/Neal-Stephenson/e/B000APS8L8?tag=redune07-20)
+- Ender's Game by Orson Scott Card

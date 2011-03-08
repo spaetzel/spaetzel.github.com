@@ -2,7 +2,8 @@
 title: Books to Read
 layout: post
 ---
-Maplesoft Suggestions
+## Maplesoft Suggestions
+
 - The Poisoner’s Handbook by Deborah Blum
 - Superman by Tom De Haven
 - The Gods Themselves by Isaac Asimov

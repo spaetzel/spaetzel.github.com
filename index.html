@@ -3,36 +3,104 @@ layout: basic
 title: Social Web Developer
 ---
 
-<div id="top">
-<h1>Will Spaetzel</h2>
-<h2>Social Web Developer</h2>
+<!-- Main hero unit for a primary marketing message or call to action -->
+      <div class="hero-unit">
+        <h1>Will Spaetzel</h1>
+        <p>Web Developer, Entrepenur, Podcaster and Runner</p>
+      </div>
 
-<p>I build web communities to take advantage of the social web.</p>
-</div>
-
-<div id="home">
-	<div>
-  <h1>Blog Posts</h1>
-  <ul class="posts">
-    {% for post in site.posts limit:6 %}
-      <li><a href="{{ post.url }}">{{ post.title }}</a><br/><span>{{ post.date | date_to_string }}</span></li>
-    {% endfor %}
-  </ul>
-  <a href="archives.html">Archives</a>
-  </div>
-  <div>
-	<h1>My Projects</h1>
-	<ul>	
-		<li><a href="http://castroller.com">CastRoller</a><br/><span>The best way to find and enjoy podcasts on the web</span></li>
-		<li><a href="http://friendreader.net">FriendReader</a><br/><span>A Google Reader style interface for FriendFeed</span></li>
-		<li><a href="http://flickropml.spaetzel.com">Flickr OPML Generator</a><br/><span>Get an OPML file for all of your Flickr Contacts</span></li>
-	</ul>
-  </div>
-   <div>
-	<h1>Elsewhere</h1>
-<script type="text/javascript" src="http://friendfeed.com/embed/widget/spaetzel?v=3&amp;hide_logo=1&amp;hide_comments_likes=1&amp;hide_subscribe=1"></script><noscript><a href="http://friendfeed.com/spaetzel"><img alt="View my FriendFeed" style="border:0;" src="http://friendfeed.com/embed/widget/spaetzel?v=3&amp;hide_logo=1&amp;hide_comments_likes=1&amp;hide_subscribe=1&amp;format=png"/></a></noscript>
-  </div>
-  <br class="clear"/>
-
-</div>
-  
+      <!-- Example row of columns -->
+      <div class="row">
+        <ul class="thumbnails">
+        <li class="span3">
+          <div class="thumbnail">
+            <img src="http://placehold.it/260x180" alt="">
+            <div class="caption">
+              <h5>Personal Blog</h5>
+              <p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
+              <p><a href="http://blog.spaetzel.com" class="btn btn-primary">Action</a> <a href="#" class="btn">Action</a></p>
+            </div>
+          </div>
+        </li>
+        <li class="span3">
+          <div class="thumbnail">
+            <img src="http://placehold.it/260x180" alt="">
+            <div class="caption">
+              <h5>CastRoller Blog & Podcast</h5>
+              <p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
+              <p><a href="#" class="btn btn-primary">Action</a> <a href="#" class="btn">Action</a></p>
+            </div>
+          </div>
+        </li>
+        <li class="span3">
+          <div class="thumbnail">
+            <img src="http://placehold.it/260x180" alt="">
+            <div class="caption">
+              <h5>CastRoller</h5>
+              <p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
+              <p><a href="#" class="btn btn-primary">Action</a> <a href="#" class="btn">Action</a></p>
+            </div>
+          </div>
+        </li>
+        <li class="span3">
+          <div class="thumbnail">
+            <img src="http://placehold.it/260x180" alt="">
+            <div class="caption">
+              <h5>The Geek Runner Podcast</h5>
+              <p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
+              <p><a href="#" class="btn btn-primary">Action</a> <a href="#" class="btn">Action</a></p>
+            </div>
+          </div>
+        </li>
+        <li class="span3">
+          <div class="thumbnail">
+            <img src="http://placehold.it/260x180" alt="">
+            <div class="caption">
+              <h5>WatCamp.com</h5>
+              <p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
+              <p><a href="#" class="btn btn-primary">Action</a> <a href="#" class="btn">Action</a></p>
+            </div>
+          </div>
+        </li>
+        <li class="span3">
+          <div class="thumbnail">
+            <img src="http://placehold.it/260x180" alt="">
+            <div class="caption">
+              <h5>dailymile Profile</h5>
+              <p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
+              <p><a href="#" class="btn btn-primary">Action</a> <a href="#" class="btn">Action</a></p>
+            </div>
+          </div>
+        </li>
+        <li class="span3">
+          <div class="thumbnail">
+            <img src="http://placehold.it/260x180" alt="">
+            <div class="caption">
+              <h5>Flickr Photos</h5>
+              <p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
+              <p><a href="#" class="btn btn-primary">Action</a> <a href="#" class="btn">Action</a></p>
+            </div>
+          </div>
+        </li>
+        <li class="span3">
+          <div class="thumbnail">
+            <img src="http://placehold.it/260x180" alt="">
+            <div class="caption">
+              <h5>Github Profile</h5>
+              <p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
+              <p><a href="#" class="btn btn-primary">Action</a> <a href="#" class="btn">Action</a></p>
+            </div>
+          </div>
+        </li>
+        <li class="span3">
+          <div class="thumbnail">
+            <img src="http://placehold.it/260x180" alt="">
+            <div class="caption">
+              <h5>Twitter</h5>
+              <p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
+              <p><a href="#" class="btn btn-primary">Action</a> <a href="#" class="btn">Action</a></p>
+            </div>
+          </div>
+        </li>
+      </ul>
+      </div>

@@ -1,0 +1,73 @@
+==================================================================
+https://keybase.io/spaetzel
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://spaetzel.com
+  * I am spaetzel (https://keybase.io/spaetzel) on keybase.
+  * I have a public key with fingerprint EB57 9C23 421F A6C8 E171  CDEC A754 E336 2CF9 6684
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "fingerprint": "eb579c23421fa6c8e171cdeca754e3362cf96684",
+            "host": "keybase.io",
+            "key_id": "a754e3362cf96684",
+            "kid": "01017eb6c304fe6206ecbba225502e88b5f7ef67b3b645a6e067b95a01f4d156f3f60a",
+            "uid": "b8163500d67777cdc364382301db6919",
+            "username": "spaetzel"
+        },
+        "service": {
+            "hostname": "spaetzel.com",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1428507047,
+    "expire_in": 157680000,
+    "prev": "8aff3accb7bc7fc799595c4e166dd6ac36d13f18d56b10b215d67049bea89b30",
+    "seqno": 6,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.8
+Comment: https://keybase.io/crypto
+
+yMM0AnicbVJrTBRXFAaklmfFgqYlgGXaStOsMHced2Y2VSGtQQhNu7TQItJ1Hndg
+eOyuu8vyEgwK2EihpRCyIvgg1sW+lEBrqhgLqJu4CNYqVaQPkAoloWwxMUqrdIa0
+f5qeP/eec77vu/c7ORdCV/gE+brevgN1D+UaX09/YrFPxosprgpMMEtlmL4CK0DL
+h6yYcpHVYlVMdkyPIYFmOJEgKQLIPBRZBBggSkjkGZpCJAkJUeYgZClMh+WZbRpD
+lRF4G4pXzGpNTYyKpFb/B1+w3MABDhgkQJHEKRlBAodIFASeIGgaJxDLCrTMIBky
+AilAiuYhwtU7R/M4kCkJ0FAmZYjzqlzxspzAAkjSOC5BRg1REklIkSxB4kASIAc4
+DWhDVhNfhFS0zcIjezkqxCp1mFp1KCLSRqA5+Q8iXjQXqVyL1Ww3i+ZCtZNnt1v0
+GtFeZtGQJUgw/qNhFBSTpI5RJTiQ1aaYTZgeqEjRrmiigCJYGmdwitFhqNSiWJFR
+0RA0A1lcDe0Z5FAlWV6WSV4UBUYQGVlkOI7maJFCAEJJgrzqTQKkDFiJhgLABQLQ
+qm2c4gTEs5xA4pjmaqfJjOmh+k0+V/Oj5Jp4e7EVYZUD/dv9fXyDfFY+4actgk9Q
+YNi/67G+Y9VjjH5/cX1jT2584MRYVlm1f2Om1x07lDyKYp+dJV5ylp0a3tcVP17b
+fDrqp1/OGJL+DJ9IuUKA9jbvwPz11R0ZU1Ehh36jxzdvjR/rz06Kk14GGcmfUs7g
+GmH2+r2+79emBST4Fvptead3xcLtnDRXQ0qDLfhhg817T+dbeq2OfP7ikTQlKzS8
+OuCW69Ln2z8+yx4Jyf6j8/fRlK+u7n/w+ETjoaE3PfDGQW99VEVaxoR9y7ddyQuD
+Xu+Bvam9T9YZbr03OGCYakxITnc9lb90P2wsf5Oh5Hxi50jVG7X8W22XAHGcaBov
+CT0a4V8wE2cdGeg5t7H8g1+vpXp2HdwMHsy4Wy72/zha7TQvrUmNtRT8sLN8OuJL
+qrl75Ou8PlfWZ7X7nu7LM05GHPirczI6bmHN2RPr9uh+dk5f/qggPGb4USzm2Naf
+WCZKM/V1jhsJxh3TsTnpxvPuiMzd7XepC7s3kjGG0i8uL06ebs+J1B/rfqZwqulm
+X2T2tsq7q/iAnnd3hczOf/iqeNjoaVkZM/96cOujT3RJXbPlIec2+QWePOppvtPa
+dCznhbmwDUVzxujg0ZM1UL96Q8TSd87maCzz6kjrHjo0kmkbDRx013dUoed2LHL2
+tadq6bG9Z1q6uyvd8z29wcM3X6kbcDvTE9kq/WvHtx4OyB8ivrl9f50jXJowtM5d
+0f0N+BuqNw==
+=D+//
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/spaetzel
+
+==================================================================
